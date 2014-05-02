@@ -1,0 +1,1 @@
+Drosophila Macrophage Jupiter GFP marking microtubules. Stills from a live-imaging time series. 9Z per stack (0.125 um step) exposure 10 ms at 31% 488 laser. Movie 10 time points taken at 30 sec intervals. 60x oil 1.42 NA. (Richard Parton. Davis Lab).

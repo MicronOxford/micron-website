@@ -1,0 +1,1 @@
+This is an image of a Drosophila macrophage stained with phalloidin coupled to Alexa Fluor 568 to visualise actin in red, an antibody against alpha-tubulin labelled with Alexa Fluor 488 in green and DAPI to visualise DNA in cyan. The cell was imaged in structured illumination mode on an OMX microscope. (Eva Wegel. Micron).

@@ -1,0 +1,41 @@
+#subnavigation
+{
+  width: 516px;
+}
+
+.instruments
+{
+  font-size: 12px;
+  letter-spacing: 0px;
+  line-height: 115%;
+}
+
+.instruments td
+{
+  width: 175px;
+  line-height: 150%;
+  vertical-align: top;
+  border: 8px solid #fff;
+}
+
+#imsuite
+{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+}
+
+#rightpanel ul
+{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: 0;
+}
+
+.sublist ul
+{
+  padding-left: 1em;
+  margin-left: 1em;
+  text-indent: 0;
+}

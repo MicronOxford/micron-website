@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+  <title>Micron Oxford Advanced Bioimaging: News and events page</title>
+  <meta name=description content="Micron Oxford News and Media">
+  <meta name=keywords content="Micron Oxford news events media outreach gallery Wellcome Trust">
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
+  <link rel="stylesheet" type="text/css" href="styles/micron_news.css" >
+  <link rel="icon" 
+      type="image/ico" 
+      href="images/Micron.ico" >
+</head>
+
+<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
+<body id="news">
+
+  <div id="container_all">
+
+    <!-- include html file containing header and navigation divs common to all pages -->
+    <!--#include file="micron_headnav.html"-->
+
+    <!-- navigation submenu for this page -->
+
+    <div id="mainbody"> 
+    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
+
+      <div id="leftpanel">
+
+        <h3>Outreach activities</h3>
+    
+        <p>We are committed to communicating our work to 
+           both the scientific community and the lay audience. For a Plain 
+           English description of our activities, please read more 
+           <a href="micron_about.shtml#plain_english"> About Us.</a>
+ 
+        <h4>Wytham Woods Exhibition</h4>
+        <p>Micron recently visited Wytham woods, near Oxford, to collect samples
+           for an exhibition in the Pitt Rivers natural history museum. More news
+           to follow.</p>
+        <!-- <img src="images/image.jpg" width="288" height="264"
+          alt="image" /> -->
+
+
+        <h3>Research Image Gallery</h3>
+
+        <a href="micron_gallery.php?image_no=5"><img src="images/gallerySnap.jpg" width="579" height="70"
+          alt="research image gallery" ></a>
+        
+        <h3>External news &amp; events</h3>
+        
+        <ul>
+          <li><a href="http://wellcometrust.wordpress.com/">the Wellcome Trust blog</a></li>
+        </ul>
+
+      </div>
+
+      <!-- News and events from twitter -->
+      <script src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
+      <div id="rightpanel">
+          <h3>News &amp; events</h3>
+        <!-- more News and events 002147 -->
+        <div id="newswidget">
+            <script type="text/javascript">
+            new TWTR.Widget({
+              version: 2,
+              type: 'profile',
+              rpp: 12,
+              interval: 30000,
+              title: 'News &amp; events',
+              subject: 'at Micron Oxford',
+              width: 280,
+              height: 600,
+              theme: {
+                shell: {
+                  background: '#002147',
+                  color: '#ffffff'
+                },
+                tweets: {
+                  background: '#ffffff',
+                  color: '#666',
+                  links: '#002147'
+                }
+              },
+              features: {
+                scrollbar: true,
+                loop: false,
+                live: true,
+                behavior: 'all'
+              }
+            }).render().setUser('MicronOxford').start();
+            </script>
+
+        </div>
+      </div>
+
+    </div>
+
+    <!-- include html file containing footer div common to all pages -->
+    <!--#include file="micron_footer.html"-->
+
+  </div>
+</body>
+</html>
+

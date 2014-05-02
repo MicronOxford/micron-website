@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html> 
+
+<head>
+  <title>Micron Oxford Advanced Bioimaging: Structured Illumination Microscopy</title>
+  <meta name=description content="Localization microscopy">
+  <meta name=keywords content="structured illumination super-resolution microscopy advanced bioimaging">
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
+  <link rel="icon" 
+      type="image/ico" 
+      href="images/MicronMu.ico" >
+      <!--#include file="analysistracking.html"-->
+</head>
+
+
+<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
+<body id="research">
+  <div id="container_all">
+
+    <!-- include html file containing header and navigation divs common to all pages -->
+    <!--#include file="micron_headnav.html"-->
+
+    <!-- no navigation submenu for this page -->
+
+    <div id="mainbody"> 
+    <!-- simple mainbody without subdivision into leftpanel / rightpanel -->
+
+    <h2>A Short Introduction to Super-Resolution Microscopy</h2>
+    <p>by J. Demmerle, C. Eggeling & L. Schermelleh</p>
+    <p>&nbsp;</p>
+    <p>The past decade has seen a number of exciting new fluorescence imaging techniques emerge, many of which fall under the umbrella of “Super-Resolution Microscopy” or optical “Nanoscopy”. There are many remaining challenges in the application of these methods to biological specimens as well as a lack of expertise and tools to evaluate the quality of the resulting data. At Micron Oxford, the Wolfson Imaging Centre Oxford and within the Nanoscopy Oxford (<a href="http://www2.bioch.ox.ac.uk/nanogroup/nano_home.php">NanO</a>) initiative, we work to advance these techniques and bridge the gap between complex technical developments and their biological application in order to make cutting-edge imaging available to researchers in Oxford and beyond.</p>
+    <p>If you are a novice in the field you may ask: What are the differences between the seemingly endless array of techniques and acronyms in the super-resolution field? What are the relative strengths and weaknesses of different approaches?  How would my research benefit? Which technique is most applicable for my question? In this introduction we will give a brief overview of the state of the field, and address some pros and cons of each method. </p>
+    <h4>The Limits of Focused Light</h4>
+    <p>Optical microscopy using focused light is one of the most versatile tools in a biologist’s arsenal, since it allows the observation of the interior of 3D preserved fixed or living cell with minimal perturbation. However, from its invention in the 17th century until a few decades ago its spatial resolution was constrained by a seemingly impenetrable barrier: the diffraction limit. Simply put, the minimal distance at which two adjacent objects can still be discerned equals the wavelength used to observe them divided by twice the numerical aperture (NA) of the microscope (the NA roughly expresses the focusing strength of the microscope’s objective lens). With visible light, the smallest practical wavelength is around 450 nm (blue emission), and the largest NA possible is around 1.4. Even with advances such as confocal microscopy and deconvolution algorithms, only biological structures separated by more than about 200 nm in the lateral dimension (x and y axis) could be discerned. Resolution along the axial dimension (z axis) is even lower, being limited to roughly the wavelength of the emitted light, or 500 nm at best. Further, these values are only theoretical limits under optimal optical conditions. The effective resolution for typical biological samples is significantly decreased due to distortions from the sample itself such as light scattering, out-of-focus blur, spherical aberration, and poor signal-to-noise ratios. </p>
+    <h4>Breaking the Diffraction Barrier – A Menagerie of Options</h4>
+    <p>Imaging with sub-diffraction spatial resolution was postulated in the early 20th century, and while significant theoretical advances were made starting in the late 70's, it was not before mid-90’s when – based on switching fluorescence emission on and off – the first approach for truly breaking (or rather circumventing) the diffraction barrier was postulated. Only in the last decade have these super-resolution technologies become available to the average researcher. These include: Structured Illumination Microscopy (SIM); targeted photoswitching microscopy such as Stimulated Emission Depletion (STED) or Reversible Switchable Optical Fluorescence Transition (RESOLFT) microscopy; and stochastic photoswitching microscopy such as (direct) Stochastic Optical Reconstruction Microscopy (d)STORM or (fluorescence) Photoactivated Localization Microscopy (f)PALM.  </p>
+    
+
+<h3>Using Moiré Interference: 3D-Structured Illumination Microscopy</h3>
+<p>Super-resolution 3D-structured illumination microscopy (3D-SIM) works by the interference of a high frequency three-dimensionally modulated illumination pattern with high frequency variations in the sample fluorescence. These two patterns interact and the resulting Moiré fringes contain otherwise non-resolvable structural information shifted to a lower frequency that can be imaged by the microscope. By computational post-processing the sample’s sub-diffraction resolutions structure can be algorithmically reconstructed. By having stripes in the z-axis and by including information from above and below the focal plane, axial resolution is also improved. In practical terms, a z-stack with 15 raw images per plane is acquired with a striped pattern shifted in 5 steps and rotated at 3 different angles. Reconstructed images are optically sectioned and assembled to 3D image stack (similar to confocal imaging). This enables imaging in the entire volume of a biological specimen, down to a depth of 10-20 µm. Using a conventional fluorescence read-out the resolution is still restricted by diffraction but improved by a factor of two compared to the classical diffraction limit. Often denoted non-linear or saturated SIM (SSIM) or parallelized RESOLFT microscopy, the combination  of the SIM principle with photoswitching (e.g. by using photoswitchable dyes or fluorescence saturation) can overcome this remaining barrier, but requires more complexity and images. </p>
+
+ <img class="researchimage" src="images/Fig_2_SIM.jpg"
+                    width="880" height="261" alt="Figure 1 SIM microscopy" title="Figure 1 SIM microscopy"> 
+                    
+                    <p><b>Resolution:</b> Lateral resolution of 100-130 nm dependent on the wavelength, and axial resolution 280-350 nm; i.e., a 2-fold improvement in lateral and axial directions, or an 8-fold volumetric improvement.</p>
+                    <p><b>Pros: </b>
+                    <ul class="researchlist">
+<li>•	SIM can be used with conventional fluorophores (e.g., DAPI, Alexa, ATTO, GFP, YFP, etc.)</li>
+<li>•	3D sectioning over 10 µm into a sample (ideal for cultured cells).</li>
+<li>•	Fast pattern generation (OMX Blaze) and rapid image collection (e.g., by using recently developed sCMOS cameras) enable very high imaging speed and are suitability for live-cell imaging.</li>
+<li>•	Fast recording of a large field-of-view (e.g. a whole cell).</li>
+</ul>
+</p>
+<p><b>Cons:</b>
+<ul class="researchlist"> 
+<li>•	Only moderate lateral resolution improvement compared to other methods.</li>
+<li>•	Particularly susceptible to artifacts caused by sample structure and preparation.</li>
+<li>•	Errors in system calibration and/or poor sample quality can severely compromise resolution.</li>
+</ul>
+</p>
+<p><b>Applications:</b>
+<ul class="researchlist"> 
+<li>•   Multicolor imaging of 3D structures with large field-of-view, e.g. cytoskeletal networks; centrosomes; nuclear organization within whole cells.</li>
+<li>•	Live-cell applications. </li>
+<li>•	Proper labeling contrast and meticulous optical aberration correction are of utmost importance.</li>
+</ul>
+
+</p>
+
+<h3>The Targeted (Photoswitching) Readout: STED Microscopy</h3>
+<p>Stimulated emission depletion (STED) microscopy was the first optical super-resolution microscopy technique that increased the spatial resolution of fluorescence microscopy by a large factor; in principle it can reach resolution at the molecular scale. For this purpose, STED microscopy uses stimulated emission to inhibit fluorescence emission at predefined sample coordinates such that adjacent features emit sequentially in time. In a typical STED microscopy implementation, a laser beam inducing stimulated emission and featuring at least one zero-intensity point is overlaid with a regularly focused excitation beam. Thus, the STED beam inhibits fluorescence emission everywhere but at the zero-intensity points, consequently confining the effective fluorescence signal to sub-diffraction dimensions. A common design is a doughnut-shaped focal intensity pattern of the STED beam. Scanning the co-aligned excitation and STED beams through the sample yields the final sub-diffraction resolution image, whereby the resolution can be adjusted by the intensity of the STED beam. Similarly, other fluorescence inhibition processes may be used to overcome the diffraction barrier, as long as two distinct transient states of fluorescence emission (e.g., a dark and a bright one) can be prepared. Examples include the shelving into metastable dark states in ground-state depletion (GSD) nanoscopy or the use of photoswitchable fluorescence markers in the generalized concept called RESOLFT. Meanwhile, STED/RESOLFT nanoscopy has addressed many questions in biology and its implementation has become simpler. </p>
+
+<img class="researchimage" src="images/Fig_3_STED.jpg"
+                    width="880" height="261" alt="Figure 2 STED microscopy" title="Figure 2 STED microscopy">       <p><b>Resolution:</b> The resolution is in principle unlimited. In practice the sophistication of the laser and the photophysical properties of the dyes set the limit. The best lateral spatial resolutions achieved experimentally so far were 5 nm in solid states, 20 nm in fixed samples, 30-50 nm in living cells, and around 60 nm in 3D applications. Current commercial setups achieve a lateral resolution of 50-80 nm with an axial resolution in the 500-800 nm range, equal to the conventional confocal axial resolution.</p>
+                    <p><b>Pros:</b>
+                    <ul class="researchlist"> 
+<li>•	“What you see is what you get”; no algorithms required.</li> 
+<li>•	High lateral resolution.</li> 
+<li>•	Can image over 20 µm deep into the sample.</li>
+<li>•	Can be combined with “conventional” confocal imaging modalities.</li>
+<li>•	Can be combined with single-molecule techniques such as fluorescence-correlation-spectroscopy (STED-FCS) to measure fast molecular dynamics.</li>
+<li>•	STED/RESOLFT currently provides the fastest sub-diffraction resolution recordings of small field of views.</li>
+</ul>
+</p>
+
+<p><b>Cons:</b>
+<ul class="researchlist">
+<li>•	So far, fluorophore options are limited: 2 colors only, and UV is not an option. </li>
+<li>•	STED requires high laser intensities energies, thus photobleaching/phototoxicity can be a problem – solution: RESOLFT uses much lower intensities.</li>
+<li>•	Speed scales with the scan size and can become relative slow for large field-of-views – solution: use of multiple zero-intensity points such as structured illumination (see SSIM, parallelized RESOLFT).</li>
+<li>•	Commercial instruments so far not optimal for 3D and live-cell imaging of larger objects.</li>
+</ul>
+</p>
+
+<p><b>Applications:</b>
+<ul class="researchlist"> 
+<li>•	Commercial instruments so far ideal for distinct structural features with little z-extension, e.g. vesicles; membranes; synaptic behavior.</li>
+<li>•	Bright labeling and the right choice of dyes are critical.</li>
+</ul>
+</p>
+<h3>The Stochastic Read-out: (d)STORM/(f)PALM </h3>
+    <p>STORM, dSTORM, PALM, fPALM, PALMIRA, SPDM, GSDIM, BaLM, SMACM, and PAINT are all included in this category. Using a conventional wide-field or TIRF light path, various strategies are used to collect fluorescence emissions from only a small fraction of the total fluorophores, which mark the structures of interest in any one image. Basically, using again photoswitching (or the preparation of two distinct transient states of fluorescence emission, e.g., a dark and a bright one) only a very small subset of all fluorescent labels (single isolated molecules) in the field-of-view are allowed to fluoresce at a time, leaving single isolated blurred spots when imaged with a camera. The spatial position of these single isolated molecules can be determined with sub-diffraction precision using single-molecule localization methods. Subsequently, a different subset is allowed to fluoresce only.  This is repeated thousands of times, and in post processing each fluorophore is assumed to represent the smallest possible object, as delineated by its point spread function (PSF). From these thousands of individual points, the full image can be assembled. For more details see <a href="localization-microscopy.shtml">Rainer Kaufmann’s section on localization microscopy</a>.
+    
+      <p>      
+      <p><img class="researchimage2" src="images/Fig_1_PALM.jpg"
+                    width="880" height="261" alt="Figure 3 PALM microscopy" title="Figure 3 PALM microscopy">   
+        
+      <p><b>Resolution:</b> The spatial resolution of the stochastic photoswitching is in principle unlimited, depending on the number of fluorescence photons detected per single molecule. Localization accuracy is typically around 20 nm (depending on the photon statistics), while structural resolution depends on the labeling density and can reach down to 50 nm laterally. The axial resolution is either unchanged (in conventional far-field) or 120-200 nm (in TIRF mode). Improvements to 50-80 nm axial localization accuracy are possible using special setups (e.g. biplane detection, astigmatism imaging, double-helix or double-objective setup), but at the price of reduced lateral resolution and increased complexity.</p>
+                    <p><b>Pros:</b>
+                    <ul class="researchlist">
+<li>•	High localization precision (< 20 nm).</li>
+<li>•	Quantification of single molecules (e.g., cluster analysis, single particle tracking).</li>
+<li>•	•	Excellent delineation of small, dim, punctate, or filamentous objects such as discrete macromolecular complexes. </li>
+<li>•	Relatively simple instrumentation. </li>
+</ul>
+</p>
+
+<p><b>Cons:</b>
+<ul class="researchlist"> 
+<li>•	Long imaging times (often in the tens of minutes).</li>
+<li>•	Usually requires special fluorophores and imaging media to realize photoswitching. </li>
+<li>•	Typically can image one plane only (no 3D sectioning).</li>
+<li>•	Works best with TIRF setup and with fixed samples.</li>
+<li>•	In TIRF, confinement of imaging to regions within few hundred nanometers of the coverslip (essentially limited to 2D structures).</li>
+<li>•	Image reconstruction process might introduce bias by missing molecules or counting them multiple times (e.g. cluster quantification).</li>
+</ul>
+</p>
+
+<p><b>Applications:</b> 
+<ul class="researchlist">
+<li>•   Imaging cell surface or distinct features with little z-extension. Particularly useful for: membranes; receptors; adhesion complexes; protein clustering and single particle tracking (sptSTORM).</li>
+<li>•	Imaging of dim structures such as clusters of few molecules.</li>
+<li>•	Successful imaging depends on the reconstruction algorithm and requires the right choice of dyes, embedding condition and high labeling density. </li>
+</ul>   		 
+</p>  
+<h4>It’s Both Better and Worse Than It Seems</h4>
+<p>Two things should always be kept in mind when considering the super-resolution options at one’s disposal. Firstly, the technology is constantly advancing, and some of the statements in this introduction may have become obsolete by the time you read it – for example, (d)STORM/(f)PALM techniques are experiencing rapid improvements at multi-channel acquisition and Z resolution, or STED setups are becoming less and less complex (due to, for example, advances in laser technology). Secondly, many of the resolutions and a few of the techniques cited are ceilings, achieved in highly specialized labs with custom-built systems that may not be practical for the average researcher. Most of the techniques discussed here are available commercially, but performance can vary, and getting the best from any of these techniques requires knowledge and experience.</p>
+
+<img class="researchimage" src="images/Fig_5.jpg"
+                    width="880" height="522" alt="Figure 4 PSFs" title="Figure 4 PSFs"> 
+
+<h4>Trade-offs – There’s No Free Lunch</h4>
+
+<p>You may be tempted to go and lobby for your very own super-resolution system immediately, but remember that there are many things to take into account. Resolution is only part of the equation - you may value multi-color imaging, in vivo observations, high-speed imaging, three-dimensional imaging, or low labeling intensities. Each priority comes with a compromise in another area, and the optimal technique will be entirely dependent on the specific demands of your experiment and how you want to spend your given photon budget.</p>
+
+
+<img src="images/Fig_4_SR.jpg" alt="Figure 5 Super-resolution microscopy trade-offs"
+                    width="880" height="261" align="absmiddle" class="researchimage" title="Figure 5 Super-resolution microscopy trade-offs">
+                    <h3>Getting Started!</h3>
+                    <p>Once you ensure these issues are resolved, you can proceed with acquiring fantastic images. Your best bet is to visit your institution’s imaging core and talk to the facility manager. If you are based at Oxford, then feel free to visit the Micron office in the basement of New Biochemistry or the Wolfson Imaging Centre Oxford at the WIMM (both part of the <a href="http://www2.bioch.ox.ac.uk/nanogroup/nano_home.php">NanO</a> initiative). If you are based at another institution, feel free to send us an email. The Micron team is well equipped to help you decide which technology is most suited to address your question, what reagents you may need, how to prepare the samples, and how to create suitable image acquisition and post-processing workflows. It may seem like a lot of work, but once you’re generating data and seeing structures at the sub-200 nm resolution, you’ll be hooked.  </p>
+             
+                    
+                    <h4>Further reading:</h4>
+                    <ul class="researchlist">
+                    
+                    <li>Hell, S. W. (2007) Far-field optical nanoscopy, Science 316, 1153–1158.</li>
+                     <li>Huang, B., Babcock, H., and Zhuang, X. (2010) Breaking the diffraction barrier: super-resolution imaging of cells, Cell 143, 1047–1058.</li>
+                     <li>Patterson, G., Davidson, M., Manley, S., and Lippincott-Schwartz, J. (2010) Superresolution imaging using single-molecule localization, Annu. Rev. Phys. Chem. 61, 345–367.</li>
+                      <li>Schermelleh, L., Heintzmann, R., and Leonhardt, H. (2010) A guide to super-resolution fluorescence microscopy., J Cell Biol 190, 165–175.</li>
+                      <li>Toomre, D., and Bewersdorf, J. (2010) A new wave of cellular imaging., Annu. Rev. Cell. Dev. Biol. 26, 285–314.</li>
+                      <li>Eggeling C., Willig, K. I., and Barrantes, F. J. (2013) STED microscopy of living cells – new frontiers in membrane and neurobiology, J. Neurochem. 10.1111/jnc.12243.</li>
+      </ul>
+
+</p>
+                    
+                    
+                    
+
+
+                    
+                    
+
+    </div>
+
+
+    <!-- include html file containing footer div common to all pages -->
+    <!--#include file="micron_footer.html"-->
+
+  </div>
+</body>
+
+
+</html>
+
