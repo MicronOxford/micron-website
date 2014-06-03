@@ -97,27 +97,11 @@
               alt="Spinnning Disc" title="Spinning Disc"/>
         <p></p>
         <ul>
-		   <li>
-	                    <a href="http://micronwiki.bioch.ox.ac.uk/wiki/UltraView_spinning_disk_(Barr)" target="_blank">Spinning Disc Wiki</a>
-                        	                </li>
-                
-		        
-		    
-		 	
-		        
-             
-	                <li>
-
-	                    <a href="http://www.perkinelmer.com/pages/020/cellularimaging/technologies/spinningdiskconfocal.xhtml" target="_blank">Perkin Elmer</a>
-            </li>
-                
-		        
-		    
-	                <li>
-	                    <a href="../resources/Nasmyth Ultraview spinning disk.pdf" target="_blank">Specifications</a>
-	                </li>
-		        
-        </ul>
+            <li><a href="../resources/Barr_Ultraview_Users_Manual.pdf" target="_blank">Users Manual</a></li>
+		   <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/UltraView_spinning_disk_(Barr)" target="_blank">Spinning Disc Wiki</a></li>
+           <li><a href="http://www.perkinelmer.com/pages/020/cellularimaging/technologies/spinningdiskconfocal.xhtml" target="_blank">Perkin Elmer</a></li>
+           <li><a href="../resources/Nasmyth Ultraview spinning disk.pdf" target="_blank">Specifications</a></li>
+	    </ul>
       </div>
 
     </div>
