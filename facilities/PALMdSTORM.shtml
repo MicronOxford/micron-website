@@ -98,9 +98,12 @@
 
       <div id="rightpanel">
         <a name="software">
-        <img id="dSTORM" src="images/PALM_thumb.jpg"  width="200" height="133"
-              alt="OMX V2 dSTORM" title="OMX V2 dSTORM"/>
+        <img id="dSTORM" src="images/PALM_thumb.jpg"  width="200" height="133" alt="OMX V2 dSTORM" title="OMX V2 dSTORM"/>
         <p></p>
+        <ul>
+        <li><a href="../resources/PALM_Microscope_Users_Manual.pdf" target="_blank">Users Manual</a></li>
+        <li><a href="../resources/PALM-TIRF_Users_Protocol.pdf" target="_blank">Users Protocol</a></li>
+        </ul>
         
       </div>
 
