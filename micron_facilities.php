@@ -104,7 +104,8 @@
             <td><a href="facilities/lightsheet.shtml"><img src="images/lightsheet_thumb.jpg"  
                   width="200" height="150" alt="mDSLM" title="Z1 Zeiss Light Sheet Microscope"></a>
             </td>
-            <td>
+            <td><a href="facilities/Olympuslive.shtml"><img src="images/FV1200_thumb.jpg"  
+                  width="200" height="150" alt="Live Cell Olympus" title="Live Cell / DNA damage Olympus"></a>
             </td>
           </tr>
           <tr>
@@ -114,7 +115,8 @@
             <td><p>Zeiss Z1 light sheet Microscope</p>
                 <a href="facilities/lightsheet.shtml">more information...</a>
             </td>
-            <td>
+            <td><p>Live Cell / DNA damage Olympus</p>
+                <a href="facilities/Olympuslive.shtml">more information...</a>
             </td>
           </tr>
         </table>
