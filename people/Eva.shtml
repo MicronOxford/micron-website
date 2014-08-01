@@ -24,7 +24,7 @@
     <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
 
       <div id="leftpanel">
-        <h3>Eva Wegel - Assistant Facility Manager</h3> email:<a href="mailto:eva.wegal@bioch.ox.ac.uk">eva.wegal@bioch.ox.ac.uk</a>
+        <h3>Eva Wegel - Assistant Facility Manager</h3> email:<a href="mailto:eva.wegel@bioch.ox.ac.uk">eva.wegel@bioch.ox.ac.uk</a>
           <p><img id="person_passport" src="images/eva_thumb.jpg" alt="Eva"
                          title="Eva Wegel" width="60" height="80" /></p>
           <p>        
