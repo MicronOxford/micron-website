@@ -133,8 +133,8 @@
             </td>
             <td>
             </td>
-            <td><a href=><img class="mscopethumb" src="images/3view.jpg"  
-                  width="200" height="150" alt="3View Scanning Electron Microscope" title="3View Scanning Electron Microscope"></a></a>
+            <td><a href="http://web.path.ox.ac.uk/~bioimaging/ElectronMicroscopes/3View.html"><img class="mscopethumb" src="images/3Viewb.png"  
+                  width="200" height="150" alt="3View Scanning Electron Microscope" title="3View Scanning Electron Microscope"></a>
             </td>
           </tr>
           <tr>
@@ -147,7 +147,7 @@
             <td>
             </td>
             <td><p>Zeiss 3View</p>
-                <a href="http://web.path.ox.ac.uk/~bioimaging//ElectronMicroscopes/TEM.html">more information...</a>
+                <a href="http://web.path.ox.ac.uk/~bioimaging/ElectronMicroscopes/3View.html">more information...</a>
             </td>
           </tr>
                   </table>
