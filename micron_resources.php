@@ -107,7 +107,7 @@
             
             <h3>UK Biological Imaging Facilities</h3>
             <ul>
-            <li><a href="http://www.york.ac.uk/biology/technology-facility/imaging-cytometry/uk-lm-facilities/">UK LM facilities: A list of all biological facilities in the UK</a>
+            <li><a href="http://www.york.ac.uk/biology/technology-facility/imaging-cytometry/uk-lm-facilities/">UK LM facilities</a>: A list of all biological facilities in the UK.
             </li>
             </ul>
 

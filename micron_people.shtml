@@ -49,8 +49,8 @@
                   translation in Drosophila oocytes and neuromuscular junctions.
               </td>
               
-              <td><h4><a href="http://users.path.ox.ac.uk/~jraff/Index.html">Jordan Raff</a> - Deputy Director</h4>
-                  <a href="http://users.path.ox.ac.uk/~jraff/Index.html">
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/rafflab_home.html">Jordan Raff</a> - Deputy Director</h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/rafflab_home.html">
                     <img class="oxcontactthumb" src="images/jraff.jpg"
                     width="60" height="80" alt="Jordan Raff" title="Jordan Raff"></a>
                   The main goal of Jordan Raff's research is to understand how centrioles 
@@ -208,7 +208,6 @@
         <h3>Micron microscopy development group leaders</h3>
             <div id="oxbioimagersdiv">
           <table id="oxbioimagers">
-              <!-- Maria, Mick, Antonia -->
             <tr>
               <td><h4><a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/christian-eggeling">Christian Eggeling</a></h4>
                   <a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/christian-eggeling">
@@ -242,12 +241,7 @@
           <table id="oxbioimagers">
               <!-- Maria, Mick, Antonia -->
             <tr>
-              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Maria.shtml">Maria Frade</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Maria.shtml">
-                    <img class="oxcontactthumb" src="images/Maria.jpg"
-                    width="60" height="80" alt="Maria Frade" title="Maria Frade"></a>
-                  NanO Postdoc in  Adaptive Optics.
-              </td>
+              
               <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.shtml">Mick Phillips</a></h4>
                   <a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.shtml">
                     <img class="oxcontactthumb" src="images/mick.jpg"
@@ -261,7 +255,14 @@
                     width="60" height="80" alt="Antonia Goehler" title="Antonia Goehler"></a>
                   NanO Postdoc.
               </td>
-            </tr>
+            
+                          <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">Sebastian Schubert</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">
+                    <img class="oxcontactthumb" src="images/sebastian.jpg"
+                    width="60" height="80" alt="Sebastian Schubert" title="Sebastian Schubert"></a>
+                  NanO Postdoc in non-linear SIM and RESOLFT microscopy.
+              </td>
+</tr>
             </table>
             </div>
             
@@ -287,6 +288,11 @@
                          title="Graeme is now the Image analysis in Dundee" width="60" height="80" ></a> 
                      Graeme is now the  image analysis specialist at the University of Dundee Light and Electron Microscopy Facility </p>
                   </td>
+                  <td><h4>Maria Frade</h4>
+                    <img class="oxcontactthumb" src="images/Maria.jpg"
+                    width="60" height="80" alt="Maria Frade" title="Maria Frade"></a>
+                  Maria was a NanO Postdoc working in Adaptive Optics and has now moved into industry.
+              </td>
             </tr>
             
             
@@ -331,8 +337,16 @@
                       width="60" height="80" ></a> 
                     Lothar is the Micron Group Leader
                     (with particular interest in <a href="research/super_resolution_microscopy.shtml">
-                      super-resolution microscopy</a>) 
+                      super-resolution microscopy</a> and nuclear organisation) 
                 <p><a href="people/Lothar.shtml">read more...</a></p></td>
+            </tr>
+            <tr>
+              <td><h4><a href="people/Eva.shtml">Eva Wegel</a></h4>
+                  <p><a href="people/Eva.shtml">
+                       <img class="people_thumb" src="images/eva_thumb.jpg" alt="Eva"
+                         width="60" height="80" ></a> 
+                     Eva is the Micron assistant facility manager, 
+                     <a href="people/Eva.shtml">read more...</a></p></td>
             </tr>
             <tr>
               <td><h4><a href="people/David.shtml">David Pinto</a></h4>
@@ -342,16 +356,9 @@
                     David is the Micron image analysis specialist
                 <p><a href="people/David.shtml">read more...</a></p></td>
             </tr>
+            
+            
             <tr>
-              <td><h4><a href="people/Eva.shtml">Eva Wegel</a></h4>
-                  <p><a href="people/Eva.shtml">
-                       <img class="people_thumb" src="images/eva_thumb.jpg" alt="Eva"
-                         width="60" height="80" ></a> 
-                     Eva is the Micron assistant facility manager, 
-                     <a href="people/Eva.shtml">read more...</a></p></td>
-            </tr><tr>
-              
-            </tr><tr>
               <td><h4><a href="people/Rainer.shtml">Rainer Kaufmann</a></h4>
                <p><a href="people/Rainer.shtml">
                      <img class="people_thumb" src="images/Rainer_thumb.jpg" alt="Rainer"
