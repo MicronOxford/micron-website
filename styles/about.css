@@ -1,0 +1,45 @@
+#about_intro
+{
+  padding-top: 10px;
+}
+
+#vision
+{
+  /* font-family: helvetica, arial, sans-serif;
+  font-size: 1em;
+  font-style: italic;
+  color: #bb1133; */
+  letter-spacing: 1px;
+  line-height: 150%;
+}
+
+#leftpanel ol 
+{
+  padding-top: 10px;
+  list-style-type: upper-roman
+}
+
+#leftpanel ol li
+{
+  padding-bottom: 10px;
+  margin-left: 2em;
+}
+
+#rightpanel ul 
+{
+  list-style: none;
+	margin-left: 0;
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+.sublist 
+{
+  padding-bottom: 5px;
+}
+
+#GoogleMap
+{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}

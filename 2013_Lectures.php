@@ -1,18 +1,18 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html>
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: resources page</title>
   <meta name=description content="Micron Oxford FAQs, protocols, lectures and other resources">
   <meta name=keywords content="Micron Oxford microscopy resources FAQs protocols Wiki lectures bioimaging links">
-  <meta http-equiv="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/micron_resources.css" >
-  <link rel="icon"
-      type="image/ico"
-      href="/images/MicronMu.ico" >
-      <?php include 'analysistracking.html'; ?>
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="styles/resources.css" >
+  <link rel="icon" type="image/ico" href="/images/MicronMu.ico" >
+  <script src="google_analytics.js"></script>
+</head>
+
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
@@ -36,18 +36,11 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 </script>
-</head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="resources" onLoad="MM_preloadImages('images/2_stomata.jpg','images/lecture_01a.jpg','images/lecture_00a.jpg','images/lecture_02a.jpg')">
-
-  <?php include 'scripts/checkViewerIP.php'; ?>
-
   <div id="container_all">
 
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <?php include 'micron_headnav.html'; ?>
+    <?php include ($DOCUMENT_ROOT . "headnav.html"); ?>
 
     <!-- navigation submenu for this page -->
 
@@ -100,15 +93,9 @@ function MM_swapImage() { //v3.0
     
     </div>
 
-      
-
-     
-
     </div>
 
-
-    <!-- include html file containing footer div common to all pages -->
-    <?php include 'micron_footer.html' ?>
+    <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
 
   </div>
 </body>

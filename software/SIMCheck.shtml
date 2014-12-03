@@ -6,7 +6,7 @@
   <title>Micron Oxford Advanced Bioimaging: SIMCheck</title>
   <meta name=description content="SIMcheck ImageJ plugin">
   <meta name=keywords content="SIMCheck Micron Oxford">
-  <meta http-equiv="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
   <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
   <link rel="stylesheet" type="text/css" href="styles/person_page.css" >
   <link rel="icon" 
