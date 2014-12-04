@@ -16,140 +16,135 @@
 <body id="facilities">
   <div id="container_all">
 
-    <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
+    <?php include ($DOCUMENT_ROOT . "headnav.html"); ?>
 
-    <div id="mainbody"> 
+    <div id="mainbody">
 
-      <div>
-          <h3>Fluorescence microscopes</h3>
-        <p>We have a range of super-resolution, 
-           wide-field and confocal systems.
-           If you are unsure which instrument suits your needs, we have produced
-           an <a href="facilities/microscope_comparison.shtml">instrument summary table</a> of the pros 
-           and cons of each. Our <a href="resources.php">educational 
-           material</a> also contains a wealth of information that should enable you 
-           to get the most out of your imaging. If you have any questions or to enquire about access and charges please 
-        <a href="mailto:micron@bioch.ox.ac.uk">E-mail micron </a>.
-</p>
-        <table class="instruments">
-          <tr>
-            <td><a href="facilities/OMXV2.shtml"><img src="images/OMXV2_thumb.jpg" alt="OMX V2 microscope"  
-                  width="200" height="150" class="mscopethumb" title="OMX V2 microscope"></a>
-            </td>
-            <td><a href="facilities/OMXV3.shtml"><img class="mscopethumb" src="images/OMXV2_thumb.jpg"  
-                  width="200" height="150" alt="OMX V3 microscope" title="OMX V3 microscope"></a>
-            </td>
-            <td><a href="facilities/DVcore.shtml"><img class="mscopethumb" src="images/DVcore_thumb.jpg"  
-                  width="200" height="150" alt="DV core microscope" title="DV core microscope"></a>
-            </td>
-            <td><a href="facilities/analysis.shtml"><img class="mscopethumb" src="images/image_suite.jpg"  
-                  width="200" height="150" alt="Image Analysis Suite" title="Image Analysis Suite"></a>
-            </td>
-          </tr>
-          <tr>
-            <td><p>The OMX V2 microscope is a structual illumimation microscope</p>
-                <a href="facilities/OMXV2.shtml">more information...</a>
-            </td>
-            <td><p>The OMX V3 BLAZE is a 'turn-key' microscope for very rapid widefield imaging or super-resolution imaging of fixed and live samples.</p> 
-                <a href="facilities/OMXV3.shtml">more information...</a>
-            </td>
-            <td><p>The DV core microscopes are wide-field deconvolution systems.</p>
-                <a href="facilities/DVcore.shtml">more information...</a>
-            </td>
-            <td><p>Image Analysis Suite</p>
-                <a href="facilities/Image Analysis.shtml">more information...</a>
-            </td>
-          </tr>
-          <tr>
-            <td><a href="facilities/PerkinElmerNasmyth.shtml"><img src="images/sdisk_thumb.jpg"  
-                  width="200" height="150" alt="spinning disk (KN)" title="spinning disk (KN)"></a>
-            </td>
-            <td><a href="facilities/PerkinElmerBarr.shtml"><img class="mscopethumb" src="images/sdisk_thumb.jpg"  
-                  width="200" height="150" alt="spinning disk (FB)" title="spinning disk (FB)"></a>
-            </td>
-            <td><a href="facilities/Olympus.shtml"><img id="Olympus" src="images/FV1000_thumb.jpg"  
-                  width="200" height="150" alt="FV 1000 confocal" title="FV 1000 confocal"></a>
-            </td><td><a href="facilities/TIRF.shtml"><img id="TIRF" src="images/PALM_thumb.jpg"  
-                  width="200" height="150" alt="PALM/TIRF" title="PALM/TIRF"></a>
-            </td>
-          </tr>
-          <tr>
-            <td><p>Nasmyth Perkin-Elmer spinning disk confocal.</p>
-                <a href="facilities/PerkinElmerNasmyth.shtml">more information...</a>
-            </td>
-            <td><p>Barr Perkin-Elmer spinning disk confocal.</p>
-                <a href="facilities/PerkinElmerBarr.shtml">more information...</a>
-            </td>
-            <td><p>Olympus FV1000 Laser Scanning Microscope with Becker and 
-                  Hickel FLIM system.</p>
-                <a href="facilities/Olympus.shtml">more information...</a>
-            </td>
-            <td><p>PALM/TIRF system</p>
-                <a href="facilities/TIRF.shtml">more information...</a>
-            </td>
-          </tr>
-           <tr>
-            <td><a href="facilities/OMXV2dSTORM.shtml"><img src="images/dSTORM_thumb.jpg"  
-                  width="200" height="150" alt="dSTORM" title="dSTORM lightpath"></a>
-            </td>
-            <td><a href="facilities/lightsheet.shtml"><img src="images/lightsheet_thumb.jpg"  
-                  width="200" height="150" alt="mDSLM" title="Z1 Zeiss Light Sheet Microscope"></a>
-            </td>
-            <td><a href="facilities/Olympuslive.shtml"><img src="images/FV1200_thumb.jpg"  
-                  width="200" height="150" alt="Live Cell Olympus" title="Live Cell / DNA damage Olympus"></a>
-            </td>
-          </tr>
-          <tr>
-            <td><p>OMX V2 dSTORM lightpath</p>
-                <a href="facilities/OMXV2dSTORM.shtml">more information...</a>
-            </td>
-            <td><p>Zeiss Z1 light sheet Microscope</p>
-                <a href="facilities/lightsheet.shtml">more information...</a>
-            </td>
-            <td><p>Live Cell / DNA damage Olympus</p>
-                <a href="facilities/Olympuslive.shtml">more information...</a>
-            </td>
-          </tr>
-        </table>
-      
-          <h3>Electron microscopes (Dunn school)</h3>
-           
-           <table class="instruments">
-          <tr>
-            <td><a href="http://web.path.ox.ac.uk/~bioimaging//ElectronMicroscopes/TEM.html"><img class="mscopethumb" src="images/TEM.jpg"  
-                  width="200" height="150" alt="Transmission Electron Microscope" title="Transmission Electron Microscope"></a>
-            </td>
-            <td><a href="http://web.path.ox.ac.uk/~bioimaging//ElectronMicroscopes/SEM.html"><img class="mscopethumb" src="images/SEM.jpg"  
-                  width="200" height="150" alt="Scanning Electron Microscope" title="Scanning Electron Microscope"></a>
-            </td>
-            <td>
-            </td>
-            <td><a href="http://web.path.ox.ac.uk/~bioimaging/ElectronMicroscopes/3View.html"><img class="mscopethumb" src="images/3Viewb.png"  
-                  width="200" height="150" alt="3View Scanning Electron Microscope" title="3View Scanning Electron Microscope"></a>
-            </td>
-          </tr>
-          <tr>
-            <td><p>Philips Technai 12 electron microscope</p>
-                <a href="http://web.path.ox.ac.uk/~bioimaging//ElectronMicroscopes/TEM.html">more information...</a>
-            </td>
-            <td><p>Scanning JOEL JSM-6390 EM</p> 
-                <a href="http://web.path.ox.ac.uk/~bioimaging//ElectronMicroscopes/SEM.html">more information...</a>
-            </td>
-            <td>
-            </td>
-            <td><p>Zeiss 3View</p>
-                <a href="http://web.path.ox.ac.uk/~bioimaging/ElectronMicroscopes/3View.html">more information...</a>
-            </td>
-          </tr>
-                  </table>
+      <h3>Fluorescence microscopes</h3>
 
-        <p></p>
-      </div>
+      <p>
+        We have a range of super-resolution, wide-field and confocal systems.
+        If you are unsure which instrument suits your needs, we have produced
+        an <a href="facilities/microscope_comparison.shtml">instrument summary table</a>
+        of the pros and cons of each. Our <a href="resources.php">educational material</a>
+        also contains a wealth of information that should enable you to get
+        the most out of your imaging. If you have any questions or to enquire
+        about access and charges please <a href="mailto:micron@bioch.ox.ac.uk">email micron</a>.
+      </p>
+
+      <?php
+        include ($DOCUMENT_ROOT . "scripts/equipment.php");
+        use MicronOxford\HTMLEquipmentTable;
+        use MicronOxford\Equipment;
+
+        $equipment = new HTMLEquipmentTable ([
+          new Equipment (
+            "OMX V2",
+            "The OMX V2 microscope is a structual illumimation microscope.",
+            "images/OMXV2_thumb.jpg",
+            "facilities/OMXV2.shtml"
+          ),
+          new Equipment (
+            "OMX V3",
+            "The OMX V3 BLAZE is a 'turn-key' microscope for very rapid widefield imaging or super-resolution imaging of fixed and live samples.",
+            "images/OMXV2_thumb.jpg",
+            "facilities/OMXV3.shtml"
+          ),
+          new Equipment (
+            "DVElite",
+            "The DV core microscopes are wide-field deconvolution systems.",
+            "images/DVcore_thumb.jpg",
+            "facilities/DVcore.shtml"
+          ),
+          new Equipment (
+            "Zippy Invert DVcore",
+            "The DV core microscopes are wide-field deconvolution systems.",
+            "images/DVcore_thumb.jpg",
+            "facilities/DVcore.shtml"
+          ),
+          new Equipment (
+            "PE Ultraview",
+            "Nasmyth Perkin-Elmer spinning disk confocal.",
+            "images/sdisk_thumb.jpg",
+            "facilities/PerkinElmerNasmyth.shtml"
+          ),
+          new Equipment (
+            "37C Ultraview",
+            "Barr Perkin-Elmer spinning disk confocal.",
+            "images/sdisk_thumb.jpg",
+            "facilities/PerkinElmerBarr.shtml"
+          ),
+          new Equipment (
+            "PALM/TIRF",
+            "PALM/TIRF system",
+            "images/PALM_thumb.jpg",
+            "facilities/TIRF.shtml"
+          ),
+          new Equipment (
+            "Z1 lightsheet",
+            "Zeiss Z1 light sheet Microscope",
+            "images/lightsheet_thumb.jpg",
+            "facilities/lightsheet.shtml"
+          ),
+        ]);
+        $equipment->draw_facilities_table ();
+      ?>
+
+      <!-- FIXME these are in separate table because they need status
+                 information on micron wiki -->
+      <table class="instruments">
+        <tr>
+          <td><a href='facilities/Olympus.shtml'><img src='images/FV1000_thumb.jpg' width='200'></a></td>
+          <td><a href='facilities/OMXV2dSTORM.shtml'><img src='images/dSTORM_thumb.jpg' width='200'></a></td>
+          <td><a href='facilities/Olympuslive.shtml'><img src='images/FV1200_thumb.jpg' width='200'></a></td>
+          <td><a href='facilities/analysis.shtml'><img src='images/image_suite.jpg' width='200'></a></td>
+        </tr>
+        <tr>
+          <td><p>Olympus FV1000 Laser Scanning Microscope with Becker and Hickel FLIM system.</p></td>
+          <td><p>OMX V2 dSTORM lightpath</p></td>
+          <td><p>Live Cell / DNA damage Olympus</p></td>
+          <td><p>Image Analysis Suite</p></td>
+        </tr>
+      </table>
+
+      <h3>Electron microscopes (Dunn school)</h3>
+
+      <table class="instruments">
+        <tr>
+          <td><a href="http://web.path.ox.ac.uk/~bioimaging//ElectronMicroscopes/TEM.html"><img src="images/TEM.jpg" width="200"></a></td>
+          <td><a href="http://web.path.ox.ac.uk/~bioimaging//ElectronMicroscopes/SEM.html"><img src="images/SEM.jpg" width="200"></a></td>
+          <td><a href="http://web.path.ox.ac.uk/~bioimaging/ElectronMicroscopes/3View.html"><img src="images/3Viewb.png" width="200"></a></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><p>Philips Technai 12 electron microscope</p></td>
+          <td><p>Scanning JOEL JSM-6390 EM</p></td>
+          <td><p>Zeiss 3View</p></td>
+          <td></td>
+        </tr>
+      </table>
+
+      <h3>Image Analysis suite</h3>
+
+      <table class="instruments">
+        <tr>
+          <td><a href='facilities/analysis.shtml'><img src='images/image_suite.jpg' width='200'></a></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><p>Image Analysis Suite</p></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+
 
     </div>
 
     <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
-
   </div>
 </body>
 
