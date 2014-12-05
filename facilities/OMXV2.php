@@ -5,8 +5,8 @@
 <head>
   <title>Micron Oxford Advanced Bioimaging: OMX V2</title>
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="../styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="../styles/micron_facilities.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/facilities.css" >
   <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
   <script src="../google_analytics.js"></script>
 </head>
@@ -17,93 +17,64 @@
     <div id="mainbody">
       <div id="leftpanel">
 
-        <h3>OMX V2 Optical Microscope, eXperimental</h3>
+        <?php
+          include "../scripts/microscopes.php";
+          use MicronOxford\OpticalMicroscope;
+          use MicronOxford\SolidStateLaser;
+          use MicronOxford\GasLaser;
+          use MicronOxford\Objective;
 
-        <p>
-          New Biochemistry Room 00-056
-        </p>
+          $omxv2 = new OpticalMicroscope (
+            "omxv2",
+            "OMX V2 Optical Microscope, eXperimental",
+            "New Biochemistry Room 00-056",
+            array (
+              new SolidStateLaser (405),
+              new SolidStateLaser (488),
+              new GasLaser (488, "Argon"),
+              new GasLaser (515, "Argon"),
+              new GasLaser (568, "Argon"),
+              new GasLaser (633, "Argon"),
+            ),
+            array (
+              new Objective (60, 1.35, "Oil UPlanSApo"),
+            )
+          );
+        ?>
+
+        <?php $omxv2->draw_header (); ?>
 
         <p>
           This is a cutting edge fluorescence microscope system. It has
           two complimentary functionalities.
+        </p>
 
-<p>Fast Live mode: In this mode it is able to grab simultaneous images in multiple colours, extremely rapidly and with very accurate timing control.</p>
+        <p>
+          Fast Live mode: In this mode it is able to grab simultaneous
+          images in multiple colours, extremely rapidly and with very
+          accurate timing control.
+        </p>
 
-<p>3D Structured Illumination mode: in this mode the system uses structured illumination and computer processing to generate 3D image stacks with twice the conventional resolution, ie just over 100nm in X & Y and about 250 nm in Z.</p>
-<p>&nbsp;</p>&#13;
-            <table width="100%"  border="1" align="left" cellpadding="4">
-  <tr>
-    <th width="13%" scope="col"><span class="style1"><strong>Laser</strong></span></th>
-    <th width="23%" scope="col"><span class="style1"><strong>Excitation Lines </strong></span></th>
-    <th width="64%" scope="col"><span class="style1"><strong>Suitable Dyes </strong></span></th>
+        <p>
+          3D Structured Illumination mode: in this mode the system uses
+          structured illumination and computer processing to generate 3D
+          image stacks with twice the conventional resolution, ie just
+          over 100nm in XY and about 250 nm in Z.
+        </p>
 
-  </tr>
-  <tr>
-    <td><span class="style1">Solid State </span></td>
-    <td bgcolor="#0033CC"><span class="style13">405nm</span></td>
-    <td><span class="style1">Alexa 405, DAPI, Hoechst</span></td>
-  </tr>
-  <tr>
-
-    <td rowspan="3"><span class="style1">Argon</span></td>
-    <td bgcolor="#33FF66"><span class="style13">488nm</span></td>
-    <td>Alexa 488, FITC, GFP, Cy2</td>
-  </tr>
-  <tr>
-    <td bgcolor="#33FF66"><span class="style1"></span></td>
-    <td>&nbsp;</td>
-
-  </tr>
-  <tr>
-    <td bgcolor="#CCFF66"><span class="style1">515nm</span></td>
-    <td><span class="style1">Alexa 514, YFP</span></td>
-  </tr>
-  <tr>
-    <td><span class="style1"></span></td>
-
-    <td bgcolor="#FF9900"><span class="style1">568nm</span></td>
-    <td><span class="style1">Alexa 546, TRITC, Cy3, DiI, propidium iodide, Texas red , mCherry </span></td>
-  </tr>
-  <tr>
-    <td><span class="style1"></span></td>
-    <td bgcolor="#FF0000"><span class="style13">633nm</span></td>
-    <td><span class="style1">Alexa 633, Alexa 647, Cy5</span></td>
-
-  </tr>
-</table>
-<p>&nbsp;</p>
-
-            <table width="100%"  border="1" align="left" cellpadding="4">
-  <tr>
-    <th width="48%" class="style14" scope="col">Objectives</th>
-    
-    <th width="52%" class="style14" scope="col"></th>
-    </tr>
-  <tr>
-    <td><p class="style1">
-    
-      60x/1.35 Oil UPlanSApo<br />
-      
-      </p>
-      </td>
-    <td></td>
-    </tr>
-</table>
- 
+        <?php $omxv2->draw_description (); ?>
       </div>
 
       <div id="rightpanel">
-        <a name="software">
-        <img id="OMX V2" src="images/OMXV2_thumb.jpg"  width="200" height="133"
-              alt="OMX V2" title="OMX V2"/>
-        <p></p>
+        <img src="../images/OMXV2_thumb.jpg" width="200" />
+        <br>
         <ul>
-          <li><a href="http://www.cshlpress.com/pdf/sample/LiveCell2.pdf" target="_blank" title="OMX book chapter">OMX book Chapter</a></li>
-          <li><a href="http://msg.ucsf.edu/sedat/omx/" title="Sedat Lab OMX" target="_blank">Sedat Lab OMX</a></li>
-          <li><a href="http://www.api.com/deltavision-omx.asp" target="_blank" title="Applied Precision">Applied Precision</a></li>
-          <li><a href="http://www.OMXwiki.com" target="_blank" title="OMX wiki">OMX Wiki</a></li>
-          <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/OMX_V2"  title="OMX V2 Wiki">Micron OMX V2 Wiki</a> 
-          </li>
+          <li><a href="http://www.cshlpress.com/pdf/sample/LiveCell2.pdf" title="OMX book chapter">OMX book Chapter</a></li>
+          <li><a href="http://msg.ucsf.edu/sedat/omx/" title="Sedat Lab OMX">Sedat Lab OMX</a></li>
+          <li><a href="http://www.api.com/deltavision-omx.asp" title="Applied Precision">Applied Precision</a></li>
+          <li><a href="http://www.OMXwiki.com" title="OMX wiki">OMX Wiki</a></li>
+          <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/OMX_V2" title="OMX V2 Wiki">Micron OMX V2 Wiki</a></li>
+          <li><a href="../resources/immunostaining_protocol_SIM.pdf" title="Immunostaining Protocol for SIM">Immunostaining Protocol for SIM</a></li>
         </ul>
       </div>
 

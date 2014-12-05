@@ -39,48 +39,56 @@
 
         $equipment = new HTMLEquipmentTable (array (
           new Equipment (
+            "OMXv2",
             "OMX V2",
             "The OMX V2 microscope is a structual illumimation microscope.",
             "images/OMXV2_thumb.jpg",
             "facilities/OMXV2.php"
           ),
           new Equipment (
+            "OMXv3",
             "OMX V3",
             "The OMX V3 BLAZE is a 'turn-key' microscope for very rapid widefield imaging or super-resolution imaging of fixed and live samples.",
             "images/OMXV2_thumb.jpg",
             "facilities/OMXV3.php"
           ),
           new Equipment (
+            "bungle",
             "DVElite",
             "The DV core microscopes are wide-field deconvolution systems.",
             "images/DVcore_thumb.jpg",
             "facilities/DVcore.php"
           ),
           new Equipment (
+            "zippy",
             "Zippy Invert DVcore",
             "The DV core microscopes are wide-field deconvolution systems.",
             "images/DVcore_thumb.jpg",
             "facilities/DVcore.php"
           ),
           new Equipment (
+            "PE_Ultraview",
             "PE Ultraview",
             "Nasmyth Perkin-Elmer spinning disk confocal.",
             "images/sdisk_thumb.jpg",
             "facilities/PerkinElmerNasmyth.php"
           ),
           new Equipment (
+            "37C_Ultraview",
             "37C Ultraview",
             "Barr Perkin-Elmer spinning disk confocal.",
             "images/sdisk_thumb.jpg",
             "facilities/PerkinElmerBarr.php"
           ),
           new Equipment (
+            "PALM_TIRF",
             "PALM/TIRF",
             "PALM/TIRF system",
             "images/PALM_thumb.jpg",
             "facilities/TIRF.php"
           ),
           new Equipment (
+            "Z1_lightsheet",
             "Z1 lightsheet",
             "Zeiss Z1 light sheet Microscope",
             "images/lightsheet_thumb.jpg",

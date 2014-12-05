@@ -27,6 +27,38 @@ class State
   const UP      = 1;
   const DOWN    = 2;
   const ISSUES  = 3;
+  const ERROR   = 4;
+
+  public static function get_color ($state)
+  {
+    switch ($state)
+    {
+      case self::UP:     return "#396";
+      case self::ISSUES: return "#F29D50";
+      // whether it is DOWN or we do not know, it is bad (red)
+      default:            return "#C30";
+    }
+  }
+
+  public static function get_message (EquipmentStatus $status)
+  {
+    $message = trim ($status->info);
+    if (! $message)
+      $message = self::get_short_message ($status);
+    return $message;
+  }
+
+  public static function get_short_message (EquipmentStatus $status)
+  {
+    switch ($status->state)
+    {
+      case self::UP:     return "System operational";
+      case self::DOWN:   return "System down";
+      case self::ISSUES: return "Experiencing issues";
+      default:           return "Unrecognized system state";
+    }
+  }
+
 }
 
 class EquipmentStatus
@@ -61,11 +93,17 @@ class EquipmentManager
 
   public function status_of (Equipment $s)
   {
-    $id = $s->id ();
-    if (array_key_exists ($id, EquipmentManager::$status))
-      return EquipmentManager::$status[$id];
+    $this->fill_status_of ($s);
+    return self::$status[$s->id];
+  }
 
-    foreach (EquipmentManager::$source as $line)
+  private function fill_status_of (Equipment $s)
+  {
+    $id = $s->id;
+    if (array_key_exists ($id, self::$status))
+      return;
+
+    foreach (self::$source as $line)
       {
         if (preg_match_all ("/\*\s?
                              (?<id>$id)
@@ -76,7 +114,7 @@ class EquipmentManager
                             $line, $matches))
           {
             $eq_status = new EquipmentStatus ();
-            // If only PHP had enums...
+            // If only PHP had real enums...
             switch (strtolower ($matches["status"][0]))
             {
               case "up"     : $eq_status->state = State::UP;      break;
@@ -84,11 +122,11 @@ class EquipmentManager
               case "issues" : $eq_status->state = State::ISSUES;  break;
               default: throw new BadWikiSyntax ("weird equipment state");
             }
-            if (! array_key_exists ("info", $matches))
+            if (array_key_exists ("info", $matches))
               $eq_status->info = $matches["info"][0];
 
-            EquipmentManager::$status[$id] = $eq_status;
-            return $eq_status;
+            self::$status[$id] = $eq_status;
+            return;
           }
       }
     throw new MissingEquipment ("Unable to find status for " . $s->name);
@@ -98,20 +136,23 @@ class EquipmentManager
 
 class Equipment
 {
+  public $id;           // string
   public $name;         // string
   public $description;  // string
   public $thumbnail;    // string (url)
   public $page;         // string
-  public $status;       // State
 
-  public function __construct ($name, $description, $thumbnail, $page)
+  protected $status;       // EquipmentStatus
+  protected $location;      // string
+
+  public function __construct ($id, $name = "", $description = "",
+                               $thumbnail = "", $page = "")
   {
+    $this->id           = $id;
     $this->name         = $name;
     $this->description  = $description;
     $this->thumbnail    = $thumbnail;
     $this->page         = $page;
-
-    $this->id = preg_replace ("/[^a-zA-Z0-9_]/", "_", $name);
     return;
   }
 
@@ -120,17 +161,35 @@ class Equipment
     if (empty ($this->status))
       {
         $manager = new EquipmentManager ();
-        $this->status = $manager->status_of ($this);
+        try
+          {
+            $status = $manager->status_of ($this);
+          }
+          catch (MissingEquipment $e)
+            {
+              $status = new EquipmentStatus;
+              $status->state = State::ERROR;
+              $status->info  = "Unrecognized system";
+            }
+          catch (BadWikiSyntax $e)
+            {
+              $status = new EquipmentStatus;
+              $status->state = State::ERROR;
+              $status->info  = "Unrecognized system state";
+            }
+          $this->status = $status;
       }
     return $this->status;
   }
 
-  // Same as $name stripped of whitespace for quicker parsing of
-  // the source on the wiki
-  private $id = "";
-  public function id ()
+  public function draw_status_div ($more_style)
   {
-    return $this->id;
+    $status   = $this->status ();
+    $color    = State::get_color ($status->state);
+    $message  = State::get_short_message ($status);
+
+    echo "<div style='background-color: $color;$more_style'>$message</div>\n";
+    return;
   }
 }
 
@@ -174,34 +233,12 @@ class HTMLEquipmentTable
     echo "</tr>\n";
   }
 
-
   private function draw_facilities_state ($equipment)
   {
-    try
-      {
-        switch ($equipment->status ()->state)
-          {
-            case State::UP:
-              echo "<td style='background-color: #396; padding: 8px 15px;'>System operational</td>\n";
-              break;
-            case State::DOWN:
-              echo "<td style='background-color: #C30; padding: 8px 15px;'>System down</td>\n";
-              break;
-            case State::ISSUES:
-              echo "<td style='background-color: #F29D50; padding: 8px 15px;'>Experiencing issues</td>\n";
-              break;
-            default:
-              echo "<td style='background-color: #C30; padding: 8px 15px;'>Unrecognized system state</td>\n";
-          }
-      }
-    catch (MissingEquipment $e)
-      {
-        echo "<td style='background-color: #C30; padding: 8px 15px;'>Unrecognized system</td>\n";
-      }
-    catch (BadWikiSyntax $e)
-      {
-        echo "<td style='background-color: #C30; padding: 8px 15px;'>Unrecognized system state</td>\n";
-      }
+    $status   = $equipment->status ();
+    $color    = State::get_color ($status->state);
+    $message  = State::get_short_message ($status);
+    echo "<td style='background-color: $color; padding: 8px 15px;'>$message</td>\n";
   }
 
   private function draw_facilities_thumbnail ($equipment)
@@ -216,6 +253,26 @@ class HTMLEquipmentTable
   private function draw_facilities_description ($equipment)
   {
     echo  "<td><p>" . $equipment->description . "</p></td>\n";
+  }
+
+  private function get_color_and_message ()
+  {
+    try
+      {
+        $status   = $equipment->status ();
+        $color    = State::get_color ($status->state);
+        $message  = State::get_short_message ($status);
+      }
+    catch (MissingEquipment $e)
+      {
+        $color = State::get_color (State::DOWN);
+        $message = "Unrecognized system";
+      }
+    catch (BadWikiSyntax $e)
+      {
+        $color = State::get_color (State::DOWN);
+        $message = "Unrecognized system state";
+      }
   }
 
 }
