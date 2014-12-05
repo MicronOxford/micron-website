@@ -1,30 +1,22 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: OMX V2 dSTORM</title>
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/micron_facilities.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/MicronMu.ico" >
-       <!--#include file="analysistracking.html"-->
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="../styles/micron_main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/micron_facilities.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="facilities">
   <div id="container_all">
-
-    <!-- include html file containing header/navigation div common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
-        
+
         <h3>OMX V2 Optical Microscope, eXperimental dSTORM lightpath</h3>
         <p>New Biochemistry Room 00-056 </p>
         <p>&nbsp;</p>
@@ -70,13 +62,9 @@
       </div>
 
     </div>
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
-</div>
+    <?php include "../footer.html"; ?>
+  </div>
 </body>
-
 
 </html>
 
