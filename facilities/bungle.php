@@ -5,8 +5,8 @@
 <head>
   <title>Micron Oxford Advanced Bioimaging: DeltaVision</title>
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="../styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="../styles/micron_facilities.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/facilities.css" >
   <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
   <script src="../google_analytics.js"></script>
 </head>
@@ -17,41 +17,33 @@
     <div id="mainbody">
       <div id="leftpanel">
 
-        <h3>API DeltaVision</h3>
-        <p>New Biochemistry Room 00-031</p>
-        <p>&nbsp;</p>
+        <?php
+          include "../scripts/microscopes.php";
+          use MicronOxford\OpticalMicroscope;
+          use MicronOxford\SolidStateLaser;
+          use MicronOxford\GasLaser;
+          use MicronOxford\Objective;
 
-<p>&nbsp;</p>&#13;
-<p>&nbsp;</p>
+          $bungle = new OpticalMicroscope (
+            "bungle",
+            "API DeltaVision Elite",
+            "New Biochemistry Room 00-031",
+            array (),
+            array (
+              new Objective (60, 1.35, "Oil UPlanSApo"),
+            )
+          );
+        ?>
 
-            <table width="100%"  border="1" align="left" cellpadding="4">
-  <tr>
-    <th width="48%" class="style14" scope="col">Objectives</th>
-    
-    <th width="52%" class="style14" scope="col"></th>
-    </tr>
-  <tr>
-    <td><p class="style1">
-    
-      60x/1.35 Oil UPlanSApo<br />
-      
-      </p>
-      </td>
-    <td></td>
-    </tr>
-</table>
- 
+        <?php $bungle->draw_header (); ?>
+
+        <?php $bungle->draw_description (); ?>
       </div>
 
       <div id="rightpanel">
-        <a name="software">
-        <img id="DV Core" src="../images/DVcore_thumb.jpg"  width="200" height="133"
-              alt="DV Core" title="DV Core"/>
-        <p></p>
+        <img src="../images/DVcore_thumb.jpg" width="200" />
         <ul>
-         
-          <li><a href="http://www.api.com/deltavision-omx.asp" target="_blank" title="Applied Precision">Applied Precision</a>
-          </li>
+          <li><a href="http://www.api.com/deltavision-omx.asp" title="Applied Precision">Applied Precision</a></li>
         </ul>
       </div>
 
