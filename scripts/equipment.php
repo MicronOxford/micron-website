@@ -186,7 +186,7 @@ class Equipment
   {
     $status   = $this->status ();
     $color    = State::get_color ($status->state);
-    $message  = State::get_short_message ($status);
+    $message  = State::get_message ($status);
 
     echo "<div style='background-color: $color;$more_style'>$message</div>\n";
     return;
