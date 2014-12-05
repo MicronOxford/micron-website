@@ -39,8 +39,8 @@ class EquipmentManager
 {
   private static $status_source_link
     = "http://micronwiki.bioch.ox.ac.uk/wiki/Microscope_status?action=raw";
-  private static $source = [];  // array<string>
-  private static $status = [];  // array<State>
+  private static $source = array ();  // array<string>
+  private static $status = array ();  // array<State>
 
   public function __construct ()
   {
@@ -137,7 +137,7 @@ class Equipment
 class HTMLEquipmentTable
 {
   private $n_columns = 4;
-  private $equipment = [];  // array<Equipment>
+  private $equipment = array ();  // array<Equipment>
 
   public function __construct (array $equipment)
   {

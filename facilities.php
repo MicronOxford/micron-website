@@ -37,7 +37,7 @@
         use MicronOxford\HTMLEquipmentTable;
         use MicronOxford\Equipment;
 
-        $equipment = new HTMLEquipmentTable ([
+        $equipment = new HTMLEquipmentTable (array (
           new Equipment (
             "OMX V2",
             "The OMX V2 microscope is a structual illumimation microscope.",
@@ -86,7 +86,7 @@
             "images/lightsheet_thumb.jpg",
             "facilities/lightsheet.php"
           ),
-        ]);
+        ));
         $equipment->draw_facilities_table ();
       ?>
 
