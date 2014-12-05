@@ -15,9 +15,8 @@
 <body id="about">
   <div id="container_all">
 
-    <?php include ($DOCUMENT_ROOT . "headnav.html"); ?>
+    <?php include "headnav.html"; ?>
 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
     <div id="mainbody">
 
       <div id="leftpanel">
@@ -146,10 +145,9 @@
           </span>
         </p>
       </div>
+
     </div>
-
-    <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
-
+    <?php include "footer.html"; ?>
   </div>
 </body>
 

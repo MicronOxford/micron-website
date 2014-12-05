@@ -17,7 +17,7 @@
 <body id="resources">
   <div id="container_all">
 
-    <?php include ($DOCUMENT_ROOT . "headnav.html"); ?>
+    <?php include "headnav.html"; ?>
 
     <div id="mainbody">
 
@@ -127,12 +127,9 @@
       </div>
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
-
+    <?php include "footer.html"; ?>
   </div>
 </body>
 
 </html>
+

@@ -14,11 +14,11 @@
 
 <!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="news">
-
   <div id="container_all">
-    <?php include ($DOCUMENT_ROOT . "headnav.html"); ?>
 
-    <div id="mainbody"> 
+    <?php include "headnav.html"; ?>
+
+    <div id="mainbody">
 
       <div id="leftpanel">
 
@@ -235,9 +235,9 @@
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
     </div>
-    <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
-
+    <?php include "footer.html"; ?>
   </div>
 </body>
+
 </html>
 

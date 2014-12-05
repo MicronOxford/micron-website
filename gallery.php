@@ -16,11 +16,11 @@
 <body id="news">
   <div id="container_all">
 
-    <?php include ($DOCUMENT_ROOT . "headnav.html"); ?>
-
-    <?php include ($DOCUMENT_ROOT . "scripts/gallery_script.php"); ?>
+    <?php include "headnav.html"; ?>
+    <?php include "scripts/gallery_script.php"; ?>
 
     <div id="mainbody">
+
       <h3>Micron reasearch image gallery</h3>
       <!-- TBD: display the research image/movie at its real pixel resolution upon click -->
       <div id="bigimage">
@@ -67,11 +67,11 @@
       <div id="backdiv">
         <a href="news.shtml#gallery">back to News &amp; Media</a>
       </div>
+
     </div>
-
-    <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
-
+    <?php include "footer.html"; ?>
   </div>
 </body>
 
 </html>
+

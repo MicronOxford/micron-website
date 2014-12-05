@@ -40,10 +40,10 @@ function MM_swapImage() { //v3.0
 <body id="resources" onLoad="MM_preloadImages('images/2_stomata.jpg','images/lecture_01a.jpg','images/lecture_00a.jpg','images/lecture_02a.jpg')">
   <div id="container_all">
 
-    <?php include ($DOCUMENT_ROOT . "headnav.html"); ?>
+    <?php include "headnav.html"; ?>
 
     <div id="mainbody">
-      <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
+
       <h3>Micron Advanced Microscopy Course 2014</h3>
 
       <p>Click on image for lecture notes</p>
@@ -88,11 +88,11 @@ function MM_swapImage() { //v3.0
         <img src="images/lecture_18.jpg" width="170" height="130"></a>
       <a href="resources/Lecture_19_image_analysis.pdf">
         <img src="images/lecture_19.jpg" width="170" height="130"></a>
+
     </div>
-
-    <?php include ($DOCUMENT_ROOT . "footer.html"); ?>
-
+    <?php include "footer.html"; ?>
   </div>
 </body>
 
 </html>
+
