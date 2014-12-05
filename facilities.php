@@ -57,14 +57,14 @@
             "DVElite",
             "The DV core microscopes are wide-field deconvolution systems.",
             "images/DVcore_thumb.jpg",
-            "facilities/DVcore.php"
+            "facilities/bungle.php"
           ),
           new Equipment (
             "zippy",
             "Zippy Invert DVcore",
             "The DV core microscopes are wide-field deconvolution systems.",
             "images/DVcore_thumb.jpg",
-            "facilities/DVcore.php"
+            "facilities/zippy.php"
           ),
           new Equipment (
             "PE_Ultraview",

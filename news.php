@@ -144,7 +144,7 @@
         <p>
           Congratulations to Sheng-Wen Chui from the Department of
           Biochemistry at the University of Oxford. Sheng-Wen used Micron's
-          <a href="facilities/DVcore.shtml">Delta-Vision microscope</a> to
+          <a href="facilities/zippy.php">Delta-Vision microscope</a> to
           take this superb image of filamentous cells of the bacterium
           Rhodobacter sphaeroides.
         </p>
