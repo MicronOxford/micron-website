@@ -1,10 +1,15 @@
 <!-- header and main navigation bar shared by all pages -->
 <div id="header">
-  <img src="images/MicronHeader.jpg" width="880"
+  <!--
+    FIXME we should have DOCUMENT_ROOT set correctly on day, or better,
+          have / point to it and drop all this php.
+  -->
+  <?php $document_root = "/microngroup/"?>
+  <img src="<?php echo $document_root; ?>images/MicronHeader.jpg" width="880"
       alt="Micron Oxford Advanced Bioimaging Unit - supported by the Wellcome Trust."
       usemap="#headermap">
   <map name="headermap">
-    <area shape="rect" coords="18,17,200,100" href="home.php"
+    <area shape="rect" coords="18,17,200,100" href="<?php echo $document_root; ?>home.php"
       title="Micron Oxford Advanced Bioimaging Unit"
       alt="Micron Oxford Advanced Bioimaging Unit" >
     <area shape="rect" coords="590,10,720,58" href="http://www.wellcome.ac.uk"
@@ -16,22 +21,22 @@
 
 <div id="navigation">
   <ul>
-    <li><a href="home.php" title="Homepage">
+    <li><a href="<?php echo $document_root; ?>home.php" title="Homepage">
       <span class="menutxt">Home</span></a></li>
-    <li><a href="about.php" title="Our Vision / About Micron">
+    <li><a href="<?php echo $document_root; ?>about.php" title="Our Vision / About Micron">
       <span class="menutxt">About Us</span></a></li>
-    <li><a href="people.php" title="Staff and community">
+    <li><a href="<?php echo $document_root; ?>people.php" title="Staff and community">
       <span class="menutxt">People</span></a></li>
-    <li><a href="research.php" title="Micron Research">
+    <li><a href="<?php echo $document_root; ?>research.php" title="Micron Research">
       <span class="menutxt">Research</span></a></li>
-    <li><a href="facilities.php" title="Our facilities">
+    <li><a href="<?php echo $document_root; ?>facilities.php" title="Our facilities">
       <span class="menutxt">Facilities</span></a></li>
-    <li><a href="resources.php" title="Wiki, FAQs, Protocols, Lectures">
+    <li><a href="<?php echo $document_root; ?>resources.php" title="Wiki, FAQs, Protocols, Lectures">
       <span class="menutxt">Resources</span></a></li>
-    <li><a href="news.php" title="News, Outreach, Gallery">
+    <li><a href="<?php echo $document_root; ?>news.php" title="News, Outreach, Gallery">
       <span class="menutxt">News &amp; Media</span></a></li>
-    <li><a href="https://www2.bioch.ox.ac.uk/portal/booking/" 
+    <li><a href="https://www2.bioch.ox.ac.uk/portal/booking/"
       title="Link to equipment booking"><span class="menutxt">Booking</span>
-      <img src="images/External_Link.png" alt="external link symbol" width="14" height="14" ></a></li>
+      <img src="<?php echo $document_root; ?>images/External_Link.png" alt="external link symbol" width="14" height="14" ></a></li>
   </ul>
 </div>
