@@ -136,7 +136,6 @@ class Equipment
 
 class HTMLEquipmentTable
 {
-  private $n_columns = 4;
   private $equipment = array ();  // array<Equipment>
 
   public function __construct (array $equipment)
@@ -145,73 +144,80 @@ class HTMLEquipmentTable
     return;
   }
 
-  public function draw_facilities_table ()
+  public function draw_facilities_table ($n_cols)
   {
-    $count  = count ($this->equipment);
-    $n_cols = $this->n_columns;
-    $n_rows = ceil ($count / $n_cols);
+    $count = count ($this->equipment);
+    $n_rows = ceil (count ($this->equipment) / $n_cols);
 
     echo "<table class='instruments'>\n";
-    $i = 0;
-    for ($r = 0; $r < $n_rows; $r++)
+    for ($row = 0; $row < $n_rows; $row++)
       {
-
-        // First row - report system status
-        echo "<tr>\n";
-        for ($c = 0; $c < $n_cols; $c++)
-          {
-            $i = ($r * $n_cols) + $c;
-            if ($i >= $count)
-              break;
-
-            switch ($this->equipment[$i]->status ()->state)
-            {
-              case State::UP:
-                echo "<td style='background-color: #396; padding: 8px 15px; border-radius: 3px; font: 13px/1.5'>System operational</td>\n";
-                break;
-              case State::DOWN:
-                echo "<td style='background-color: #C30; padding: 8px 15px; border-radius: 3px; font: 13px/1.5'>System down</td>\n";
-                break;
-              case State::ISSUES:
-                echo "<td style='background-color: #F29D50; padding: 8px 15px; border-radius: 3px; font: 13px/1.5'>Experiencing issues</td>\n";
-                break;
-            }
-
-          }
-        echo "</tr>\n";
-
-        // Second row - thumbnail of system with link for page
-        echo "<tr>\n";
-        for ($c = 0; $c < $n_cols; $c++)
-          {
-            $i = ($r * $n_cols) + $c;
-            if ($i >= $count)
-              break;
-
-            echo  "<td>\n" .
-                    "<a href='" . $this->equipment[$i]->page . "'>" .
-                      "<img src='" . $this->equipment[$i]->thumbnail . "' width='200'>" .
-                    "</a>" .
-                  "</td>\n";
-          }
-        echo "</tr>\n";
-
-        // Third row - short description of system and link
-        echo "<tr>\n";
-        for ($c = 0; $c < $n_cols; $c++)
-          {
-            $i = ($r * $n_cols) + $c;
-            if ($i >= $count)
-              break;
-
-            echo  "<td><p>" . $this->equipment[$i]->description . "</p></td>\n";
-          }
-        echo "</tr>\n";
+        $this->draw_facilities_table_row ($row, $n_cols, "draw_facilities_state");
+        $this->draw_facilities_table_row ($row, $n_cols, "draw_facilities_thumbnail");
+        $this->draw_facilities_table_row ($row, $n_cols, "draw_facilities_description");
       }
-
     echo "</table>\n";
     return;
   }
+
+  private function draw_facilities_table_row ($row, $n_cols, $method)
+  {
+    echo "<tr>\n";
+    for ($col = 0; $col < $n_cols; $col++)
+      {
+        $i = ($row * $n_cols) + $col;
+        if ($i < count ($this->equipment))
+          call_user_func (array ($this, $method), $this->equipment[$i]);
+        else
+          echo "<td></td>\n";
+      }
+    echo "</tr>\n";
+  }
+
+
+  private function draw_facilities_state ($equipment)
+  {
+    try
+      {
+        switch ($equipment->status ()->state)
+          {
+            case State::UP:
+              echo "<td style='background-color: #396; padding: 8px 15px;'>System operational</td>\n";
+              break;
+            case State::DOWN:
+              echo "<td style='background-color: #C30; padding: 8px 15px;'>System down</td>\n";
+              break;
+            case State::ISSUES:
+              echo "<td style='background-color: #F29D50; padding: 8px 15px;'>Experiencing issues</td>\n";
+              break;
+            default:
+              echo "<td style='background-color: #C30; padding: 8px 15px;'>Unrecognized system state</td>\n";
+          }
+      }
+    catch (MissingEquipment $e)
+      {
+        echo "<td style='background-color: #C30; padding: 8px 15px;'>Unrecognized system</td>\n";
+      }
+    catch (BadWikiSyntax $e)
+      {
+        echo "<td style='background-color: #C30; padding: 8px 15px;'>Unrecognized system state</td>\n";
+      }
+  }
+
+  private function draw_facilities_thumbnail ($equipment)
+  {
+    echo  "<td>\n" .
+            "<a href='" . $equipment->page . "'>" .
+              "<img src='" . $equipment->thumbnail . "' width='200'>" .
+            "</a>" .
+          "</td>\n";
+  }
+
+  private function draw_facilities_description ($equipment)
+  {
+    echo  "<td><p>" . $equipment->description . "</p></td>\n";
+  }
+
 }
 
 ?>

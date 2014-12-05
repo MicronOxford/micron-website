@@ -87,7 +87,7 @@
             "facilities/lightsheet.php"
           ),
         ));
-        $equipment->draw_facilities_table ();
+        $equipment->draw_facilities_table (4);
       ?>
 
       <!-- FIXME these are in separate table because they need status
@@ -103,7 +103,7 @@
           <td><p>Olympus FV1000 Laser Scanning Microscope with Becker and Hickel FLIM system.</p></td>
           <td><p>OMX V2 dSTORM lightpath</p></td>
           <td><p>Live Cell / DNA damage Olympus</p></td>
-          <td>/td>
+          <td></td>
         </tr>
       </table>
 
