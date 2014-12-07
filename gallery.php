@@ -65,7 +65,7 @@
         </table>
       </div>
       <div id="backdiv">
-        <a href="news.shtml#gallery">back to News &amp; Media</a>
+        <a href="news.php#gallery">back to News &amp; Media</a>
       </div>
 
     </div>

@@ -34,7 +34,7 @@
           biomedical researchers in the Oxford area and beyond to apply advanced
           cellular imaging techniques to address key questions in biology. We are
           focusing on the development and use of single molecule methods, light
-          sheet and <a href="research/super_resolution_microscopy.shtml">super-resolution microscopy</a>.
+          sheet and <a href="research/super_resolution_microscopy.php">super-resolution microscopy</a>.
         </p>
 
         <!-- get a random image name from the gallery using chooseimage script -->
@@ -50,7 +50,7 @@
           <li><a href="about.php">Contact Us</a></li>
           <li><a href="gallery.php"
             title="more research images">more research images</a></li>
-          <li>view our <a href="research/publications.shtml"
+          <li>view our <a href="research/publications.php"
             title="publications">Publications</a> and our <a href="research.php"
             title="research">Research</a></li>
 
@@ -66,19 +66,19 @@
             title="Ilan" alt="Ilan" >
           <area shape="circle" coords="61,49,8" href="http://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=568"
             title="Neil" alt="Neil" >
-          <area shape="rect" coords="75,37,89,76" href="people/Ian.shtml"
+          <area shape="rect" coords="75,37,89,76" href="people/Ian.php"
             title="Ian" alt="Ian" >
-          <area shape="rect" coords="99,42,114,93" href="people/Eva.shtml"
+          <area shape="rect" coords="99,42,114,93" href="people/Eva.php"
             title="Eva" alt="Eva" >
           <area shape="rect" coords="127,38,148,93"  href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/graeme-ball"
             title="Graeme" alt="Graeme" >
-          <area shape="circle" coords="165,41,9" href="people/Lothar.shtml"
+          <area shape="circle" coords="165,41,9" href="people/Lothar.php"
             title="Lothar" alt="Lothar" >
-          <area shape="rect" coords="173,34,190,91" href="people/Rainer.shtml"
+          <area shape="rect" coords="173,34,190,91" href="people/Rainer.php"
             title="Rainer" alt="Rainer" >
-          <area shape="circle" coords="214,44,12" href="people/Richard.shtml"
+          <area shape="circle" coords="214,44,12" href="people/Richard.php"
             title="Richard" alt="Richard" >
-          <area shape="rect" coords="232,34,256,92" href="people/Alan.shtml"
+          <area shape="rect" coords="232,34,256,92" href="people/Alan.php"
             title="Alan" alt="Alan" >
           <area shape="rect" coords="63,6,151,33" href="http://saltbridges.bioch.ox.ac.uk"
             title="the Birds" alt="New Biochemistry artwork" >
@@ -86,7 +86,7 @@
         <!-- useful info about Micron -->
         <div id=moreinfo>
           <ul>
-            <li><a href="software/SIMCheck.shtml"><img src="images/SIMcheck_logo_small.jpg"></a></li>
+            <li><a href="software/SIMCheck.php"><img src="images/SIMcheck_logo_small.jpg"></a></li>
             <li><a href="http://omero1.bioch.ox.ac.uk"
                 title="OME database">
               OME <img id="OMEIcon" src="images/OMEFav.jpg" alt="Micron OME database"

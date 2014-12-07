@@ -231,22 +231,22 @@
               <!-- Maria, Mick, Antonia -->
             <tr>
               
-              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.shtml">Mick Phillips</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.shtml">
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.php">Mick Phillips</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.php">
                     <img src="images/mick.jpg"
                     width="60" height="80" alt="Mick Phillips" 
                     title="Mick Phillips"></a>
                   NanO Postdoc.
               </td>
-              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">Antonia Goehler</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.php">Antonia Goehler</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.php">
                     <img src="images/Antonia.jpg"
                     width="60" height="80" alt="Antonia Goehler" title="Antonia Goehler"></a>
                   NanO Postdoc.
               </td>
             
-                          <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">Sebastian Schubert</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">
+                          <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.php">Sebastian Schubert</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.php">
                     <img src="images/sebastian.jpg"
                     width="60" height="80" alt="Sebastian Schubert" title="Sebastian Schubert"></a>
                   NanO Postdoc in non-linear SIM and RESOLFT microscopy.

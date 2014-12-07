@@ -55,12 +55,12 @@
         </div>
 
         <h4>Find out more about <a href="research.php">Micron research</a>,
-            and our <a href="research/micron_publications.shtml">publications</a>.</h4>
+            and our <a href="research/micron_publications.php">publications</a>.</h4>
 
         <h4>Meet <a href="people.php">Micron people</a> and <a href="people.php">bioimaging community</a>.</h4>
 
         <h4>Explore our <a href="resources.php#Lectures">teaching</a>
-          and <a href="news.shtml#outreach">outreach</a> material.</h4>
+          and <a href="news.php#outreach">outreach</a> material.</h4>
 
         <h4>Take a tour of our <a href="facilities.php">facilities</a>.</h4>
 

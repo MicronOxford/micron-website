@@ -44,7 +44,7 @@
         </p>
         <ul>
             <li>Developing an ImageJ plugin suite, 
-            <a href="http://www.micron.ox.ac.uk/microngroup/software/SIMCheck.shtml">"SIMcheck"</a>, 
+            <a href="http://www.micron.ox.ac.uk/microngroup/software/SIMCheck.php">"SIMcheck"</a>, 
             to assess super-resolution SIM data quality, check for the presence 
             of artifacts, and optimize the reconstruction process.</li>
           <li>Integrating image processing functionality into
