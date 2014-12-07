@@ -25,7 +25,7 @@
       <p>
         We have a range of super-resolution, wide-field and confocal systems.
         If you are unsure which instrument suits your needs, we have produced
-        an <a href="facilities/microscope_comparison.shtml">instrument summary table</a>
+        an <a href="facilities/microscope_comparison.php">instrument summary table</a>
         of the pros and cons of each. Our <a href="resources.php">educational material</a>
         also contains a wealth of information that should enable you to get
         the most out of your imaging. If you have any questions or to enquire
@@ -94,26 +94,38 @@
             "images/lightsheet_thumb.jpg",
             "facilities/lightsheet.php"
           ),
+          new Equipment (
+            "mDSLM",
+            "mDSLM lightsheet",
+            "mDSLM light sheet",
+            "images/mDSLM_thumb",
+            "facilities/mDSLM.php"
+          ),
+          new Equipment (
+            "FV1000",
+            "",
+            "Olympus FV1000 Laser Scanning Microscope with Becker and Hickel FLIM system.",
+            "images/FV1000_thumb.jpg",
+            "facilities/Olympus.php"
+          ),
+          new Equipment (
+            "FV1200",
+            "",
+            "Live Cell / DNA damage Olympus",
+            "images/FV1200_thumb.jpg",
+            "facilities/Olympuslive.php"
+          ),
+          new Equipment (
+            "omxv2_dstorm",
+            "",
+            "OMX V2 dSTORM lightpath",
+            "images/dSTORM_thumb.jpg",
+            "facilities/OMXV2dSTORM.php"
+          ),
+
         ));
         $equipment->draw_facilities_table (4);
       ?>
-
-      <!-- FIXME these are in separate table because they need status
-                 information on micron wiki -->
-      <table class="instruments">
-        <tr>
-          <td><a href='facilities/Olympus.php'><img src='images/FV1000_thumb.jpg' width='200'></a></td>
-          <td><a href='facilities/OMXV2dSTORM.php'><img src='images/dSTORM_thumb.jpg' width='200'></a></td>
-          <td><a href='facilities/Olympuslive.php'><img src='images/FV1200_thumb.jpg' width='200'></a></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td><p>Olympus FV1000 Laser Scanning Microscope with Becker and Hickel FLIM system.</p></td>
-          <td><p>OMX V2 dSTORM lightpath</p></td>
-          <td><p>Live Cell / DNA damage Olympus</p></td>
-          <td></td>
-        </tr>
-      </table>
 
       <h3>Electron microscopes (Dunn school)</h3>
 
