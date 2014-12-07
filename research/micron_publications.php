@@ -1,27 +1,19 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: Publications</title>
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="/images/MicronMu.ico" >
-      <!--#include file="analysistracking.html"-->
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="research">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-
-    <div id="mainbody"> 
-    <!-- simple mainbody without subdivision into leftpanel / rightpanel -->
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
 
     <h3>Micron Publications</h3>
 	<h4>2012</h4>
@@ -44,7 +36,7 @@
     </li>
     <li>Hu B, Itoh T, Mishra A, Katoh Y, Chan KL, Upcher W, Godlee C, Roig MB, Shirahige K, Nasmyth K. (2011). ATP hydrolysis is required for relocating cohesin from sites occupied by its Scc2/4 loading complex. Curr Biol. Jan 11;21(1):12-24.
     </li>
-    <li>Kurze A, Michie KA, Dixon SE, Mishra A, Itoh T, Khalid S, Strmecki L, Shirahige K, Haering CH, Löwe J, Nasmyth K. (2011). A positively charged channel within the Smc1/Smc3 hinge required for sister chromatid cohesion. EMBO J. Jan 19;30(2):364-78.
+    <li>Kurze A, Michie KA, Dixon SE, Mishra A, Itoh T, Khalid S, Strmecki L, Shirahige K, Haering CH, LÃ¶we J, Nasmyth K. (2011). A positively charged channel within the Smc1/Smc3 hinge required for sister chromatid cohesion. EMBO J. Jan 19;30(2):364-78.
     </li>
     <li>Trichas, G, Joyce, B, Crompton, L, Wilkins, V, Clements, M, Tada, M, Rodriguez, T A and Srinivas, S (2011).  Nodal dependent differential localisation of Dishevelled-2 demarcates regions of differing cell behaviour in the visceral endoderm.  PLoS Biology  9(2): e1001019.
     </li>
@@ -63,20 +55,16 @@ Nucleic Acids Res. 2011 Jul;39(12):5140-8.
 <li>
 Mechanism of size-dependent segregation at the immune synapse determined with molecular rulers.
 
-Alakoskela JM, Koner AL, Rudnicka D, Köhler K, Howarth M, Davis DM.
+Alakoskela JM, Koner AL, Rudnicka D, KÃ¶hler K, Howarth M, Davis DM.
 
 Biophysical Journal 2011 Jun 22;100(12):2865-74. </li>
 
        </ul>
+
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 

@@ -10,14 +10,12 @@
   <link rel="stylesheet" type="text/css" href="styles/main.css" >
   <link rel="stylesheet" type="text/css" href="styles/research.css" >
   <link rel="icon" type="image/ico" href="images/MicronMu.ico" >
+  <script src="google_analytics.js"></script>
 </head>
 
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="research">
   <div id="container_all">
-
     <?php include "headnav.html"; ?>
-
     <div id="mainbody">
 
       <div id="leftpanel">
@@ -54,8 +52,8 @@
             following approaches:
           </p>
           <ul>
-            <li>Super-resolution imaging using <a href="research/super_resolution_microscopy.shtml">structured illumination</a></li>
-            <li>Super-resolution imaging and single molecule dynamics using <a href="research/localization-microscopy.shtml">localization microscopy</a></li>
+            <li>Super-resolution imaging using <a href="research/super_resolution_microscopy.php">structured illumination</a></li>
+            <li>Super-resolution imaging and single molecule dynamics using <a href="research/localization-microscopy.php">localization microscopy</a></li>
             <li>Light sheet microscopy and tomography</li>
             <li>Advanced Total Internal Reflection Microscopy methods</li>
             <li>Advanced multidimensional live cell imaging using the OMX microscope</li>

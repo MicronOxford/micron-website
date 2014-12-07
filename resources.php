@@ -13,18 +13,15 @@
   <script src="google_analytics.js"></script>
 </head>
 
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="resources">
   <div id="container_all">
-
     <?php include "headnav.html"; ?>
-
     <div id="mainbody">
 
       <div id="leftpanel">
         <br>
-        <h3><a href="software/SIMCheck.shtml"><img id="wikiIcon" src="images/SIMcheck_logo_small.jpg" alt="SIMcheck"
-                   width="50" height="17" ></a></h3><p>SIMcheck v1.0, an ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control will be available soon. <a href="software/SIMCheck.shtml">Watch this space!</a></p>
+        <h3><a href="software/SIMCheck.php"><img id="wikiIcon" src="images/SIMcheck_logo_small.jpg" alt="SIMcheck"
+                   width="50" height="17" ></a></h3><p>SIMcheck v1.0, an ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control will be available soon. <a href="software/SIMCheck.php">Watch this space!</a></p>
         <h3>Micron Advanced Microscopy Course</h3>
         <p class="course">We hold an annual advanced microscopy course for Wellcome Trust postgraduate students (and other interested research staff).</p>
 
