@@ -20,8 +20,6 @@
         <?php
           include "../scripts/microscopes.php";
           use MicronOxford\OpticalMicroscope;
-          use MicronOxford\SolidStateLaser;
-          use MicronOxford\GasLaser;
           use MicronOxford\Objective;
 
           $bungle = new OpticalMicroscope (

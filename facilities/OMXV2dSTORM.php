@@ -5,8 +5,8 @@
 <head>
   <title>Micron Oxford Advanced Bioimaging: OMX V2 dSTORM</title>
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="../styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="../styles/micron_facilities.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/facilities.css" >
   <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
   <script src="../google_analytics.js"></script>
 </head>
@@ -45,8 +45,7 @@
       </div>
 
       <div id="rightpanel">
-        <a name="software">
-        <img id="dSTORM" src="images/dSTORM_thumb.jpg"  width="200" height="133"
+        <img id="dSTORM" src="../images/dSTORM_thumb.jpg"  width="200" height="133"
               alt="OMX V2 dSTORM" title="OMX V2 dSTORM"/>
         <p></p>
         <ul>
