@@ -1,31 +1,24 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: Alan Wainman's page</title>
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/person_page.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/Micron.ico" >
-      <!--#include file="analysistracking.html"-->
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="people">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
+
           <h3>Alan Wainman - Micron Post-doc</h3> email:<a href="mailto:alan.wainman@path.ox.ac.uk">alan.wainman@path.ox.ac.uk</a>
-        <p>          <img id="people_thumb" src="images/alan.jpg" alt="Alan"
+        <p>          <img src="../images/alan.jpg" alt="Alan"
                          title="Alan Wainman" width="60" height="80" /></p>
         <p>         
           I am a Post-doc in the Dunn School of Pathology where I look after the light microscopes. I'm also a Post-doc in Jordan Raff's lab where I am interested in understanding how a cell can cope with either too few centrosomes or too many.
@@ -88,14 +81,9 @@ J Cell Biol. 2009 Nov 2;187(3):355-63. Epub 2009 Oct 26.</li>
       </div>
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 

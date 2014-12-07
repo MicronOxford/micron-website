@@ -1,39 +1,31 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: Richard Parton's Page</title>
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/micron_research.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/MicronMu.ico" >
-      <!--#include file="analysistracking.html"-->
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="people">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
-        
+
           <h3>Richard Parton - Senior Postdoctoral Researcher and Imaging Specialist.</h3> email:<a href="mailto:richard.parton@bioch.ox.ac.uk">richard.parton@bioch.ox.ac.uk</a>
        
-                 <img id="people_thumb" src="images/richard.jpg" alt="Richard"
+                 <img src="../images/richard.jpg" alt="Richard"
                          title="Richard Parton" width="60" height="80" />  
           
           
         
         <p>I work in the Davis lab using state-of-the-art and advanced imaging techniques as well as developing improved imaging methods and quantitative image analysis to investigate the molecular mechanism of RNA transport in Drosophila tissues. This includes working to establish semi-automated particle recognition and tracking applicable to the challenging live cell data produced in the Davis lab. Recently I have worked with Graeme Ball (Micron) and Russell Hamilton (Davis Lab) to quantitatively analyse the microtubule organisation of Drosophila oocytes.</p> 
-    <p>During my own work and through collaborations I have gained considerable experience with quantitative live cell imaging and image analysis applied to a variety of biological systems and questions working in collaboration together with researchers with Mathematics, Physics and Chemistry backgrounds. I oversee the development of imaging technology in the Davis lab and was involved in the establishment of New Biochemistry Department Advanced Imaging Unit “Micron” and in the education courses it runs. </p>
+    <p>During my own work and through collaborations I have gained considerable experience with quantitative live cell imaging and image analysis applied to a variety of biological systems and questions working in collaboration together with researchers with Mathematics, Physics and Chemistry backgrounds. I oversee the development of imaging technology in the Davis lab and was involved in the establishment of New Biochemistry Department Advanced Imaging Unit "Micron" and in the education courses it runs. </p>
     <p>I have a special interest in dynamic cell activities at the single and multi cell level with respect to the determination of cell and tissue growth and development. In addition to my research projects, part of my role is to provide technical advice and imaging support to other researchers and students.</p>
 <p>Outside the lab I enjoy nature photography.</p>
 
@@ -91,14 +83,9 @@ Trends Cell Biol. 2010 Jul;20(7):380-90. Epub 2010 May 3. Review.
       </div>
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 

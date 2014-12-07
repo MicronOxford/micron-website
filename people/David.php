@@ -1,40 +1,29 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: David Pinto</title>
-  <meta name=description content="Research page for Graeme Ball, image analysis specialist at 
-    Micron Oxford">
-  <meta name=keywords content="Graeme Ball image analysis processing Micron Oxford">
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/person_page.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/MicronMu.ico" >
-      <!--#include file="analysistracking.html"-->
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="people">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
+
           <h3>David Pinto - Image Analysis Specialist</h3> email:<a href="mailto:david.pinto@bioch.ox.ac.uk">david.pinto@bioch.ox.ac.uk</a>
-          <p><img id="person_passport" src="images/david_thumb.jpg" alt="David Pinto"
+          <p><img src="../images/david_thumb.jpg" alt="David Pinto"
                          title="David Pinto" width="90" height="120" ></p>
         <p id="person_intro">I am Micron's image analysis guy. I have experience with multiple
 imaging systems and environment for their analysis but mainly, I want
 to help users to establish automatic workflows for their analysis.
-Under the alias of Carnë Draug, I have contributed to several FOSS
+Under the alias of CarnÃ« Draug, I have contributed to several FOSS
 projects from text editors to build tools, always with the aim of
 scratching some itch. I am currently also the maintainer of the
 Octave's package for image processing.</p>
@@ -60,14 +49,9 @@ Springer Netherlands, 2010.</li>
       </div>
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 

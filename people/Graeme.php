@@ -1,40 +1,29 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: Graeme Ball</title>
-  <meta name=description content="Research page for Graeme Ball, image analysis specialist at 
-    Micron Oxford">
-  <meta name=keywords content="Graeme Ball image analysis processing Micron Oxford">
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/person_page.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/MicronMu.ico" >
-      <!--#include file="analysistracking.html"-->
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="people">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
+
           <h3>Graeme Ball - Image Analysis Specialist</h3>
-          <p><img id="person_passport" src="images/graeme_thumb.jpg" alt="Graeme Ball"
+          <p><img src="../images/graeme_thumb.jpg" alt="Graeme Ball"
                          title="Graeme Ball" width="90" height="120" ></p>
         <p id="person_intro">I am the Micron image analysis specialist. My primary 
         goal is to make new biomedical discoveries possible by providing image 
         analysis expertise and 
-        <a href="http://www.micron.ox.ac.uk/microngroup/micron_facilities.php">facilities</a>
+        <a href="http://www.micron.ox.ac.uk/microngroup/facilities.php">facilities</a>
         to my colleagues in Micron and the researchers who come to work with 
         us. I am interested in both the biological questions people 
         are working on, and the techniques that will help them to answer these 
@@ -119,14 +108,9 @@
       </div>
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 

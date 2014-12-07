@@ -1,31 +1,24 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
-  <title>Micron Oxford Advanced Bioimaging: Lothar Schermelleh's  page</title>
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" />
-  <link rel="stylesheet" type="text/css" href="styles/person_page.css" />
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/MicronMu.ico" />
-      <!--#include file="analysistracking.html"-->
+  <title>Micron Oxford Advanced Bioimaging: Justin Demmerle's page</title>
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="people">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
+
         <h3>Justin Demmerle - Schermelleh Group</h3> email:<a href="mailto:justin.demmerle@bioch.ox.ac.uk">justin.demmerle@bioch.ox.ac.uk</a>
-          <p><img id="person_passport" src="images/Justin_big.jpg" alt="Justin"
+          <p><img src="../images/Justin_big.jpg" alt="Justin"
                          title="Justin Demmerle" width="180" height="180" >    
          </p>
          
@@ -48,14 +41,9 @@
       </div>
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 

@@ -1,35 +1,24 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: Douglas Russell</title>
-  <meta name=description content="Research page for Graeme Ball, image analysis specialist at 
-    Micron Oxford">
-  <meta name=keywords content="Graeme Ball image analysis processing Micron Oxford">
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/person_page.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/MicronMu.ico" >
-      <!--#include file="analysistracking.html"-->
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="people">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
+
           <h3>Douglas Russell - OME software Developer associated with Oxford Micron</h3> email:<a href="mailto:douglas.russell@bioch.ox.ac.uk">douglas.russell@bioch.ox.ac.uk</a>
-          <p><img id="person_passport" src="images/Douglas.jpg" alt="Douglas Russell"
+          <p><img src="../images/Douglas.jpg" alt="Douglas Russell"
                          title="Douglas Russell" width="90" height="120" ></p>
         <p id="person_intro">As a satellite developer of the main <a href="http://www.openmicroscopy.org/site">OMERO project</a> at the University of Dundee I am working closely with Oxford Micron to investigate opportunities for integrating OMERO functionality to benefit Biochemistry and the OMERO
 community as a whole.</p>
@@ -46,17 +35,17 @@ community as a whole.</p>
               <li>A. C. Simpson, D. J. Power, D. Russell, M. A. Slaymaker, V. Bailey, C. E. Tromans, J. M. Brady, and L. Tarassenko.
                   Gimi: the past, the present, and the future.
                   Philosophical Transactions of the
-Royal Society A: Mathematical, Physical and Engineering Sciences, 368:3891–3905, 2010</li>       
+Royal Society A: Mathematical, Physical and Engineering Sciences, 368:3891â€“3905, 2010</li>       
             </ul>
             <h4>2009</h4>
             <ul class="publicationlist">
               <li>Andrew Simpson, Mark Slaymaker, Moi Hoon Yap, Alastair Gale, David Power, and Douglas Russell.
                   On the utilisation of a service-oriented infrastructure to support radiologist training.
-                  Proceedings of the 22nd IEEE Symposium on Computer-Based Medical Systems (CBMS 2009), pages 1–4.</li>
+                  Proceedings of the 22nd IEEE Symposium on Computer-Based Medical Systems (CBMS 2009), pages 1â€“4.</li>
               
               <li>D. Russell, D. J. Power, M. A. Slaymaker, X. Ma G. Kouadri Mostefaoui, and A. C. Simpson.
                   On the secure sharing of legacy data.
-                  In Proceedings of the 2009 IEEE Conference on IT: Next Generation (ITNG 2009), pages 1676–1679</li>       
+                  In Proceedings of the 2009 IEEE Conference on IT: Next Generation (ITNG 2009), pages 1676â€“1679</li>       
               
               <li>A. C. Simpson, D. J. Power, D. Russell, M. A. Slaymaker, V. Bailey, C. Tromans, J. M. Brady, and L. Tarassenko.
                   GIMI: the past, the present, and the future.
@@ -65,11 +54,11 @@ Royal Society A: Mathematical, Physical and Engineering Sciences, 368:3891–3905,
                         <h4>2008</h4>
             <ul class="publicationlist">
               <li>A. C. Simpson, D. J. Power, D. Russell, M. A. Slaymaker, G. Kouadri Mostefaoui, G.Wilson, and X. Ma.
-                  The development, testing, and deployment of a web services infrastructure for distributed healthcare delivery, research, and training, pages 1–22.</li>
+                  The development, testing, and deployment of a web services infrastructure for distributed healthcare delivery, research, and training, pages 1â€“22.</li>
                   
               <li>A. C. Simpson, D. J. Power, D. Russell, M. A. Slaymaker, G. Kouadri-Mostefaoui, X. Ma, and G. Wilson. 
               A healthcare-driven framework for facilitating the secure sharing of data across organisational boundaries. 
-              Studies in Health Technology and Informatics, 138:3–12.  </li>
+              Studies in Health Technology and Informatics, 138:3â€“12.  </li>
               
               <li>Chris Tromans, Sir Mike Brady, David Power, Mark Slaymaker, Douglas Russell, and Andrew Simpson. 
               The application of a service-oriented infrastructure to support medical research in mammography.
@@ -95,14 +84,9 @@ Royal Society A: Mathematical, Physical and Engineering Sciences, 368:3891–3905,
 
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 

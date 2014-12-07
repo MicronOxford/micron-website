@@ -1,31 +1,24 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 
-<html> 
+<html lang="en-GB">
 
 <head>
   <title>Micron Oxford Advanced Bioimaging: Eva Wegel's Page</title>
-  <link rel="stylesheet" type="text/css" href="styles/micron_main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/person_page.css" >
-  <link rel="icon" 
-      type="image/ico" 
-      href="images/MicronMu.ico" >
-      <!--#include file="analysistracking.html"-->
+  <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="../styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
+  <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
+  <script src="../google_analytics.js"></script>
 </head>
 
-
-<!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
 <body id="people">
   <div id="container_all">
-
-    <!-- include html file containing header and navigation divs common to all pages -->
-    <!--#include file="micron_headnav.html"-->
-
-    <div id="mainbody"> 
-    <!-- mainbody is subdivided into leftpanel and smaller rightpanel -->
-
+    <?php include "../headnav.html"; ?>
+    <div id="mainbody">
       <div id="leftpanel">
+
         <h3>Eva Wegel - Assistant Facility Manager</h3> email:<a href="mailto:eva.wegel@bioch.ox.ac.uk">eva.wegel@bioch.ox.ac.uk</a>
-          <p><img id="person_passport" src="images/eva_thumb.jpg" alt="Eva"
+          <p><img src="../images/eva_thumb.jpg" alt="Eva"
                          title="Eva Wegel" width="60" height="80" /></p>
           <p>        
             I am a biologist with more than 15 years experience in various light microscopy techniques. After my degree I worked at the Max Planck Institute for Plant Breeding in Cologne and later at the John Innes Centre in Norwich. My work on nuclear structure and gene activation in wheat at the John Innes Centre enabled me to gain a PhD from the University of Wageningen (The Netherlands).  After ten years at the John Innes Centre I moved to the University of Cambridge and into imaging of animal cells. I joined Micron in June 2011. My particular interest lies in super-resolution microscopy and fixed sample preparation.        
@@ -55,14 +48,9 @@ Plant Cell. 2009 Dec;21(12):3926-36. Epub 2009 Dec 29.</li>
       </div>
 
     </div>
-
-
-    <!-- include html file containing footer div common to all pages -->
-    <!--#include file="micron_footer.html"-->
-
+    <?php include "../footer.html"; ?>
   </div>
 </body>
-
 
 </html>
 
