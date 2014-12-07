@@ -80,10 +80,14 @@ class Wavelength
   {
     switch ($this->length)
     {
+      case 355: return array ("DNA damaging");
       case 405: return array ("Alexa 405", "DAPI", "Hoechst");
       case 445: return array ("CFP");
       case 488: return array ("Alexa 488", "FITC", "GFP", "Cy2");
+      case 514: return array ("Alexa 514", "YFP");
       case 515: return array ("Alexa 514", "YFP");
+      case 559: return array ("Alexa 546", "TRITC", "Cy3", "DiI",
+                              "propidium iodide", "Texas red", "mCherry");
       case 561: return array ("Alexa 546", "TRITC", "Cy3", "DiI",
                               "propidium iodide", "Texas red", "mCherry");
       case 568: return array ("Alexa 546", "TRITC", "Cy3", "DiI",
@@ -91,6 +95,7 @@ class Wavelength
       case 593: return array ("Alexa 546", "TRITC", "Cy3", "DiI",
                               "propidium iodide", "Texas red", "mCherry");
       case 633: return array ("Alexa 633", "Alexa 647", "Cy5");
+      case 635: return array ("Alexa 633", "Alexa 647", "Cy5");
       case 638: return array ("Alexa 633", "Alexa 647", "Cy5");
       case 640: return array ("Alexa 633", "Alexa 647", "Cy5");
       default:  return array ();
