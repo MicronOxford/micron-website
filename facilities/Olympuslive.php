@@ -25,7 +25,7 @@
           use MicronOxford\Objective;
 
           $FV1200 = new OpticalMicroscope (
-            "olympus",
+            "FV1200",
             "Olympus Fluoview FV1200",
             "Dunn School of Pathology Room 214.00.25",
             array (
