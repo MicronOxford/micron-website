@@ -42,8 +42,19 @@
 
       <div id="rightpanel">
           <h3>Publications</h3>
+          <h4>2014</h4>
+          <ul class="publicationlist">
+          <li>Conduit PT, Richens JH, Wainman A, Holder J, Vicente CC, Pratt MB, Dix CI, Novak ZA, Dobbie IM, Schermelleh L, Raff JW.
+          A molecular mechanism of mitotic centrosome assembly in Drosophila.
+          Elife. 2014 Aug 22;3</li>
+          <li>Kaufmann R, Schellenberger P, Seiradake E, Dobbie IM, Jones EY, Davis I, Hagen C, Grünewald K.
+          Super-resolution microscopy using standard fluorescent proteins in intact cells under cryo-conditions.
+          Nano Lett. 2014 Jul 9;14(7):4171-5.</li></ul>
           <h4>2012</h4>
           <ul class="publicationlist">
+          <li>Weil TT, Parton RM, Herpers B, Soetaert J, Veenendaal T, Xanthakis D, Dobbie IM, Halstead JM, Hayashi R, Rabouille C, Davis I.
+          Drosophila patterning is established by differential association of mRNAs with P bodies.
+          Nat Cell Biol. 2012 Dec;14(12):1305-13.</li>
           <li>Brown AC, Dobbie IM, Alakoskela JM, Davis I, Davis DM.
           Super-resolution imaging of remodelled synaptic actin reveals different synergies between NK cell receptors and integrins.
           Blood. 2012 Sep 10.</li>
