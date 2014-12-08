@@ -95,13 +95,6 @@
             "facilities/lightsheet.php"
           ),
           new Equipment (
-            "mDSLM",
-            "mDSLM lightsheet",
-            "mDSLM light sheet",
-            "images/mDSLM_thumb",
-            "facilities/mDSLM.php"
-          ),
-          new Equipment (
             "FV1000",
             "",
             "Olympus FV1000 Laser Scanning Microscope with Becker and Hickel FLIM system.",
