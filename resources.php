@@ -101,6 +101,18 @@
 
 
       <div id="rightpanel">
+<h3>ONBI Course 2014-2015: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
+<p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="ONBI_Course.php" >here..</a> </p>
+<p><b>Practicals</b>
+<ul id="micronlectures">
+
+            <li><a href="resources/Practical_01.pdf" >Practical 01 - Sample Prep.</a></li>
+            <li><a href="resources/Practical_02.pdf" >Practical 02 - Brightfield Microscopes</a></li>
+            <li><a href="resources/Practical_03.pdf" >Practical 03/4/5 - Fluorescence and PSFs</a></li>
+            <li><a href="resources/Practical_06.pdf" >Practical 06 - Raspberry Pi</a></li>
+            <li><a href="resources/Practical_07.pdf" >Practical 07 - Microscope Comparison</a></li>
+
+              </ul>
 
         <h3>Micron Advanced Microscopy Course</h3>
           <img src="images/seminar.jpg" width="240" height="132"
