@@ -44,7 +44,7 @@ function MM_swapImage() { //v3.0
 
     <div id="mainbody">
 
-    <h3>Micron Advanced Microscopy Course 2014	</h3> Click on image for lecture notes
+    <h3>Micron Advanced Microscopy Course 2014</h3>	Click on image for lecture notes
     <div >
     
     <a href="resources/Lecture_00_welcome.pdf"> <img id="slides" src="images/lecture_00.jpg"  width="170" height="131" alt="Welcome"></a>
@@ -87,7 +87,8 @@ function MM_swapImage() { //v3.0
      <a href="resources/Lecture_18_Image_Manangement.pdf"><img id="slides" src="images/lecture_18.jpg"  width="170" height="130" alt="lecture 18"></a>
      
      <a href="resources/Lecture_19_image_analysis.pdf"><img id="slides" src="images/lecture_19.jpg"  width="170" height="130" alt="lecture 19"></a>
-
+    
+    
     </div>
 
     </div>

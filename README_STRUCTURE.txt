@@ -1,11 +1,10 @@
 *** Introduction & general comments ***
 
   * HTML 4.01//EN (strict) throughout (to transition to html5)
-  * all pages use the same base stylesheet: micron_main.css 
-      (see the commented .txt version of this file for comments on style choices)
-    additional style information is included in extra 
+  * all pages use the same base stylesheet: main.css
+    additional style information is included in extra
       page-specific .css files where necessary
-  * major files in main directory - subdirectories are:-
+  * major files in main directory - subdirectories are:
         ./images/      - for general site images
         ./styles/      - for .css style sheets
         ./scripts/     - for php scripts
@@ -14,7 +13,7 @@
         ./research/    - for research topic pages
         ./facilities/  - for pages about faciilities
         ./resources/   - for downloadable documents etc.
-        ./wiki/        - for static html from wiki snapshot
+
     !!NB. to make sure includes and links in subdirectories work,
        soft links to the following are required in each:-
          ../micron_headnav.html  ../micron_footer.html  ../images  ../styles 
