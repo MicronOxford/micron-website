@@ -108,14 +108,14 @@
             "images/FV1200_thumb.jpg",
             "facilities/Olympuslive.php"
           ),
-          new Equipment (
-            "omxv2_dstorm",
-            "",
-            "OMX V2 dSTORM lightpath",
-            "images/dSTORM_thumb.jpg",
-            "facilities/OMXV2dSTORM.php"
-          ),
-
+          ## do not have this for now.. this is the same microscope as OMXV2
+#          new Equipment (
+#            "omxv2_dstorm",
+#            "",
+#            "OMX V2 dSTORM lightpath",
+#            "images/dSTORM_thumb.jpg",
+#            "facilities/OMXV2dSTORM.php"
+#          ),
         ));
         $equipment->draw_facilities_table (4);
       ?>
