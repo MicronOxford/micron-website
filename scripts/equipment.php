@@ -123,7 +123,7 @@ class EquipmentManager
               default: throw new BadWikiSyntax ("weird equipment state");
             }
             if (array_key_exists ("info", $matches))
-              $eq_status->info = $matches["info"][0];
+              $eq_status->info = htmlentities ($matches["info"][0]);
 
             self::$status[$id] = $eq_status;
             return;
