@@ -101,6 +101,22 @@
 
 
       <div id="rightpanel">
+  
+  <h3>ONBI Course 2014-2015: Week 2</h3> 
+  
+  <p></p>"Microscope engineering theory and practice"<p></p><p><b>lecture presentations</b></p><p>can be downloaded <a href="ONBI_Course_II.php">here..</a></p>
+  <p><b>Week 2 Practicals</b>  
+  <ul id="micronlectures"> 
+  <ul id="micronlectures">
+
+            <li><a href="resources/Practical_201.pdf" >Practical 01 - Illumination Path.</a></li>
+            <li><a href="resources/Practical_202.pdf" >Practical 02 - Automated control with Raspberry Pi</a></li>
+            <li><a href="resources/Practical_203.pdf" >Practical 03 - Splitting fluorescence to two sensors</a></li>
+            <li><a href="resources/Practical_204.pdf" >Practical 04 - Simple adaptive optics</a></li>
+            
+
+              </ul>
+      
 <h3>ONBI Course 2014-2015: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
 <p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="ONBI_Course.php" >here..</a> </p>
 <p><b>Practicals</b>

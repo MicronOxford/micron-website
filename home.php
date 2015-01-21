@@ -50,7 +50,7 @@
           <li><a href="about.php">Contact Us</a></li>
           <li><a href="gallery.php"
             title="more research images">more research images</a></li>
-          <li>view our <a href="research/publications.php"
+          <li>view our <a href="research/micron_publications.php"
             title="publications">Publications</a> and our <a href="research.php"
             title="research">Research</a></li>
 
