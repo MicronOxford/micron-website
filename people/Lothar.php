@@ -18,7 +18,7 @@
       <div id="leftpanel">
 
         <h3>Lothar Schermelleh - Micron Group Leader</h3> email:<a href="mailto:lothar.schermelleh@bioch.ox.ac.uk">lothar.schermelleh@bioch.ox.ac.uk</a>
-          <p><img src="../images/Lothar_big.jpg" alt="Lothar"
+          <p><img src="../images/Lothar.jpg" alt="Lothar"
                          title="Lothar Schermelleh" width="135" height="180" >    
          </p>
          
@@ -31,7 +31,14 @@
 As an integral member of the Micron Advanced Bioimaging Unit, we also work on new correlative super-resolution approaches for live and fixed cell imaging that are expected to be of use for many collaborative research projects within the Oxford research community. 
  </p>
  <p>&nbsp; </p>
- Co-workers: Daniel Smeets, Justin Demmerle, Michael Grange
+<p>Co-workers: </p>
+ <p>Current Lab Members: 
+Justin Demmerle (Research Assistant), 
+Ezequiel Miron Sardiello (DPhil Student).</p>
+ <p>Former Lab members:
+Daniel Smeets (visiting DPhil Student - LMU Munich) ,
+Felix Kraus (Visiting MSc Student - LMU Munich),
+Michael Grange (Rotating DPhil Student - STRUBI Oxford).</p>
         
         <h4>Research Images</h4>
 
@@ -53,6 +60,23 @@ As an integral member of the Micron Advanced Bioimaging Unit, we also work on ne
 
 
           <h3>Publications</h3>
+          <h4>2014</h4>
+          <ul class="publicationlist">
+          
+          <li>Conduit PT, Richens JH, Wainman A, Holder J, Vicente CC, Pratt MB, Dix CI, Novak ZA, Dobbie IM, Schermelleh L, Raff JW. A molecular mechanism of mitotic centrosome assembly in Drosophila. 
+          Elife. 2014 Aug 22;3:e03399.</li>
+          <li>Cooper S, Dienstbier M, Raihann H, Schermelleh L, Sharif J, Blackledge N, de Marco V, Elderkin S, Koseki H, Klose R, Heger A, Brockdorff N. 2014. Targeting polycomb to pericentric heterochromatin in ES cells reveals a role for H2AK119u1 in PRC2 recruitment. Cell Rep. 2014 Jun 12;7(5):1456-70.</li>
+
+<li>Smeets D, Markaki Y, Schmid VJ, Kraus F, Tattermusch A, Cerase A, Sterr M, Popken J, Leonhardt H, Brockdorff N, Cremer T*, Schermelleh L*, Cremer M*. 2014. 3D super-resolution microscopy of the inactive X chromosome territory reveals a collapse of its active nuclear compartment harboring distinct Xist RNA foci. Epigenetics Chromatin. 2014 Apr 28;7:8. (*co-corresponding).</li>
+
+<li>Osseforth C, Moffitt JR, Schermelleh L, Michaelis J. 2014. Simultaneous dual-color 3D STED microscopy. Opt Express. 22: 7028-39.</li>
+
+<li>Smeets D, Neumann J, Schermelleh L. 2014. Application of three-dimensional structured illumination microscopy in cell biology – pitfalls and practical considerations. In Super-Resolution Microscopy Techniques in the Neurosciences, Neuromethods Vol. 86, Fornasiero E, Rizzoli S (Eds.) Springer. 167-88.</li>
+
+<li>Cerase A, Smeets D, Tang AY, Gdula M, Kraus F, Spivakov M, Moindrot B, Leleu M, Tattermusch A, Demmerle J, Nesterova T, Green C, Otte AP, Schermelleh L, Brockdorff N. 2014. Spatial separation of Xist RNA and polycomb proteins revealed by super-resolution microscopy. Proc Natl Acad Sci USA 111: 2235-40.</li>
+
+<li>Lesterlin C, Ball G, Schermelleh L, Sherratt D. 2014. DRecA bundles mediate homology pairing between distant sisters during DNA break repair. Nature. 506: 249-53.</li>
+</ul>
           <h4>2013</h4>
           <img class="cover" src="../images/GD_cover.gif" width="90" height="120" alt="Genes and Development Cover" title="Genes and Development Cover">
           <ul class="publicationlist">
