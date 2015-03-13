@@ -101,6 +101,24 @@
 
 
       <div id="rightpanel">
+       <h3>Micron Advanced Microscopy Course</h3>
+        
+          <img src="images/seminar.jpg" width="240" height="132"
+            alt="microscopy course" >
+            
+            <h3>2015 lecture presentations</h3> can be downloaded   <a href="2015_Lectures.php" >here..</a> 
+            
+            <h3>2015 Practical Worksheets</h3>
+            
+             <ul id="micronlectures">
+            
+            <li><a href="resources/Bead_slide_prep.pdf" >Bead Slide Prep</a></li>
+            <li><a href="resources/Brightfield_worksheet.pdf" >Brightfield Worksheet</a></li>
+            <li><a href="resources/Fluorescence_worksheet.pdf" >Fluorescence Worksheet</a></li>
+              
+              </ul>
+          <h3>2014 lecture presentations</h3>(<a href="2014_Lectures.php">here..)</a> 
+            <h3>2013 lecture presentations</h3>(<a href="2013_Lectures.php">here..)</a> 
   
   <h3>ONBI Course 2014-2015: Week 2</h3> 
   
@@ -130,24 +148,7 @@
 
               </ul>
 
-        <h3>Micron Advanced Microscopy Course</h3>
-        
-          <img src="images/seminar.jpg" width="240" height="132"
-            alt="microscopy course" >
-            
-            <h3>2014 lecture presentations</h3> can be downloaded   <a href="2014_Lectures.php" >here..</a> 
-            
-            <h3>2013 Practical Worksheets</h3>
-            
-             <ul id="micronlectures">
-            
-            <li><a href="resources/Bead_slide_prep.pdf" >Bead Slide Prep</a></li>
-            <li><a href="resources/Brightfield_worksheet.pdf" >Brightfield Worksheet</a></li>
-            <li><a href="resources/Fluorescence_worksheet.pdf" >Fluorescence Worksheet</a></li>
-              
-              </ul>
-          
-            <h3>2013 lecture presentations</h3>(<a href="2013_Lectures.php">here..)</a> 
+       
          
 
       </div>
