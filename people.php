@@ -143,8 +143,8 @@
                     Yvonne Jones studies the structural biology of cell surface recognition and signalling complexes. 
               </td>
               
-              <td><h4><a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/doug-higgs">Doug Higgs</a></h4>
-                  <a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/doug-higgs">
+              <td><h4><a href="http://www.imm.ox.ac.uk/doug-higgs">Doug Higgs</a></h4>
+                  <a href="http://www.imm.ox.ac.uk/doug-higgs">
                     <img src="images/higgs.jpg"
                     width="60" height="80" alt="Doug Higgs" title="Doug Higgs "></a>
                     Doug Higgs works on how mammalian genes are switched on and off during differentiation and development. 
@@ -160,14 +160,14 @@
               </tr>
               
               <tr>
-              <td><h4><a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/vincenzo-cerundolo">Vincenzo Cerundolo</a></h4>
-                  <a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/vincenzo-cerundolo">
+              <td><h4><a href="http://www.imm.ox.ac.uk/vincenzo-cerundolo">Vincenzo Cerundolo</a></h4>
+                  <a href="http://www.imm.ox.ac.uk/vincenzo-cerundolo">
                     <img src="images/enzo.jpg"
                     width="60" height="80" alt="Vincenzo Cerundolo" title="Vincenzo Cerundolo"></a>
                     Vicenzo Cerundolo studies the mechanisms that control the cell-cell interplay required for optimal expansion and activation of tumour-specific T cell populations.
               </td>
-              <td><h4><a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/veronica-buckle">Veronica Buckle</a></h4>
-                  <a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/veronica-buckle">
+              <td><h4><a href="http://www.imm.ox.ac.uk/veronica-buckle">Veronica Buckle</a></h4>
+                  <a href="http://www.imm.ox.ac.uk/veronica-buckle">
                     <img src="images/veronica.jpg"
                     width="60" height="80" alt="Veronica Buckle" title="Veronica Buckle"></a>
                     Veronica Buckle studies the relevance of nuclear organisation to gene expression during erythropoiesis.
@@ -198,8 +198,8 @@
             <div id="oxbioimagersdiv">
           <table id="oxbioimagers">
             <tr>
-              <td><h4><a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/christian-eggeling">Christian Eggeling</a></h4>
-                  <a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/christian-eggeling">
+              <td><h4><a href="http://www.imm.ox.ac.uk/christian-eggeling">Christian Eggeling</a></h4>
+                  <a href="http://www.imm.ox.ac.uk/christian-eggeling">
                     <img src="images/christian.jpg"
                     width="60" height="80" alt="Christian Eggeling" title="Christian Eggeling"></a>
                     Christian Eggeling works on the application and development of ultra-sensitive, live-cell super-resolution fluorescence microscopy techniques. 
@@ -231,22 +231,22 @@
               <!-- Maria, Mick, Antonia -->
             <tr>
               
-              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.php">Mick Phillips</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.php">
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.shtml">Mick Phillips</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Mick.shtml">
                     <img src="images/mick.jpg"
                     width="60" height="80" alt="Mick Phillips" 
                     title="Mick Phillips"></a>
                   NanO Postdoc.
               </td>
-              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.php">Antonia Goehler</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.php">
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">Antonia Goehler</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">
                     <img src="images/Antonia.jpg"
                     width="60" height="80" alt="Antonia Goehler" title="Antonia Goehler"></a>
                   NanO Postdoc.
               </td>
             
-                          <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.php">Sebastian Schubert</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.php">
+                          <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">Sebastian Schubert</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">
                     <img src="images/sebastian.jpg"
                     width="60" height="80" alt="Sebastian Schubert" title="Sebastian Schubert"></a>
                   NanO Postdoc in non-linear SIM and RESOLFT microscopy.
@@ -271,8 +271,8 @@
                     <img src="images/leake.jpg"
                     width="60" height="80" alt="Mark Leake" title="Mark Leake"></a>
                   Mark Leake has now moved to York University as Anniversary Chair of Biological Physics.
-              </td><td><h4><a href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/graeme-ball">Graeme Ball</a></h4>
-                <p><a href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/graeme-ball">
+              </td><td><h4><a href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/dr-graeme-ball">Graeme Ball</a></h4>
+                <p><a href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/dr-graeme-ball">
                        <img src="images/graeme_thumb.jpg" alt="Graeme"
                          title="Graeme is now the Image analysis in Dundee" width="60" height="80" ></a> 
                      Graeme is now the  image analysis specialist at the University of Dundee Light and Electron Microscopy Facility </p>
@@ -281,6 +281,13 @@
                     <img src="images/Maria.jpg"
                     width="60" height="80" alt="Maria Frade" title="Maria Frade"></a>
                   Maria was a NanO Postdoc working in Adaptive Optics and has now moved into industry.
+              </td>
+            </tr><tr>
+              <td><h4><a href="https://www.jic.ac.uk/">Eva Wegel</a></h4>
+                  <p><a href="https://www.jic.ac.uk/">
+                       <img src="images/eva_thumb.jpg" alt="Eva"
+                         width="60" height="80" ></a> 
+                     Eva has now moved to the John Innes centre</p>
               </td>
             </tr>
             
@@ -310,7 +317,7 @@
 
         <div id="peoplediv">
           <h3>Micron Staff</h3>
-          <p>Micron currently employs five staff and sponsors a research fellow.</p>
+          <p>Micron currently employs four staff and sponsors a research fellow.</p>
           <table id="micronstaff">
             <tr>
               <td><h4><a href="people/Ian.php">Ian Dobbie</a></h4>
@@ -329,14 +336,7 @@
                       super-resolution microscopy</a> and nuclear organisation)
               </td>
             </tr>
-            <tr>
-              <td><h4><a href="people/Eva.php">Eva Wegel</a></h4>
-                  <p><a href="people/Eva.php">
-                       <img src="images/eva_thumb.jpg" alt="Eva"
-                         width="60" height="80" ></a> 
-                     Eva is the Micron assistant facility manager</p>
-              </td>
-            </tr>
+            
             <tr>
               <td><h4><a href="people/David.php">David Pinto</a></h4>
                   <p><a href="people/David.php">
@@ -373,15 +373,7 @@
                      Richard is a senior postdoc working for Ilan Davis</p>
               </td>
             </tr>
-            <tr>
-              <td><h4><a href="people/Justin.php">Justin Demmerle</a></h4>
-               <p><a href="people/Justin.php">
-                     <img src="images/Justin.jpg" alt="Justin"
-                       width="60" height="80" ></a>
-                     Justin is a Research Assistant working for Lothar Schermelleh
-                     </p>
-              </td>
-            </tr>
+            
             <tr>
               <td><h4>Staff Associated with Micron</h4>
 
@@ -397,15 +389,7 @@
               </td>
               </tr>
               
-                                        <tr>
-              <td><h4><a href="http://www.darogan.co.uk/">Russell Hamilton</a></h4>
-               <p><a href="http://www.darogan.co.uk/">
-                     <img src="images/Russell.jpg" alt="Russell"
-                       width="60" height="80" ></a> 
-                     Russell is a Senior Postdoc working for Ilan Davis with particular interest in computational biology and image statistics
-                     </p>
-              </td>
-              </tr>
+                                      
               <tr>
               <td><h4><a href="http://www2.physics.ox.ac.uk/contacts/people/uphoff">Stephan Uphoff</a></h4>
                <p><a href="http://www2.physics.ox.ac.uk/contacts/people/uphoff">

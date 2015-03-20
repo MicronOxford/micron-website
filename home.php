@@ -24,18 +24,15 @@
 
       <div id="leftpanel">
         <p>
-          Micron Oxford is located within the
-          <a href="http://www.bioch.ox.ac.uk">Department of Biochemistry</a>
-          and the <a href="http://www.path.ox.ac.uk/">
-          Dunn School of Pathology</a> in the South Parks Road science area at the
-          University of Oxford, and is funded by a strategic award from the
-          <a href="http://www.wellcome.ac.uk">Wellcome Trust</a>.
-          We are a collaborative, multidisciplinary bioimaging unit working with
-          biomedical researchers in the Oxford area and beyond to apply advanced
-          cellular imaging techniques to address key questions in biology. We are
-          focusing on the development and use of single molecule methods, light
-          sheet and <a href="research/super_resolution_microscopy.php">super-resolution microscopy</a>.
-        </p>
+          Micron Oxford aims to develop and apply new and emerging advanced microscopy technologies to facilitate important discoveries in basic biomedical research. 
+
+To achieve this, we coordinate and manage the interdepartmental and interdisciplinary cooperation required to lower the activation energy for biologists to become early adopters of advanced imaging methods.</p>
+
+<p>Our advanced microscopy facilities are located across Oxford primarily in <a href="http://www.bioch.ox.ac.uk/">Biochemistry</a>, <a href="http://www.path.ox.ac.uk/">Dunn School</a>, <a href="http://www.imm.ox.ac.uk/home">WIMM</a> and <a href="http://www.well.ox.ac.uk/home">WTCHG</a>. However, we include scientists in many other departments, including, Physics, Chemistry, Engineering, CNCB, DPAG, Kennedy and Diamond. Our facilities include all flavours of super resolution imaging modalities as well as single molecule methods and CLEM. 
+
+We develop and adopt new technologies across all areas of Microscopy:
+Probe development, specimen preparation, instrument preparation and image analysis. </p>
+        
 
         <!-- get a random image name from the gallery using chooseimage script -->
         <?php include ($DOCUMENT_ROOT . "scripts/randomimage.php"); ?>
@@ -86,7 +83,7 @@
         <!-- useful info about Micron -->
         <div id=moreinfo>
           <ul>
-            <li><a href="software/SIMCheck.php"><img src="images/SIMcheck_logo_small.jpg"></a></li>
+            <li><a href="http://www.onbicdt.ox.ac.uk/"><img src="images/onbi.png"></a></li>
             <li><a href="http://omero1.bioch.ox.ac.uk"
                 title="OME database">
               OME <img id="OMEIcon" src="images/OMEFav.jpg" alt="Micron OME database"
@@ -101,7 +98,7 @@
         <br>
 
         <!-- latest Micron News & events from Twitter -->
-        <a class="twitter-timeline" width="280" height="370"
+        <a class="twitter-timeline" width="280" height="420"
           data-chrome="nofooter noheader" data-border-color="#4e6983"
           href="https://twitter.com/MicronOxford"
           data-widget-id="293683357219422209">Tweets by @MicronOxford</a>

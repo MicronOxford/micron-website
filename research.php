@@ -54,9 +54,9 @@
           <ul>
             <li>Super-resolution imaging using <a href="research/super_resolution_microscopy.php">structured illumination</a></li>
             <li>Super-resolution imaging and single molecule dynamics using <a href="research/localization-microscopy.php">localization microscopy</a></li>
-            <li>Light sheet microscopy and tomography</li>
+            <li><a href="facilities/lightsheet.php">Light sheet microscopy</a> and tomography</li>
             <li>Advanced Total Internal Reflection Microscopy methods</li>
-            <li>Advanced multidimensional live cell imaging using the OMX microscope</li>
+            <li>Advanced multidimensional live cell imaging using the <a href="facilities/OMXV3.php">OMX microscope</a></li>
           </ul>
         </div>
 
@@ -73,15 +73,30 @@
             <li>Setting up computer infrastructure and software</li>
             <li>Developing an efficient workflow for super-resolution data</li>
             <li>Preparing image analysis lecture and course material</li>
+            <li>Development of <a href="software/SIMCheck.php">SIMCheck</a> our our Image J plug-in that allows users to apply quality control to their Structured illumination super-resolution systems.</li>
             <li>Developing an improved particle tracker and adding functionality to
                 <a href="http://emonet.biology.yale.edu/microbetracker/">MicrobeTracker</a></li>
+                <li>Development of <a href="http://www.darogan.co.uk/ParticleStats/">'ParticleStats'</a> software for the analysis of analysis of intracellular particle motility and cytoskeletal polarity </li>
+                
           </ul>
         </div>
+        <div>
+        <h3>Developmental microscope systems</h3>
+        <ul>
+        <li><a href="facilities/DeepSIM.php">DeepSIM</a> - upright 3D-SIM microscope that uses adaptive optics for imaging deep in living specimens while allowing easy manipulation (microinjection and electrophysiology).</li>
+        <li><a href="facilities/OMX-T.php">OMX-T</a> Cryo SIM/STORM system which enables super-resolution imaging of frozen samples, providing significant gains in specimen preservation and photo-stability.</li>
+        <li>4Pi-SMS single molecule interferometric microscope - dependent on funding</li>
+        <li>Lattice Light Sheet Microscope - dependent on funding</li>
+        
+        </ul>
+        
 
+</div>
       </div>
 
       <div id="rightpanel">
         <h3>Publication Highlights</h3>
+        click <a href="research/publications.php">here</a> for all publications
 
         <h4>2014</h4>
         <ul class="publicationlist">

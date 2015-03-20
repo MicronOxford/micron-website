@@ -25,7 +25,7 @@
         <h3>Micron Advanced Microscopy Course</h3>
         <p class="course">We hold an annual advanced microscopy course for Wellcome Trust postgraduate students (and other interested research staff).</p>
 
-<p class="wikiinfo">This years Lecture course will be held in <b>May 2014</b>.</p>
+<p class="wikiinfo">This years Lecture course will be held in <b>March 2015</b>.</p>
 
           <h3 id="wikiheading">
             <a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page"

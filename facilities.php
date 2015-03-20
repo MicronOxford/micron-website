@@ -20,7 +20,7 @@
 
     <div id="mainbody">
 
-      <h3>Fluorescence microscopes</h3>
+      <h3>Fluorescence microscopes ('Turn-Key systems')</h3>
 
       <p>
         We have a range of super-resolution, wide-field and confocal systems.
@@ -41,7 +41,7 @@
           new Equipment (
             "OMXv2",
             "OMX V2",
-            "The OMX V2 microscope is a structual illumimation microscope.",
+            "The OMX V2 microscope is a structured illumimation microscope.",
             "images/OMXV2_thumb.jpg",
             "facilities/OMXV2.php"
           ),
@@ -120,6 +120,23 @@
         $equipment->draw_facilities_table (4);
       ?>
 
+ <h3>Fluorescence microscopes ('Developmental systems')</h3>
+ 
+ 
+      <table class="instruments">
+        <tr>
+          <td><a href='facilities/DeepSIM.php'><img src='images/DeepSIM2.png' width='200'></a></td>
+          <td><a href='facilities/OMX-T.php'><img src='images/cryo3.png' width='200'></a></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td><p>DeepSIM upright structured illumination system</p></td>
+          <td><p>OMX-T cyro SIM/STORM system</p></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
       <h3>Electron microscopes (Dunn school)</h3>
 
       <table class="instruments">
