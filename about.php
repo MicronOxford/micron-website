@@ -114,12 +114,10 @@
             <ul><li class="sublist">Tel: +44 (0)1865-613323</li></ul></li>
           <li><a href="mailto:lothar.schermelleh@bioch.ox.ac.uk">Lothar Schermelleh</a> (Micron research fellow):
             <ul><li class="sublist">Tel: +44 (0)1865-613264</li></ul></li>
-          <li><a href="mailto:eva.wegel@bioch.ox.ac.uk">Eva Wegel</a> (assistant facility manager):
-            <ul><li class="sublist">Tel: +44 (0)1865-613353</li></ul></li>
-          <li><a href="mailto:alan.wainman@bioch.ox.ac.uk">Alan Wainman</a> (Dunn School):
-            <ul><li class="sublist">Tel: +44 (0)1865-275531</li></ul></li>
           <li><a href="mailto:david.pinto@bioch.ox.ac.uk">David Pinto</a> (image analysis / software):
             <ul><li class="sublist">Tel: +44 (0)1865-613359</li></ul></li>
+            <li><a href="mailto:alan.wainman@bioch.ox.ac.uk">Alan Wainman</a> (Dunn School):
+            <ul><li class="sublist">Tel: +44 (0)1865-275531</li></ul></li>
           <li><a href="mailto:rainer@strubi.ox.ac.uk">Rainer Kaufmann</a> (correlative light/EM):
             <ul><li class="sublist">Tel: +44 (0)1865-613330</li></ul></li>
         </ul>

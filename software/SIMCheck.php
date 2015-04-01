@@ -20,8 +20,8 @@
 
       <img id="SIMCheckleft" src="../images/SIMcheck_logo.jpg" alt="SIMCheck Logo"
            title="SIMCheck Logo" width="250" >
-      <img id="SIMCheckright" src="../images/button.png" alt="SIMCheck download" width="150" align="right"
-           title="SIMCheck Download" >
+      <a href="SIMcheck_-0.9.7.jar"><img id="SIMCheckright" src="../images/button.png" alt="SIMCheck download" width="150" align="right"
+           title="SIMCheck Download" ></a>
 
       <h3>an ImageJ plugin suite for super-resolution structured illumination microscopy data quality control</h3>
       <hr align="center" size="3" noshade >
@@ -40,7 +40,7 @@
           <li><img src="../images/arrow.png">effective structure resolution</li>
           <li><img src="../images/arrow.png">pseudo-widefield image generation</li>
         </ul>
-        <p>Requests for Beta-testing graeme.ball@bioch.ox.ac.uk / lothar.schermelleh@bioch.ox.ac.uk. </p>
+        <p>For further information contact:  g.ball@dundee.ac.uk / lothar.schermelleh@bioch.ox.ac.uk. </p>
         <br/>
         <p><img src="../images/SIMcheckRaw.jpg" alt="SIMcheckRaw" title="SIMCheck Raw" width="400"></p>
       </div>

@@ -65,9 +65,9 @@ Probe development, specimen preparation, instrument preparation and image analys
             title="Neil" alt="Neil" >
           <area shape="rect" coords="75,37,89,76" href="people/Ian.php"
             title="Ian" alt="Ian" >
-          <area shape="rect" coords="99,42,114,93" href="people/Eva.php"
+          <area shape="rect" coords="99,42,114,93" href="people.php#ox_bioimaging"
             title="Eva" alt="Eva" >
-          <area shape="rect" coords="127,38,148,93"  href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/graeme-ball"
+          <area shape="rect" coords="127,38,148,93"  href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/dr-graeme-ball"
             title="Graeme" alt="Graeme" >
           <area shape="circle" coords="165,41,9" href="people/Lothar.php"
             title="Lothar" alt="Lothar" >
