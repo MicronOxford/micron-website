@@ -97,7 +97,12 @@
       <div id="rightpanel">
         <h3>Publication Highlights</h3>
         click <a href="research/publications.php">here</a> for all publications
-
+		<h4>2015</h4>
+        <ul class="publicationlist">
+          <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015)
+          Correlative in-resin super-resolution and electron microscopy using standard
+fluorescent proteins. Scientific Reports 5; 9583.</li>
+</ul>
         <h4>2014</h4>
         <ul class="publicationlist">
           <li>

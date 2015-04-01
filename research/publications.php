@@ -18,6 +18,9 @@
     <h3>Micron Publications</h3>
     <h4>2015</h4>
     <ul class="publicationlist">
+    <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015)
+          Correlative in-resin super-resolution and electron microscopy using standard
+fluorescent proteins. Scientific Reports 5; 9583.</li>
     <li>
     Diepold A, Kudryashev M, Delalez NJ, Berry RM, Armitage JP.
     Composition, Formation, and Regulation of the Cytosolic C-ring, a Dynamic Component of the Type III Secretion Injectisome.

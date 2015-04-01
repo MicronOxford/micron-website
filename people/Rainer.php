@@ -17,29 +17,26 @@
     <div id="mainbody">
       <div id="leftpanel">
 
-          <h3>Rainer Kaufmann</h3> email:<a href="mailto:rainer.kaufmann@bioch.ox.ac.uk">rainer.kaufmann@bioch.ox.ac.uk</a>
-          <img src="../images/Rainer_passport.jpg" alt="Rainer"
-                         title="Rainer Kaufmann" width="180" height="240" /></a>         
-          <p id="person_intro">I am a post-doc within Micron working in a joint project with 
-            Kay Grünewald's lab on correlative fluorescence and electron microscopy. I have a 
-            strong background in super-resolution fluorescence microscopy.</p>
-          <br>
-          <p>Before joining Micron I was working in the field of localization microscopy using 
-          standard fluorophores. This technique of super-resolution light microscopy allows a 
-          structural resolution within biological samples down to the range of 20 nm. 
-          Additionally, single molecule information is provided that can be used for further 
-          statistical analyses of the data.</p>
-          <br>
-          <p>At Micron I am working on the correlation of localization microscopy with other 
-          super-resolution methods, such as structured illumination microscopy, but also the 
-          correlation between these and electron microscopy. Both kinds of microscopy provide 
-          unique features and the combination of both could open a new avenue for biological 
-          imaging.</p>
+          <h3>Rainer Kaufmann</h3> 
+          <p><img src="../images/Rainer_passport.jpg" alt="Rainer"
+                         title="Rainer Kaufmann" width="180" height="240" /></a> 
+          </p>
+          <p>email:<a href="mailto:rainer.kaufmann@bioch.ox.ac.uk">rainer.kaufmann@bioch.ox.ac.uk</a>        
+          </p>
+          <p id="person_intro">Rainer has a strong background in the development of new methods in the field of super-resolution single molecule localization microscopy and is currently working in a joint project between Micron and Kay Grünewald's lab (based in STRUBI) on correlative light and electron microscopy (CLEM).</p>
+          <p>His main focus of interest lies on super-resolution fluorescence cryo-microscopy, a field which has just been opened up (Chang et al. (2014) Nat. Methods; Kaufmann et al. (2014) Nano Lett.), and the correlation of this technique with electron cryo-microscopy. Imaging vitrified (fast frozen) samples allows studying fine structural details in their native cellular context, which cannot be accessed in living cells, or which are affected by chemical fixation methods.</p>
+          <p>Rainer is also working together with Errin Johnson, who is running the electron microscopy facility at the Dunn School for Pathology, to develop new methods in the field of super-resolution CLEM of resin embedded samples using cryofixation and freeze substitution. This technique presents a compromise that lies in between the ultimate structural preservation of imaging vitrified samples under cryo-conditions and room temperature imaging of chemically fixed samples.</p>
         </a>
       </div>
 
       <div id="rightpanel">
           <h3>Publications</h3>
+          <h4>2015</h4>
+          <ul class="publicationlist">
+          <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015)
+          Correlative in-resin super-resolution and electron microscopy using standard
+fluorescent proteins. Scientific Reports 5; 9583.</li>
+</ul>
              <h4>2014</h4>
           <ul class="publicationlist">
           <li>R. Kaufmann, C. Hagen, K. Grünewald (2014) Fluorescence cryo-microscopy: current challenges and prospects. Current Opinion in Chemical Biology, 20, 86-91.</li>

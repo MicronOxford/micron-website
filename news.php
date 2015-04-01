@@ -30,8 +30,17 @@
           English description of our activities, please read more
           <a href="about.php#plain_english"> About Us.</a>
         </p>
-
-        <h4>Latest Micron Publication - <a href="http://elifesciences.org/content/3/e03399">Conduit et al., eLife 2014.</a></h4>
+		<h4>Latest Micron Publication - <a href="http://www.nature.com/srep/2015/150330/srep09583/full/srep09583.html">Johnson et al., Sci Reports 2015</a></h4>
+        <p>Correlative light and electron microscopy (CLEM) combines the very distinct and complementary strengths of fluorescence microscopy and electron microscopy. Besides the possibility of imaging living cells, in fluorescence microscopy structures or proteins of interest inside the cell can be labelled very specifically. This can be problematic or often even impossible with electron microscopy. On the other hand, electron microscopy allows structural details to be studied within the cellular context at a resolution in the range of a few nanometres, whereas the resolution in fluorescence microscopy is limited by the diffraction of light to around 200 nm.</p>
+        <p>In the past 20 years, so-called super-resolution methods have been developed to overcome this resolution limit in fluorescence microscopy, which was last year recognised with the award of the Nobel price. Super-resolution imaging is helping to bridge the gap between fluorescence and electron microscopy. However, the requirements regarding sample preparation for both imaging modalities are very different. So far, performing super-resolution CLEM for imaging the same cell and combining the super-resolution fluorescence information with the ultrastructure of electron microscopy meant a big compromise. Either the resolution in the fluorescence images was not high enough for clear interpretation of the data or the structural preservation of the sample was deteriorated significantly, for example due to chemical fixation of the sample.</p>
+        <img src="images/Johnson1.png" alt="Cryo Super-Resolution" width="566" height="134" align="right" />
+         <h4>Comparison of resolution achieved with in-resin super-resolution CLEM. Left: Conventional wide-field fluorescence microscopy. Middle: Super-resolution SMLM. Right: TEM. The structural resolution of ~50 nm achieved with super-resolution SMLM in resin sections using standard fluorescence proteins (here mVenus) allowed a superior correlation of fluorescent signals and EM ultrastructure.</h4>
+        <p>We have developed a method that ensures superior structural preservation of the sample whilst allowing uncompromised super-resolution imaging and sufficient contrast for high quality electron microscopy. In the first step, the sample is high pressure frozen, which immobilises it in glass-like amorphous ice (vitrification) and preserves the structure in a near-native state. A process of freeze substitution and resin embedding follows, during which the ice is slowly replaced by acetone, and then the acetone is replaced with resin, after which it is polymerised using UV light at a low temperature. The key for successful super-resolution CLEM using this approach is to preserve throughout the whole process the fluorescence in the sample and the photo-switching ability of the fluorescent molecules, on which super-resolution microscopy is crucially dependent on. We have identified the critical parameters during the process of high pressure freezing, freeze substitution and resin embedding and developed a method which enables in-resin super-resolution microscopy using standard fluorescent proteins at a resolution better than 50 nm followed by electron microscopy imaging of ultrathin sections. We found that the addition of tannic acid to the freeze substitution medium has a huge effect on the photo-switching of the fluorescent molecules, but at a certain level it also negatively affects the structural preservation. Here, it was important to find the right concentration of tannic acid to achieve optimal results with both imaging modalities. We demonstrate that our method works for a variety of different standard fluorescent proteins such as GFP, mVenus (an improved YFP) and mRuby2 (an improved RFP). Not having to use special photo-switchable fluorophores allows a quick and broad application of our method in the field of cell biology.</p>
+         <img src="images/Johnson2.png" alt="Cryo Super-Resolution" width="566" height="447" align="right" />
+         <h4>Correlative in-resin super-resolution fluorescence and EM imaging of HEK293T cells transfected with EphA2/A4 receptor proteins fused to mGFP, mVenus or mRuby. The first column shows conventional wide-field fluorescence images, the second column the corresponding super-resolution SMLM (single molecule localization microscopy) images. TEM (transmission electron microscopy) images of the same cells are depicted in the third column (plasma membrane (PM), endoplasmic reticulum (ER) and the nucleus (NUC) are indicated in the individual images), followed by an overlay of the TEM images with the conventional wide-field fluorescence images, and an overlay of TEM and super-resolution images.</h4>
+         <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h4>Micron Publication - <a href="http://elifesciences.org/content/3/e03399">Conduit et al., eLife 2014.</a></h4>
         <img src="images/conduit1.png" alt="Conduit Live two colour" width="350" align="right" />
 
         <p>
@@ -94,6 +103,9 @@
 
         <img src="images/conduit2.png" alt="conduit 3D-SIM FRAP" width="566" align="right" />
         <h4>3D-SIM FRAP on (A) DSpd2-GFP and (B) GFP-Cnn </h4>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        
 
         <h4>Micron Publication - <a href="http://pubs.acs.org/doi/full/10.1021/nl501870p">Kaufmann et al., Nano Letters. 2014.</a></h4>
         <img src="images/cryo2.png" alt="Rainer Graphical Abstract" width="350" align="right" />
