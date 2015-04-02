@@ -41,6 +41,7 @@
           <li><img src="../images/arrow.png">pseudo-widefield image generation</li>
         </ul>
         <p>For further information contact:  g.ball@dundee.ac.uk / lothar.schermelleh@bioch.ox.ac.uk. </p>
+        <p><img src="../images/git.png" alt="GitHub" title="GitHub" width="16">   SIMCheck code on GitHub <a href="https://github.com/MicronOxford/SIMcheck">here</a>
         <br/>
         <p><img src="../images/SIMcheckRaw.jpg" alt="SIMcheckRaw" title="SIMCheck Raw" width="400"></p>
       </div>
