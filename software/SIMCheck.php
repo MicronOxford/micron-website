@@ -18,39 +18,73 @@
     <?php include "../headnav.html"; ?>
     <div id="mainbody">
 
-      <img id="SIMCheckleft" src="../images/SIMcheck_logo.jpg" alt="SIMCheck Logo"
-           title="SIMCheck Logo" width="250" >
+      <a href="SIMcheck_-0.9.7.jar"><img id="SIMCheckleft" src="../images/SIMcheck_logo.jpg" alt="SIMCheck Logo"
+           title="Download SIMCheck" width="250" ></a>
       <a href="SIMcheck_-0.9.7.jar"><img id="SIMCheckright" src="../images/button.png" alt="SIMCheck download" width="150" align="right"
-           title="SIMCheck Download" ></a>
+           title="Download SIMCheck"></a>
 
-      <h3>an ImageJ plugin suite for super-resolution structured illumination microscopy data quality control</h3>
+      <h3>an <u><a href="https://github.com/MicronOxford/SIMcheck">open source</a></u> ImageJ plugin suite for super-resolution structured illumination microscopy data quality control</h3>
       <hr align="center" size="3" noshade >
 
-      <div id="leftimagepanel">
+      <div id="leftimagepanel450">
+
+
+
 
         <ul class="publicationlist">
-          <li><img src="../images/arrow.png">OMX/ELYRA/Nikon formats</li>
+        
+        
+        
+        
+       
+       
+          
+        
+          <li><img src="../images/arrow.png">OMX/ELYRA/Nikon formats        </li>
+        </ul>
+        <ul class="publicationlist">
           <li><img src="../images/arrow.png">photobleaching</li>
+          
           <li><img src="../images/arrow.png">structured illumination stability</li>
+       
           <li><img src="../images/arrow.png">acquisition stability</li>
+          
           <li><img src="../images/arrow.png">SI modulation map</li>
+          
           <li><img src="../images/arrow.png">reconstruction noise artifacts</li>
+         
           <li><img src="../images/arrow.png">sample PSF/OTF mismatch artifacts</li>
+         
           <li><img src="../images/arrow.png">reconstruction fitting artifacts</li>
+         
           <li><img src="../images/arrow.png">effective structure resolution</li>
+          
           <li><img src="../images/arrow.png">pseudo-widefield image generation</li>
         </ul>
+        <p>&nbsp;</p>
+       
+        <p>Latest news (April 2015): a SIMcheck manuscript is under review, and version 1.0 will be released to coincide with publication.
+     
+      <p>&nbsp;</p>              
         <p>For further information contact:  g.ball@dundee.ac.uk / lothar.schermelleh@bioch.ox.ac.uk. </p>
-        <p><img src="../images/git.png" alt="GitHub" title="GitHub" width="16">   SIMCheck code on GitHub <a href="https://github.com/MicronOxford/SIMcheck">here</a>
+        
         <br/>
-        <p><img src="../images/SIMcheckRaw.jpg" alt="SIMcheckRaw" title="SIMCheck Raw" width="400"></p>
+        <p><img src="../images/SIMCheck1.png" alt="SIMcheckRaw" width="450" title="SIMCheck Raw"></p>
+        
       </div>
 
-      <div id="imagepanel">
-        <p><img src="../images/SIMcheckstart.jpg" alt="SIMCheck Start" title="SIMCheck Start" width="450"></p>
-        <p><img src="../images/SIMcheckhis.jpg" width="450"></p>
-        <p><img src="../images/SIMcheckRecon2.jpg" width="450"></p>
+      <div id="rightimagepanel400">
+        <p><img src="../images/SIMcheckstart.png" alt="SIMCheck Start" title="SIMCheck Start" width="400"></p>
+        <p><img src="../images/SIMcheckLogs.png" width="400"></p>
+        
+        <p>&nbsp;</p>
+        <p><img src="../images/arrow.png"> SIMCheck documentation and manual<a href="http://www.micron.ox.ac.uk/microngroup/software/SIMcheck.html"> here </a> </p>
+        <p>
+        <img src="../images/git.png" alt="GitHub" title="GitHub" width="12">   SIMCheck code on GitHub <a href="https://github.com/MicronOxford/SIMcheck">here</a>   </p>
+        
+        
       </div>
+      
     </div>
 
     <?php include "../footer.html"; ?>
