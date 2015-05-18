@@ -18,6 +18,7 @@
     <h3>Micron Publications</h3>
     <h4>2015</h4>
     <ul class="publicationlist">
+    <li>Houlard M, Godwin J, Metson J, Lee J, Hirano T, Nasmyth K. (2015). Condensin confers the longitudinal rigidity of chromosomes. Nat Cell Biol. 2015 May 11. </li>
     <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015)
           Correlative in-resin super-resolution and electron microscopy using standard
 fluorescent proteins. Scientific Reports 5; 9583.</li>
