@@ -49,7 +49,11 @@
         External users are welcome to enquire about working collaboratively. Charges are 
         usually around &pound;20 per. hour for internal users. </p> 
  
+ <h3>Micron Rules</h3>
+ <p>click <a href="">here</a> to download the micron rules.
         <h3>Protocols</h3>
+        
+        
         <ul>  
           <li>
           <a href="resources/Fluorescent-RNA-In-situ.pdf" >Fluorescent RNA in situ</a></li>

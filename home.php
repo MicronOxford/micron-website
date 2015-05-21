@@ -32,6 +32,9 @@ To achieve this, we coordinate and manage the interdepartmental and interdiscipl
 
 We develop and adopt new technologies across all areas of Microscopy:
 Probe development, specimen preparation, instrument preparation and image analysis. </p>
+<p>&nbsp;</p>
+<p>Click <a href="resources/MICRON_Rules.doc">here</a> to download the micron rules.</p>
+<p>&nbsp;</p>
         
 
         <!-- get a random image name from the gallery using chooseimage script -->

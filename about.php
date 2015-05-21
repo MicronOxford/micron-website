@@ -120,6 +120,8 @@
             <ul><li class="sublist">Tel: +44 (0)1865-275531</li></ul></li>
           <li><a href="mailto:rainer@strubi.ox.ac.uk">Rainer Kaufmann</a> (correlative light/EM):
             <ul><li class="sublist">Tel: +44 (0)1865-613330</li></ul></li>
+             <li><a href="mailto:cvic.innocent@bioch.ox.ac.uk">Cassandravictoria Innocent </a> (fluorescent/widefield):
+            <ul><li class="sublist">Tel: +44 (0)1865-613265</li></ul></li>
         </ul>
 
         <hr>
