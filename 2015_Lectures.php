@@ -48,45 +48,45 @@ function MM_swapImage() { //v3.0
 
       <p>Click on image for lecture notes</p>
       
-            <a href="resources/Lecture_00_welcome.pdf">
+            <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_00_welcome.pdf">
         <img src="images/lecture_00.jpg" width="170" height="131"></a>
-      <a href="resources/Lecture_01_General_Introduction.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_01_General_Introduction.pdf">
         <img src="images/lecture_01.jpg" width="170" height="131" ></a>
-      <a href="resources/Lecture_02_principles_of_microscopy.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_02_principles_of_microscopy.pdf">
         <img src="images/lecture_02.jpg"  width="170" height="131"></a>
-      <a href="resources/Lecture_03_contrast_enhancement.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_03_contrast_enhancement.pdf">
         <img src="images/lecture_03.jpg"  width="170" height="130"></a>
-      <a href="resources/Lecture_04_BasicFluoMicro.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_04_BasicFluoMicro.pdf">
         <img src="images/lecture_04.jpg" width="170" height="131" ></a> 
-        <a href="resources/Lecture_05_basic_image_analysis.pdf">
+        <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_05_basic_image_analysis.pdf">
         <img src="images/lecture_05.jpg" width="170" height="131" ></a>
-        <a href="resources/Lecture_06_fluorescent_dyes_proteins.pdf">
+        <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_06_fluorescent_dyes_proteins.pdf">
         <img src="images/lecture_06.jpg" width="170" height="131"></a>
-      <a href="resources/Lecture_07_live_cell_imaging.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_07_live_cell_imaging.pdf">
         <img src="images/lecture_07.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_08_confocal.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_08_confocal.pdf">
         <img src="images/lecture_08.jpg" width="170" height="130"></a>
-        <a href="resources/Lecture_09_advanced_widefield.pdf">
+        <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_09_advanced_widefield.pdf">
         <img src="images/lecture_09.jpg" width="170" height="130"></a>
-        <a href="resources/Lecture_10_cameras.pdf">
+        <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_10_cameras.pdf">
         <img  src="images/lecture_10.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_11_FRAP_FLIP_FRET_FLIM_FCS_TIRF.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_11_FRAP_FLIP_FRET_FLIM_FCS_TIRF.pdf">
         <img src="images/lecture_11.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_12_STED_FCS.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_12_STED_FCS.pdf">
         <img src="images/lecture_12.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_13_light_sheet_microscopy.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_13_light_sheet_microscopy.pdf">
         <img src="images/lecture_13.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_14b_single_molecule.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_14b_single_molecule.pdf">
         <img src="images/lecture_14.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_15_STORM_PALM.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_15_STORM_PALM.pdf">
         <img src="images/lecture_15.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_16_OMX.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_16_OMX.pdf">
         <img src="images/lecture_16.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_17_image_analysis.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_17_image_analysis.pdf">
         <img src="images/lecture_17.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_18_Image_Management.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_18_Image_Management.pdf">
         <img src="images/lecture_18.jpg" width="170" height="130"></a>
-      <a href="resources/Lecture_19_EM.pdf">
+      <a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2015/Lecture_19_EM.pdf">
         <img src="images/lecture_19.jpg" width="170" height="130"></a>
 
 

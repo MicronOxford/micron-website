@@ -44,19 +44,19 @@ function MM_swapImage() { //v3.0
     <div id="mainbody">
       <h3>ONBI Course 2014-2015: Week 2 Microscope engineering -  theory and practice</h3>
       <p>Click on image for lecture notes</p>
-      <a href="resources/ONBI_Lecture_201_timetable.pdf"> <img id="slides" src="images/ONBI_lecture_201.png"  width="170" height="131" alt="ONBI Week 2 Lecture 1"></a>
-      <a href="resources/ONBI_Lecture_202_introduction_recap.pdf"><img src="images/ONBI_lecture_202.png" alt="ONBI Week 2 Lecture 2" width="170" height="131" id="slides"></a>
-      <a href="resources/ONBI_Lecture_203_optics_bespoke_construction.pdf"><img id="slides" src="images/ONBI_lecture_203.png"  width="170" height="131" alt="ONBI Week 2 Lecture 3"></a>
-      <a href="resources/ONBI_Lecture_204_beam_path_alignment_.pdf"><img id="slides" src="images/ONBI_lecture_204.png"  width="170" height="130" alt="ONBI Week 2 Lecture 4"></a>
-      <a href="resources/ONBI_Lecture_205_advanced_imaging_regimes.pdf"><img src="images/ONBI_lecture_205.png" alt="ONBI Week 2 Lecture 5" width="170" height="131" id="slides"></a> 
-      <a href="resources/ONBI_Lecture_206_abberations_AO.pdf"><img src="images/ONBI_lecture_206.png" alt="ONBI Week 2 Lecture 6" width="170" height="131" id="slides"></a>
-      <a href="resources/ONBI_Lecture_207_time_modulated_imaging.pdf"><img id="slides" src="images/ONBI_lecture_207.png"  width="170" height="131" alt="ONBI Week 2 Lecture 7"></a>
-      <a href="resources/ONBI_Lecture_208_detectors_noise.pdf"><img  src="images/ONBI_lecture_208.png"  width="170" height="130" alt="ONBI Week 2 Lecture 8" id="slides"></a>
-      <a href="resources/ONBI_Lecture_209_resolution_superresolution.pdf"><img id="slides" src="images/ONBI_lecture_209.png"  width="170" height="130" alt="ONBI Week 2 Lecture 9"></a>
-      <a href="resources/ONBI_Lecture_210_PALM_sptPALM.pdf"><img id="slides" src="images/ONBI_lecture_210.png"  width="170" height="130" alt="ONBI Week 2 Lecture 10"></a>
-      <a href="resources/ONBI_Lecture_211_STED_STED-FCS.pdf"><img id="slides" src="images/ONBI_lecture_211.png"  width="170" height="130" alt="ONBI Week 2 Lecture 11"></a>
-      <a href="resources/ONBI_Lecture_212_experimental_manipulation.pdf"><img id="slides" src="images/ONBI_lecture_212.png"  width="170" height="130" alt="ONBI Week 2 Lecture 12"></a>
-      <a href="resources/ONBI_Lecture_213_viability_comparison.pdf"><img id="slides" src="images/ONBI_lecture_213.png"  width="170" height="130" alt="ONBI Week 2 Lecture 13"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_201_timetable.pdf"> <img id="slides" src="images/ONBI_lecture_201.png"  width="170" height="131" alt="ONBI Week 2 Lecture 1"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_202_introduction_recap.pdf"><img src="images/ONBI_lecture_202.png" alt="ONBI Week 2 Lecture 2" width="170" height="131" id="slides"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_203_optics_bespoke_construction.pdf"><img id="slides" src="images/ONBI_lecture_203.png"  width="170" height="131" alt="ONBI Week 2 Lecture 3"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_204_beam_path_alignment.pdf"><img id="slides" src="images/ONBI_lecture_204.png"  width="170" height="130" alt="ONBI Week 2 Lecture 4"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_205_advanced_imaging_regimes.pdf"><img src="images/ONBI_lecture_205.png" alt="ONBI Week 2 Lecture 5" width="170" height="131" id="slides"></a> 
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_206_abberations_AO.pdf"><img src="images/ONBI_lecture_206.png" alt="ONBI Week 2 Lecture 6" width="170" height="131" id="slides"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_207_time_modulated_imaging.pdf"><img id="slides" src="images/ONBI_lecture_207.png"  width="170" height="131" alt="ONBI Week 2 Lecture 7"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_208_detectors_noise.pdf"><img  src="images/ONBI_lecture_208.png"  width="170" height="130" alt="ONBI Week 2 Lecture 8" id="slides"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_209_resolution_superresolution.pdf"><img id="slides" src="images/ONBI_lecture_209.png"  width="170" height="130" alt="ONBI Week 2 Lecture 9"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_210_PALM_sptPALM.pdf"><img id="slides" src="images/ONBI_lecture_210.png"  width="170" height="130" alt="ONBI Week 2 Lecture 10"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_211_STED_STED-FCS.pdf"><img id="slides" src="images/ONBI_lecture_211.png"  width="170" height="130" alt="ONBI Week 2 Lecture 11"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_212_experimental_manipulation.pdf"><img id="slides" src="images/ONBI_lecture_212.png"  width="170" height="130" alt="ONBI Week 2 Lecture 12"></a>
+      <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/ONBI_Lecture_213_viability_comparison.pdf"><img id="slides" src="images/ONBI_lecture_213.png"  width="170" height="130" alt="ONBI Week 2 Lecture 13"></a>
     </div>
     <?php include "footer.html"; ?>
   </div>

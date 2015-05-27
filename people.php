@@ -289,6 +289,13 @@
                          width="60" height="80" ></a> 
                      Eva has now moved to the John Innes centre</p>
               </td>
+              <td><h4><a href="">Douglas Russell</a></h4>
+               <p><a href="">
+                     <img src="images/Douglas.jpg" alt="Douglas"
+                       width="60" height="80" ></a> 
+                     Douglas was an OME software Developer working closely with Oxford Micron 
+                     </p>
+              </td>
             </tr>
             
             
@@ -380,22 +387,16 @@
               </td>
               </tr>
                           <tr>
-              <td><h4><a href="people/Richard.php">Douglas Russell</a></h4>
-               <p><a href="people/Douglas.php">
-                     <img src="images/Douglas.jpg" alt="Douglas"
-                       width="60" height="80" ></a> 
-                     Douglas is an OME software Developer working closely with Oxford Micron 
-                     </p>
-              </td>
+              
               </tr>
               
                                       
               <tr>
-              <td><h4><a href="http://www2.physics.ox.ac.uk/contacts/people/uphoff">Stephan Uphoff</a></h4>
-               <p><a href="http://www2.physics.ox.ac.uk/contacts/people/uphoff">
+              <td><h4><a href="http://users.ox.ac.uk/~quee2159/index.html#">Stephan Uphoff</a></h4>
+               <p><a href="http://users.ox.ac.uk/~quee2159/index.html#">
                      <img src="images/stephan.jpg" alt="Stephan"
                        width="60" height="80" ></a> 
-                     Stephan recently completed his DPhil in the <a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">Kapanidis Lab</a> and will be working alongside Micron to develop bespoke microscopes
+                     Postdoctoral Junior Research fellow in David J. Sherratt's lab and Micron. 
                      
               </td>
               </tr>

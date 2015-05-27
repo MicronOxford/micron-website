@@ -66,10 +66,7 @@
           <li><a href="../resources/FV1000.pdf">Specifications</a></li>
           <li><a href="http://www.becker-hickl.de/">Becker and Hickel</a></li>
           <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/Olympus_FV1000_Confocal">Olympus Wiki</a></li>
-          <li><a href="../resources/FLIMa.pdf">FLIM FRET (Swift et al.)</a></li>
-          <li><a href="../resources/FLIMb.pdf">FLIM FRET (Wallrabe et al., 2005)</a></li>
-          <li><a href="../resources/FLIMc.pdf">FLIM FRET (Becker et al., 2004)</a></li>
-          <li><a href="../resources/FLIMd.pdf">FLIM FRET (Becker et al., 2003)</a></li>
+          
         </ul>
       </div>
 
