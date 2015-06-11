@@ -3,7 +3,7 @@
     #   ugly and repetitive, but it does the job
 
     # first deal with current main image based on URL "GET" information
-    $num_images = 15;
+    $num_images = 17;
     $image_min = 0;
     $image_max = $num_images-1;
     if( isset($_GET["image_no"]) ){

@@ -28,6 +28,14 @@
 
       <div id="rightpanel">
           <h3>Publications</h3>
+          
+          <h4>2015</h4>
+          <ul class="publicationlist">
+          
+          
+        <p>Janina Baumbach, Zsofia Anna Novak, Jordan W. Raff and Alan Wainman. Dissecting the function and assembly of acentriolar microtubule organizing centers in Drosophila cells in vivo. PLoS Genetics 11(5): e1005261</p>
+         </li>
+            </ul>
           <h4>2014</h4>
           <ul class="publicationlist">
           
