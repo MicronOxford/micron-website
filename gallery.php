@@ -38,7 +38,7 @@
         <ul>
           <li><a href="gallery.php?image_no=<?php $image_no-1>-1? print $image_no-1 : print 0 ?>">
             <span class="menutxt">&lt; Previous image</span></a></li>
-          <li><a href="gallery.php?image_no=<?php $image_no+1<17? print $image_no+1 : print 16 ?>">
+          <li><a href="gallery.php?image_no=<?php $image_no+1<18? print $image_no+1 : print 17 ?>">
             <span class="menutxt">Next image &gt;</span></a></li>
         </ul>
       </div>

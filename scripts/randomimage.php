@@ -1,6 +1,6 @@
 <?php
 srand(time());
-$num_images = 18; # i.e. we will count from 0 to $num_images-1
+$num_images = 19; # i.e. we will count from 0 to $num_images-1
 $random = (rand() % ($num_images-1));
 $image_no = $random;
 $image_path_array = array('gallery/ResearchImage',$random,'.jpg');
