@@ -105,7 +105,7 @@
     </p>
 
     <figure>
-      <img src="../images/Fig1_SIM.svg" width="800 px"/>
+      <img src="../images/Fig1_SIM.png" width="800 px"/>
       <figcaption>
         The principle of structured illumination microscopy is based on the
         Moiré effect generated when interfering a fine-striped pattern of
