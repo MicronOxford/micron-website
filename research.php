@@ -99,6 +99,7 @@
         click <a href="research/publications.php">here</a> for all publications
 		<h4>2015</h4>
         <ul class="publicationlist">
+        <li>Demmerle J, Wegel E, Schermelleh L, Dobbie IM. Assessing resolution in super-resolution imaging. Methods. (2015) Jul 8. pii: S1046-2023(15)30019-0.</li>
         <li>Houlard M, Godwin J, Metson J, Lee J, Hirano T, Nasmyth K. (2015). Condensin confers the longitudinal rigidity of chromosomes. Nat Cell Biol. 2015 May 11. </li>
           <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015). 
           Correlative in-resin super-resolution and electron microscopy using standard
@@ -193,27 +194,7 @@ fluorescent proteins. Scientific Reports 5; 9583.</li>
           </li>
         </ul>
 
-        <h4>2011</h4>
-        <ul class="publicationlist">
-          <li>
-            Parton RM, Hamilton RS, Ball G, Yang L, Cullen CF, Lu W, Ohkura H, Davis I.
-            A PAR-1-ependent orientation gradient of dynamic microtubules directs posterior
-            cargo transport in the Drosophila oocyte. JCB. 2011;  194(1):121-135.
-          </li>
-          <li>
-            Wang X, Lesterlin C, Reyes-Lamothe R, Ball G, Sherratt DJ. (2011)
-            Replication and segregation of an Escherichia coli chromosome with
-            two replication origins.Proc Natl Acad Sci U S A. 2011 Jun 28;108(26):
-            E243-50. Epub 2011 Jun 13.
-          </li>
-          <li>
-            Brown ACN, Oddos S, Dobbie IM, Alakoskela J-M, Parton RM, Eissmann P,
-            Neil MAA, Dunsby C, French P, Davis I, Davis D. (2011)
-            Remodelling of cortical actin where lytic granules dock at natural killer
-            cell immune synapses revealed by super-resolution microscopy. Plos Biol.
-            9: 31001152. (featured in the
-            <a href="http://www.dailymail.co.uk/sciencetech/article-2037165/Captured-3D-Cancer-killing-white-blood-cells-destroying-diseased-tissue.html">Daily Mail</a>)
-          </li>
+       
         </ul>
       </div>
 

@@ -22,6 +22,7 @@
         <br>
         <h3><a href="software/SIMCheck.php"><img id="wikiIcon" src="images/SIMcheck_logo.jpg" alt="SIMcheck"
                    width="50" height="17" ></a></h3><p>SIMcheck is an open source ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control. <a href="software/SIMCheck.php">Download v0.9.7 here</a></p>
+        <p>&nbsp;</p>
                    <p>Table to aid with matching spherical aberration of the sample and OTF when using OMX V3. <a href="resources/OTF-PSF.pdf">here...</a></p>
         <h3>Micron Advanced Microscopy Course</h3>
         <p class="course">We hold an annual advanced microscopy course for Wellcome Trust postgraduate students (and other interested research staff).</p>

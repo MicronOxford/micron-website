@@ -296,6 +296,13 @@
                      Douglas was an OME software Developer working closely with Oxford Micron 
                      </p>
               </td>
+              <td><h4><a href="https://www.nichd.nih.gov/about/staff/Pages/bio.aspx?nih_id=2001549345">Justin Demmerle</a></h4>
+               <p><a href="https://www.nichd.nih.gov/about/staff/Pages/bio.aspx?nih_id=2001549345">
+                     <img src="images/Justin.jpg" alt="Justin"
+                       width="60" height="80" ></a> 
+                     Justin is now a DPhil student on a joint Oxford / NIH programme
+                     </p>
+              </td>
             </tr>
             
             
@@ -345,6 +352,16 @@
             </tr>
             
             <tr>
+              <td><h4><a href="people/Andrew.php">Andrew Jefferson</a></h4>
+                  <p><a href="people/Andrew.php">
+                    <img src="images/andrew_thumb.jpg" alt="Andrew"
+                      width="65" height="80" ></a>
+                    Andrew is the Micron assistant microscopy manager
+              </td>
+            </tr>
+
+            
+            <tr>
               <td><h4><a href="people/David.php">David Pinto</a></h4>
                   <p><a href="people/David.php">
                     <img src="images/david_thumb.jpg" alt="David"
@@ -378,6 +395,15 @@
                      <img src="images/richard.jpg" alt="Richard"
                        width="60" height="80" ></a>
                      Richard is a senior postdoc working for Ilan Davis</p>
+              </td>
+            </tr>
+            
+            <tr>
+              <td><h4><a href="people/Cvic.php">Cassandravictoria Innocent</a></h4>
+               <p><a href="people/Cvic.php">
+                     <img src="images/cvic.jpg" alt="Cvic"
+                       width="60" height="80" ></a>
+                     Cvic is a research associate shared between Micron and the Schermelleh lab</p>
               </td>
             </tr>
             
