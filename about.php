@@ -115,7 +115,7 @@
           <li><a href="mailto:lothar.schermelleh@bioch.ox.ac.uk">Lothar Schermelleh</a> (Micron research fellow):
             <ul><li class="sublist">Tel: +44 (0)1865-613264</li></ul></li>
             <li><a href="mailto:andrew.jefferson@bioch.ox.ac.uk">Andrew Jefferson</a> (assistant manager):
-            <ul><li class="sublist">Tel: +44 (0)1865-613359</li></ul></li>
+            <ul><li class="sublist">Tel: +44 (0)1865-613353</li></ul></li>
           <li><a href="mailto:david.pinto@bioch.ox.ac.uk">David Pinto</a> (image analysis / software):
             <ul><li class="sublist">Tel: +44 (0)1865-613359</li></ul></li>
             <li><a href="mailto:alan.wainman@bioch.ox.ac.uk">Alan Wainman</a> (Dunn School):

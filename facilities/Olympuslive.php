@@ -61,6 +61,14 @@
 
       <div id="rightpanel">
         <img src="../images/FV1200_thumb.jpg" width="200" />
+        <ul>
+          <li><a href="../resources/Olympus_FV1200.pdf" >Users Guide</a></li>
+          <li><a href="../resources/FV1200_stitching.pdf" target="_blank">Image Stitching</a></li>
+          <li><a href="../resources/FV1200_LaserDamage.pdf" target="_blank">DNA damage</a></li>
+          <li><a href="../resources/OlympusON.pdf" target="_blank">Turning ON</a></li>         
+	                <li><a href="../resources/OlympusOFF.pdf" target="_blank">Turning OFF</a></li>
+                    <li><a href="../resources/FV1200_QC_01102015.pdf" target="_blank">microscope performance: October 2015</a></li>
+          </ul>
       </div>
 
     </div>

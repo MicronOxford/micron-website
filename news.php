@@ -30,7 +30,49 @@
           English description of our activities, please read more
           <a href="about.php#plain_english"> About Us.</a>
         </p>
-		<h4>Latest Micron Publication - <a href="http://www.nature.com/srep/2015/150330/srep09583/full/srep09583.html">Johnson et al., Sci Reports 2015</a></h4>
+        <h4>Micron wins award for next phase in its development <a href="http://www.wellcome.ac.uk/Funding/Biomedical-science/Funded-projects/Awards-made/Strategic-Awards/index.htm"></a></h4>
+        <p>Micron has been awarded a renewal of its Strategic Award from the Wellcome Trust to continue its state-of-the-art collaborative activities until at least 2020.</p>
+
+<p>Micron's Director Ilan Davis, together with deputy-Director Jordan Raff at the Dunn School, aim to expand the co-ordinating role played by Micron in this new phase, bringing in additional departments and technologies. This includes <a href="http://www.imm.ox.ac.uk/christian-eggeling">Christian Eggeling</a> from the WIMM, <a href="http://www.cncb.ox.ac.uk/team/group-leaders/booth/">Martin Booth</a> from Engineering, Yvonne Jones and Kay Grunewald from the <a href="http://www.well.ox.ac.uk/research-groups">WTCHG</a>, and <a href="https://groups.physics.ox.ac.uk/genemachines/group/">Achillefs Kapanidis </a>from Physics.</p>
+
+<p>The £4.6million Strategic Award will support the purchase or construction of bespoke microscopes, the development of new tools (analytical and chemical), and increase access and support for users.</p>
+
+<p>The new investment, together with substantial support from the University and existing support from the <a href="http://www2.bioch.ox.ac.uk/nanogroup/nano_home.php">MRC</a> and other funders, will allow Micron to continue to develop as one of the UK's leading bio-imaging facilities.</p>
+
+<p>'Micron is an exemplar of how complex technologies can be offered to researchers,' says Professor Davis. 'There's been a shift in biology to big technologies that cannot be supported by single labs, and the field is evolving so fast that individuals cannot keep up with this.'
+
+'The infrastructure required to make the technologies available widely is substantial. It's not a question of simply pressing a button - for example, the data analysis aspect is complex and needs a deep understanding.'</p>
+
+<p>The award will enable the development of new imaging technologies as well as the continued development of existing microscopy systems. Off-the-shelf microscopes purchased from Zeiss, which provide moderate super-resolution and are very sensitive, will expand Micron's capabilities. Two new systems, the Lattice Lightsheet system and the 4Pi-SMS microscope, will be built.</p>
+
+
+<p>Janelia Campus Nobel Laureate Eric Betzig recently developed the revolutionary Lattice Lightsheet system (<a href="https://www.sciencemag.org/content/346/6208/1257998.full">Science (2014) Vol. 346</a>). It is ideal for rapid and non-disruptive long-term live cell imaging as it has particularly good light efficiency and therefore causes less damage. Christian Eggeling will lead this work at the WIMM where the microscope will be used to look at the immune system responses live. It will be one of the first instruments of its type in the UK.</p>
+
+<p>The single-molecule high-resolution system 4Pi-SMS is tailored to deep imaging of samples. It was developed by <a href="http://medicine.yale.edu/lab/rothman/">Jim Rothman at Yale</a> and a prototype is currently being built at the Gurdon Institute in Cambridge. In Oxford, Martin Booth in the Department of Engineering has developed the necessary adaptive optics, which allow corrections of aberrations, to image deep. He will spearhead the building of a replica microscope making Micron's instrument the third in the world after Yale and the Gurdon Institute.</p>
+
+<p>The continued development of existing microscopy systems will focus on completion of a <a href="http://www.micron.ox.ac.uk/microngroup/facilities/DeepSIM.php">DeepSIM microscope</a>, which has already progressed well from a long-standing collaboration with Professor John Sedat at UCSF. The system lends itself to specimen manipulation, such as microinjection, at the same time as imaging. Like 4Pi-SMS, it uses adaptive optics and there are no commercial systems currently available. Micron researchers have developed user-friendly software that will make the system easy to use for biologists.</p>
+
+<p>Micron will continue its collaboration with Diamond to improve a version of structured illumination microscopy (a mode of super-resolution microscopy) to be used by researchers alongside X-ray microscopy and EM. The lab of Achillefs Kapanidis, Professor of Biological Physics at Oxford, has developed the NanoImager, a compact desktop microscopy for single molecule analyses, in collaboration with David Sherratt in Biochemistry.</p>
+
+<p>Professor Davis comments that the diversity of expertise across Oxford and willingness of individuals to work together has been crucial to Micron's success. 'The landscape of researchers in Oxford is great and there is a high degree of co-operation between them. We are also fortunate to have tremendous institutional support - both financially and in support of the concept.'</p>
+
+<p>The equipment at Micron is available to everyone across Oxford and where appropriate, outside Oxford.</p> 
+
+<p>Article by Jane Itzhaki</p>
+
+
+
+        <h4>Latest Micron Publication - <a href="http://www.sciencedirect.com/science/article/pii/S1046202315300190">Demmerle et al., Methods 2015</a></h4>
+        <p>At Micron, we frequently receive two critical questions from scientists interested in applying super-resolution technologies. Firstly, what is the actual resolution of the resulting image from a given technique? Secondly, is the increased effort and expense of super-resolution, as compared to conventional microscopy, worth the increase in resolution? These questions are not simple to answer, particularly as there are fundamental differences in super-resolution modalities, which mean that “resolution” is not a directly transferrable metric between techniques. To meaningfully compare different techniques it is essential to specify the exact definition of the resolution one is measuring. Further, resolution is a multifaceted concept and measuring it is not as trivial as it may appear in the literature. For these reasons we felt it necessary to revisit the concept of optical resolution, and developed a method to provide comparable measures of resolution for multiple super-resolution modalities.</p>
+        <img src="images/demmerle1.png" alt="Resolution assessment" width="566" height="372" align="right" />
+        <p>We introduce the technique of Fourier Spectrum Analysis for comparing resolution in super-resolution microscopy. We generated comparable images of microtubules in all three super-resolution modalities: 3D-SIM on our OMX V3 instrument; gSTED on the Wolfson Imaging Centre’s Leica SP8 instrument, and dSTORM (SMLM) on our OMX V2 system. Using Fourier Transform and Radial Profile tools from ImageJ, we can objectively compare the entirety of these images in Fourier Space to determine resolution, avoiding many of the issues with the traditional resolution measurement of calculating the full-width half maximum of fitted Gaussian profiles over particular selected objects.</p>
+        <p>Using this method confirms some traditional resolution measurements, but also raises questions about the way we conceptualize and quantify both resolution itself and the differences between super-resolution modalities. These fundamental contrasts make cross-platform comparisons difficult, and inform the specific biological conclusions the researcher can draw from an experiment. Further, they emphasize the importance of developing each imaging workflow with consideration of all variables, including spatial resolution but also temporal resolution, spatial correlation, and energy load. In conclusion, a ‘‘resolution number’’ should not be the primary factor in deciding which technique to use.</p>
+        <img src="images/demmerle2.png" alt="Resolution assessment" width="566" height="351" align="right" /> 
+        <h4>Fourier Space Analysis to compare resolutions</h4>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        
+		<h4>Micron Publication - <a href="http://www.nature.com/srep/2015/150330/srep09583/full/srep09583.html">Johnson et al., Sci Reports 2015</a></h4>
         <p>Correlative light and electron microscopy (CLEM) combines the very distinct and complementary strengths of fluorescence microscopy and electron microscopy. Besides the possibility of imaging living cells, in fluorescence microscopy structures or proteins of interest inside the cell can be labelled very specifically. This can be problematic or often even impossible with electron microscopy. On the other hand, electron microscopy allows structural details to be studied within the cellular context at a resolution in the range of a few nanometres, whereas the resolution in fluorescence microscopy is limited by the diffraction of light to around 200 nm.</p>
         <p>In the past 20 years, so-called super-resolution methods have been developed to overcome this resolution limit in fluorescence microscopy, which was last year recognised with the award of the Nobel price. Super-resolution imaging is helping to bridge the gap between fluorescence and electron microscopy. However, the requirements regarding sample preparation for both imaging modalities are very different. So far, performing super-resolution CLEM for imaging the same cell and combining the super-resolution fluorescence information with the ultrastructure of electron microscopy meant a big compromise. Either the resolution in the fluorescence images was not high enough for clear interpretation of the data or the structural preservation of the sample was deteriorated significantly, for example due to chemical fixation of the sample.</p>
         <img src="images/Johnson1.png" alt="Cryo Super-Resolution" width="566" height="134" align="right" />

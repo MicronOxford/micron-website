@@ -62,7 +62,11 @@
       <div id="rightpanel">
         <img src="../images/FV1000_thumb.jpg" width="200" />
         <ul>
-          <li><a href="../resources/Olympususersguide.pdf" >Users Guide</a></li>
+          <li><a href="../resources/Olympus_FV1000.pdf" >Users Guide</a></li>
+          <li><a href="../resources/stitching.pdf" target="_blank">Image Stitching</a></li>
+            <li><a href="../resources/FLIM.pdf" target="_blank">FLIM</a></li>
+          <li><a href="../resources/OlympusON.pdf" target="_blank">Turning ON</a></li>         
+	                <li><a href="../resources/OlympusOFF.pdf" target="_blank">Turning OFF</a></li>
           <li><a href="../resources/FV1000.pdf">Specifications</a></li>
           <li><a href="http://www.becker-hickl.de/">Becker and Hickel</a></li>
           <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/Olympus_FV1000_Confocal">Olympus Wiki</a></li>
