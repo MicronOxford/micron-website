@@ -18,9 +18,9 @@
     <?php include "../headnav.html"; ?>
     <div id="mainbody">
 
-      <a href="http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/plugins/SIMcheck_-0.9.9.jar-20150526104034"><img id="SIMCheckleft" src="../images/SIMcheck_logo.jpg" alt="SIMCheck Logo"
+      <a href="http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/plugins/SIMcheck_-1.0.0.jar-20150923093035"><img id="SIMCheckleft" src="../images/SIMcheck_logo.jpg" alt="SIMCheck Logo"
            title="Download SIMCheck" width="250" ></a>
-      <a href="http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/plugins/SIMcheck_-0.9.9.jar-20150526104034"><img id="SIMCheckright" src="../images/button.png" alt="SIMCheck download" width="150" align="right"
+      <a href="http://downloads.micron.ox.ac.uk/fiji_update/SIMcheck/plugins/SIMcheck_-1.0.0.jar-20150923093035"><img id="SIMCheckright" src="../images/button.png" alt="SIMCheck download" width="150" align="right"
            title="Download SIMCheck"></a>
 
       <h3>an <u><a href="https://github.com/MicronOxford/SIMcheck">open source</a></u> ImageJ plugin suite for super-resolution structured illumination microscopy data quality control</h3>

@@ -18,6 +18,8 @@
     <h3>Micron Publications</h3>
     <h4>2015</h4>
     <ul class="publicationlist">
+    <li>Graeme Ball, Justin Demmerle, Rainer Kaufmann, Ilan Davis, Ian M. Dobbie Lothar Schermelleh. SIMcheck: a Toolbox for Successful
+Super-resolution Structured Illumination Microscopy. Sci Reports. (2015) 5:15915 </li>
     <li>Demmerle J, Wegel E, Schermelleh L, Dobbie IM. Assessing resolution in super-resolution imaging. Methods. (2015) Jul 8. pii: S1046-2023(15)30019-0.</li>
     <li>Houlard M, Godwin J, Metson J, Lee J, Hirano T, Nasmyth K. (2015). Condensin confers the longitudinal rigidity of chromosomes. Nat Cell Biol. 2015 May 11. </li>
     <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015)

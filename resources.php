@@ -21,7 +21,7 @@
       <div id="leftpanel">
         <br>
         <h3><a href="software/SIMCheck.php"><img id="wikiIcon" src="images/SIMcheck_logo.jpg" alt="SIMcheck"
-                   width="50" height="17" ></a></h3><p>SIMcheck is an open source ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control. <a href="software/SIMCheck.php">Download v0.9.7 here</a></p>
+                   width="50" height="17" ></a></h3><p>SIMcheck is an open source ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control. <a href="software/SIMCheck.php">Download v1.0 here</a></p>
         <p>&nbsp;</p>
                    <p>Table to aid with matching spherical aberration of the sample and OTF when using OMX V3. <a href="resources/OTF-PSF.pdf">here...</a></p>
         <h3>Micron Advanced Microscopy Course</h3>
@@ -107,6 +107,21 @@
 
 
       <div id="rightpanel">
+      
+      <h3>ONBI Course 2015-2016: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
+<p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="ONBI_Course.php" >here..</a> </p>
+
+<p><b>Practicals</b>
+<ul id="micronlectures">
+
+            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_01.pdf" >Practical 01 - Sample Prep.</a></li>
+            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_02.pdf" >Practical 02 - Brightfield Microscopes</a></li>
+            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_03.pdf" >Practical 03/4/5 - Fluorescence and PSFs</a></li>
+            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_06.pdf" >Practical 06 - Raspberry Pi</a></li>
+            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_07.pdf" >Practical 07 - Microscope Comparison</a></li>
+
+              </ul>
+
        <h3>Micron Advanced Microscopy Course</h3>
         
           <img src="images/seminar.jpg" width="240" height="132"
@@ -142,7 +157,7 @@
               </ul>
       
 <h3>ONBI Course 2014-2015: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
-<p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="ONBI_Course.php" >here..</a> </p>
+<p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="2014_ONBI_Course.php" >here..</a> </p>
 <p><b>Practicals</b>
 <ul id="micronlectures">
 

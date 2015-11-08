@@ -43,7 +43,7 @@ function MM_swapImage() { //v3.0
     <?php include "headnav.html"; ?>
 
     <div id="mainbody">
-      <h3>ONBI Course 2015-2016: Week 1 Principles of light microscope design and fluorescence imaging</h3>
+      <h3>ONBI Course 2014-2015: Week 1 Principles of light microscope design and fluorescence imaging</h3>
       <p>Click on image for lecture notes</p>
 
       <a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/ONBI_Lecture_01_timetable.pdf"> <img src="images/ONBI_lecture_01.png" width="170" height="131" alt="ONBI Lecture 1"></a>
