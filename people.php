@@ -252,6 +252,16 @@
                   NanO Postdoc in non-linear SIM and RESOLFT microscopy.
               </td>
 </tr>
+
+ <tr>
+              
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/mantas.shtml">Mantas &#381;urauskas</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/mantas.shtml">
+                    <img src="images/mantas.jpg"
+                    width="69" height="80" alt="Mantas Zurauskas" 
+                    title="Mantas Zurauskas"></a>
+                  NanO Postdoc in Adaptive Optics
+              </td>
             </table>
             </div>
             

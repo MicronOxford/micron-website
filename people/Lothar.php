@@ -60,6 +60,14 @@ Michael Grange (Rotating DPhil Student - STRUBI Oxford).</p>
 
 
           <h3>Publications</h3>
+          
+          <h4>2015</h4>
+           <ul class="publicationlist">
+           <li>Hagen C, Dent KC, Zeev-Ben-Mordehai T, Grange M, Bosse JB, Whittle C, Klupp BG, Siebert CA, Vasishtan D, Bäuerlein FJ, Cheleski J, Werner S, Guttmann P, Rehbein S, Henzler K, Demmerle J, Adler B, Koszinowski U, Schermelleh L, Schneider G, Enquist LW, Plitzko JM, Mettenleiter TC, Grünewald K. Structural Basis of Vesicle Formation at the Inner Nuclear Membrane. Cell. 2015 Dec 17;163(7):1692-701. </li>
+           <li>Ball G, Demmerle J, Kaufmann R, Davis I, Dobbie IM, Schermelleh L. SIMcheck: a Toolbox for Successful Super-resolution Structured Illumination Microscopy. Sci Rep. 2015 Nov 3;5:15915.</li>
+           <li>Demmerle J, Wegel E, Schermelleh L, Dobbie IM. Assessing resolution in super-resolution imaging. Methods. 2015 Oct 15;88:3-10. </li>
+           <li>Moindrot B, Cerase A, Coker H, Masui O, Grijzenhout A, Pintacuda G, Schermelleh L, Nesterova TB, Brockdorff N. A Pooled shRNA Screen Identifies Rbm15, Spen, and Wtap as Factors Required for Xist RNA-Mediated Silencing. Cell Rep. 2015 Jul 28;12(4):562-72. </li>
+           </ul>
           <h4>2014</h4>
           <ul class="publicationlist">
           
@@ -125,17 +133,7 @@ Phys Chem Chem Phys. 13: 6699-6709 (*co-corresponding author).</li>
 Larochelle, N., R. Stucka, N. Rieger, L. Schermelleh, G. Schiedner, S. Kochanek, E. Wolf, and H. Lochmuller. 
 Genomic integration of adenoviral gene transfer vectors following transduction of fertilized mouse oocytes.
 Transgenic Res. 20: 123-35.</li></ul>
-<h4>2010</h4>
-          <img class="cover" src="../images/cover_JCB2012.jpg" width="90" height="120" alt="JCB cover" title="JCB cover">
-                    <ul class="publicationlist">
-            <li>
-Schermelleh, L.*, R. Heintzmann*, and H. Leonhardt*.
-A guide to super-resolution fluorescence microscopy.
-J Cell Biol. 190: 165-175 (*corresponding authors).</li>
-<li>Wiedemann SM, Mildner SN, Bönisch C, Israel L, Maiser A, Matheisl S, Straub T, Merkl R, Leonhardt H, Kremmer E, Schermelleh L, Hake SB. 2010. Identification and characterization of two novel primate-specific histone H3 variants, H3.X and H3.Y. J Cell Biol. 190: 777-91.</li>
 
-
-</ul>
           
          <p>&nbsp;</p>
          <p>For further publications visit <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=Schermelleh%20L">pubmed</a></p>

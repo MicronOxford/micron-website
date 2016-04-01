@@ -34,6 +34,15 @@
       </div>
 
       <div id="rightpanel">
+      <h3>Publications</h3>
+          <h4>2015</h4>
+          <ul class="publicationlist">
+          <li>Ball G, Demmerle J, Kaufmann R, Davis I, Dobbie IM, Schermelleh L.
+          SIMcheck: a Toolbox for Successful Super-resolution Structured Illumination Microscopy.
+          Sci Rep. 2015 Nov 3;5:15915.</li>
+          <li>Demmerle J, Wegel E, Schermelleh L, Dobbie IM.
+          Assessing resolution in super-resolution imaging.
+          Methods. 2015 Oct 15;88:3-10.</li></ul>
           <h3>Publications</h3>
           <h4>2014</h4>
           <ul class="publicationlist">

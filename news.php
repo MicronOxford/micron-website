@@ -30,6 +30,19 @@
           English description of our activities, please read more
           <a href="about.php#plain_english"> About Us.</a>
         </p>
+        
+        <h4>Latest Micron Publication - <a href="http://www.nature.com/articles/srep15915">Ball et al., Sci Reports 2015</a></h4>
+        <p>Three-dimensional structured illumination microscopy (3D-SIM) makes smart use of interference effects between a patterned excitation and fluorescence emission to generate high-contrast multi-dimensional super-resolution images of fixed and living specimen. Its broad application range and compatibility with standard fluorescence dyes makes 3D-SIM an attractive and accessible method for biologists. However, to generate high-quality images and extract biologically meaningful quantitative data can be a challenging task, particularly to non-specialist users.</p>
+
+<p>We have developed SIMcheck, a suite of powerful plugins for ImageJ/Fiji that enables users to identify and avoid common problems and artifacts with 3D-SIM data, and assess resolution and data quality through objective control parameters. Additionally, SIMcheck provides advanced calibration tools and utilities for common image processing tasks. This open-source software is applicable to all commercial and custom platforms and will promote routine application of super-resolution SIM imaging in cell biology.</p>
+
+<p>Find more information and downloads <a href="http://www.micron.ox.ac.uk/microngroup/software/SIMcheck.html">here</a> 
+
+ <img src="images/simcheck1.jpg" alt="SIMCheck" width="566" height="285.2" align="right" />
+ <h4>SIMcheck is an open source ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control.</h4>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+ 
         <h4>Micron wins award for next phase in its development <a href="http://www.wellcome.ac.uk/Funding/Biomedical-science/Funded-projects/Awards-made/Strategic-Awards/index.htm"></a></h4>
         <p>Micron has been awarded a renewal of its Strategic Award from the Wellcome Trust to continue its state-of-the-art collaborative activities until at least 2020.</p>
 
@@ -62,7 +75,7 @@
 
 
 
-        <h4>Latest Micron Publication - <a href="http://www.sciencedirect.com/science/article/pii/S1046202315300190">Demmerle et al., Methods 2015</a></h4>
+        <h4>Micron Publication - <a href="http://www.sciencedirect.com/science/article/pii/S1046202315300190">Demmerle et al., Methods 2015</a></h4>
         <p>At Micron, we frequently receive two critical questions from scientists interested in applying super-resolution technologies. Firstly, what is the actual resolution of the resulting image from a given technique? Secondly, is the increased effort and expense of super-resolution, as compared to conventional microscopy, worth the increase in resolution? These questions are not simple to answer, particularly as there are fundamental differences in super-resolution modalities, which mean that “resolution” is not a directly transferrable metric between techniques. To meaningfully compare different techniques it is essential to specify the exact definition of the resolution one is measuring. Further, resolution is a multifaceted concept and measuring it is not as trivial as it may appear in the literature. For these reasons we felt it necessary to revisit the concept of optical resolution, and developed a method to provide comparable measures of resolution for multiple super-resolution modalities.</p>
         <img src="images/demmerle1.png" alt="Resolution assessment" width="566" height="372" align="right" />
         <p>We introduce the technique of Fourier Spectrum Analysis for comparing resolution in super-resolution microscopy. We generated comparable images of microtubules in all three super-resolution modalities: 3D-SIM on our OMX V3 instrument; gSTED on the Wolfson Imaging Centre’s Leica SP8 instrument, and dSTORM (SMLM) on our OMX V2 system. Using Fourier Transform and Radial Profile tools from ImageJ, we can objectively compare the entirety of these images in Fourier Space to determine resolution, avoiding many of the issues with the traditional resolution measurement of calculating the full-width half maximum of fitted Gaussian profiles over particular selected objects.</p>

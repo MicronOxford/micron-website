@@ -90,12 +90,16 @@ Probe development, specimen preparation, instrument preparation and image analys
             <li><a href="http://omero1.bioch.ox.ac.uk"
                 title="OME database">
               OME <img id="OMEIcon" src="images/OMEFav.jpg" alt="Micron OME database"
-                width="12" height="12" ></a></li>
+                width="8" height="12" ></a></li>
             <li><a href="http://www2.bioch.ox.ac.uk/nanogroup/nano_home.php"><img src="images/Nanologo_small.jpg"></a></li>
             <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page"
                 title="wiki (snapshot for external viewers)">
               Wiki <img id="wikiIcon" src="images/MicronWikiFav.jpg" alt="Micron wiki"
-                width="12" height="12" ></a></li>
+                width="8" height="12" ></a></li>
+                 <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page"
+                title="wiki (snapshot for external viewers)">
+              Wiki <img id="wikiIcon" src="images/MicronWikiFav.jpg" alt="Micron wiki"
+                width="8" height="12" ></a></li>
           </ul>
         </div>
         <br>

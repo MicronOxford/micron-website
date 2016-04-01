@@ -16,8 +16,11 @@
     <div id="mainbody">
 
     <h3>Micron Publications</h3>
+    
     <h4>2015</h4>
     <ul class="publicationlist">
+    <li>Pawel Zawadzki, Mathew Stracy, Katarzyna Ginda, Katarzyna Zawadzka, Christian Lesterlin, Achillefs N. Kapanidis, David J. Sherratt. The Localization and Action of Topoisomerase IV in Escherichia coli Chromosome Segregation Is Coordinated by the SMC Complex, MukBE. Cell Reports Volume 13, Issue 11, p2587–2596, 22 December 2015. </li>
+    <li>Christoph Hagen, Kyle C. Dent, Tzviya Zeev-Ben-Mordehai, Michael Grange, Jens B. Bosse, Cathy Whittle, Barbara G. Klupp, C. Alistair Siebert, Daven Vasishtan, Felix J.B. Bäuerlein, Juliana Cheleski, Stephan Werner, Peter Guttmann, Stefan Rehbein, Katja Henzler11, Justin Demmerle, Barbara Adler, Ulrich Koszinowski, Lothar Schermelleh, Gerd Schneider, Lynn W. Enquist, Jürgen M. Plitzko, Thomas C. Mettenleiter, Kay Grünewald. Structural Basis of Vesicle Formation at the Inner Nuclear Membrane. Cell Volume 163, Issue 7, p1692–1701, 17 December 2015.</li>
     <li>Graeme Ball, Justin Demmerle, Rainer Kaufmann, Ilan Davis, Ian M. Dobbie Lothar Schermelleh. SIMcheck: a Toolbox for Successful
 Super-resolution Structured Illumination Microscopy. Sci Reports. (2015) 5:15915 </li>
     <li>Demmerle J, Wegel E, Schermelleh L, Dobbie IM. Assessing resolution in super-resolution imaging. Methods. (2015) Jul 8. pii: S1046-2023(15)30019-0.</li>

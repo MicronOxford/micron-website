@@ -33,6 +33,20 @@
 
       <div id="rightpanel">
           <h3>Publications</h3>
+          <h4>2016</h4>
+          <ul class="publicationlist">
+          <li>
+          Davidson A, Parton RM, Rabouille C, Weil TT, Davis I.
+          Localized Translation of gurken/TGF-α mRNA during Axis Specification Is Controlled by Access to Orb/CPEB on Processing Bodies.
+           Cell Rep. 2016 Mar 15;14(10):2451-62.</li>
+          </ul>
+          <h4>2015</h4>
+          <ul class="publicationlist">
+          <li>
+          York-Andersen AH, Parton RM, Bi CJ, Bromley CL, Davis I, Weil TT.
+          A single and rapid calcium wave at egg activation in Drosophila.
+           Biol Open. 2015 Mar 6;4(4):553-60. </li>
+          </ul>
           <h4>2012</h4>
           <ul class="publicationlist">
           <li>Weil TT, Parton RM, Herpers B, Soetaert J, Veenendaal T, Xanthakis D, Dobbie IM, Halstead JM, Hayashi R, Rabouille C, Davis I. Drosophila patterning is established by differential association of mRNAs with P bodies. Nat Cell Biol. 2012 Dec;14(12):1305-13.</li>

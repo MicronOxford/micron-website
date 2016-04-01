@@ -97,10 +97,17 @@
       <div id="rightpanel">
         <h3>Publication Highlights</h3>
         click <a href="research/publications.php">here</a> for all publications
-		<h4>2015</h4>
+		<h4>2016</h4>
         <ul class="publicationlist">
-        <li>Graeme Ball, Justin Demmerle, Rainer Kaufmann, Ilan Davis, Ian M. Dobbie Lothar Schermelleh. SIMcheck: a Toolbox for Successful
-Super-resolution Structured Illumination Microscopy. Sci Reports. (2015) 5:15915 </li>
+        <li>Stephan Uphoff1, Nathan D. Lord, Burak Okumus, Laurent Potvin-Trottier, David J. Sherratt, Johan Paulsson. Stochastic activation of a DNA damage response causes cell-to-cell mutation rate variation. Science. 2016 Mar 4;351(6277):1094-7.</li>
+        <li>Nolivos S, Upton AL, Badrinarayanan A, Müller J, Zawadzka K, Wiktor J, Gill A, Arciszewska L, Nicolas E, Sherratt D. MatP regulates the coordinated action of topoisomerase IV and MukBEF in chromosome segregation. Nat Commun. 2016 Jan 28;7:10466.</li>
+        </ul>
+        
+        <h4>2015</h4>
+        <ul class="publicationlist">
+        <li>Hagen C, Dent KC, Zeev-Ben-Mordehai T, Grange M, Bosse JB, Whittle C, Klupp BG, Siebert CA, Vasishtan D, Bäuerlein FJ, Cheleski J, Werner S, Guttmann P, Rehbein S, Henzler K, Demmerle J, Adler B, Koszinowski U, Schermelleh L, Schneider G, Enquist LW, Plitzko JM, Mettenleiter TC, Grünewald K. Structural Basis of Vesicle Formation at the Inner Nuclear Membrane. Cell. 2015 Dec 17;163(7):1692-701. </li>
+           <li>Ball G, Demmerle J, Kaufmann R, Davis I, Dobbie IM, Schermelleh L. SIMcheck: a Toolbox for Successful Super-resolution Structured Illumination Microscopy. Sci Rep. 2015 Nov 3;5:15915.</li>
+        
         <li>Demmerle J, Wegel E, Schermelleh L, Dobbie IM. Assessing resolution in super-resolution imaging. Methods. (2015) Jul 8. pii: S1046-2023(15)30019-0.</li>
         <li>Houlard M, Godwin J, Metson J, Lee J, Hirano T, Nasmyth K. (2015). Condensin confers the longitudinal rigidity of chromosomes. Nat Cell Biol. 2015 May 11. </li>
           <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015). 

@@ -38,6 +38,13 @@ about your projects over a cup of coffee.</p>
       </div>
 
       <div id="rightpanel">
+      <h3>Publications</h3>
+          <h4>2015</h4>
+            <ul class="publicationlist">
+              <li>Richens JH, Barros TP, Lucas EP, Peel N, Pinto DM, Wainman A, Raff JW. The Drosophila Pericentrin-like-protein (PLP) cooperates with Cnn to maintain the integrity of the outer PCM.
+              Biol Open. 2015 Jul 8;4(8):1052-61.
+              </li>       
+            </ul>
           <h3>Publications</h3>
           <h4>2010</h4>
             <ul class="publicationlist">

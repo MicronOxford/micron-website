@@ -33,9 +33,18 @@
           <h3>Publications</h3>
           <h4>2015</h4>
           <ul class="publicationlist">
+          <li>Ball G, Demmerle J, Kaufmann R, Davis I, Dobbie IM, Schermelleh L.
+          SIMcheck: a Toolbox for Successful Super-resolution Structured Illumination Microscopy.
+          Sci Rep. 2015 Nov 3;5:15915.</li>
           <li>Errin Johnson, Elena Seiradake, E. Yvonne Jones, Ilan Davis, Kay Grunewald & Rainer Kaufmann (2015)
           Correlative in-resin super-resolution and electron microscopy using standard
 fluorescent proteins. Scientific Reports 5; 9583.</li>
+<li>
+Zhang Y, Máté G, Müller P, Hillebrandt S, Krufczik M, Bach M, Kaufmann R, Hausmann M, Heermann DW.
+Radiation induced chromatin conformation changes analysed by fluorescent localization microscopy, statistical physics, and graph theory.
+PLoS One. 2015 Jun 4;10(6):e0128555.
+</li>
+
 </ul>
              <h4>2014</h4>
           <ul class="publicationlist">

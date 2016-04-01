@@ -31,9 +31,20 @@
           
           <h4>2015</h4>
           <ul class="publicationlist">
+          <li>Conduit PT, Wainman A, Novak ZA, Weil TT, Raff JW.
+          Re-examining the role of Drosophila Sas-4 in centrosome assembly using two-colour-3D-SIM FRAP.
+          Elife. 2015 Nov 4;4. pii: e08483.
+          </li>
+          <li>Conduit PT, Wainman A, Raff JW.
+          Centrosome function and assembly in animal cells.
+          Nat Rev Mol Cell Biol. 2015 Oct;16(10):611-24.
+          </li>
+          <li>Richens JH, Barros TP, Lucas EP, Peel N, Pinto DM, Wainman A, Raff JW.
+          The Drosophila Pericentrin-like-protein (PLP) cooperates with Cnn to maintain the integrity of the outer PCM.
+          Biol Open. 2015 Jul 8;4(8):1052-61.
+          </li>
           
-          
-        <p>Janina Baumbach, Zsofia Anna Novak, Jordan W. Raff and Alan Wainman. Dissecting the function and assembly of acentriolar microtubule organizing centers in Drosophila cells in vivo. PLoS Genetics 11(5): e1005261</p>
+        <li>Janina Baumbach, Zsofia Anna Novak, Jordan W. Raff and Alan Wainman. Dissecting the function and assembly of acentriolar microtubule organizing centers in Drosophila cells in vivo. PLoS Genetics 11(5): e1005261
          </li>
             </ul>
           <h4>2014</h4>
