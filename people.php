@@ -413,7 +413,7 @@
                <p><a href="people/Cvic.php">
                      <img src="images/cvic.jpg" alt="Cvic"
                        width="60" height="80" ></a>
-                     Cvic is a research associate shared between Micron and the Schermelleh lab</p>
+                     Cvic is a Micron postdoc shared between Micron and the Schermelleh lab</p>
               </td>
             </tr>
             

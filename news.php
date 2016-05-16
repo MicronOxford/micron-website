@@ -31,14 +31,27 @@
           <a href="about.php#plain_english"> About Us.</a>
         </p>
         
-        <h4>Latest Micron Publication - <a href="http://www.nature.com/articles/srep15915">Ball et al., Sci Reports 2015</a></h4>
+        <h4>Latest Micron Publication - <a href="http://science.sciencemag.org/content/351/6277/1094">Uphoff et al., Science 2016</a></h4>
+        <p>New study reveals a link between chance events and the formation of mutations</p>
+<p>At the molecular level, all biological processes are subject to chance, governed by random encounters of molecules within cells. This means that even cells with identical genetic makeup will show random variation in their behaviour. Microscopy at Micron helped to explore whether such variation might affect the formation of mutations in the genome. The unexpected results have now been published in <a href="http://science.sciencemag.org/content/351/6277/1094">Science</a>.</p>
+
+<p>All organisms rely on proteins that sense and repair the DNA damage that is constantly caused by their own metabolism and by environmental agents such as UV light or mutagenic chemicals. To investigate cell-to-cell variation in DNA repair, Stephan Uphoff and co-workers from Johan Paulsson’s lab at Harvard Medical School decided to revisit a classic DNA damage response that was discovered in the bacterium Escherichia coli back in 1977. At Micron in Oxford, they were able to use modern super-resolution fluorescence microscopy to image individual proteins as they search for and repair DNA damage.</p>
+<p>To their surprise, the team found that the protein required to sense DNA damage was present at extremely low quantities in cells before damage. Cells had on average only a single copy of that protein, and a significant fraction of the cells had none at all. ‘How many copies each cell contained was purely due to chance – or bad luck for those cells that had none’, comments Dr Uphoff. It turned out that the cells with no copies did not sense the presence of DNA damage. They were thus unable to activate the response that would allow them to repair the damage.</p>
+<p>The team developed a new method to visualize mutations under a microscope. These experiments demonstrated that failure to activate the DNA damage response lead to the formation of mutations. The long-standing dogma in biology that genetic differences cause phenotypic diversity is therefore also true in reverse: The capacity of cells to repair their DNA fluctuates randomly, and this phenotypic variation can lead to genetic changes.</p>
+
+ <img src="images/uphoff1.png" alt="SIMCheck" width="566" height="250" align="right" />
+ <h4>Escherichia coli cells activate a DNA damage response (yellow) after treatment with DNA damage. Some cells fail to activate the response and accumulate DNA mismatches – the precursors of mutations. The mismatches were visualized by tracking the movement of a mismatch-binding protein (red tracks). Scale bar: 2 µm.</h4>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+
+        <h4>Micron Publication - <a href="http://www.nature.com/articles/srep15915">Ball et al., Sci Reports 2015</a></h4>
         <p>Three-dimensional structured illumination microscopy (3D-SIM) makes smart use of interference effects between a patterned excitation and fluorescence emission to generate high-contrast multi-dimensional super-resolution images of fixed and living specimen. Its broad application range and compatibility with standard fluorescence dyes makes 3D-SIM an attractive and accessible method for biologists. However, to generate high-quality images and extract biologically meaningful quantitative data can be a challenging task, particularly to non-specialist users.</p>
 
 <p>We have developed SIMcheck, a suite of powerful plugins for ImageJ/Fiji that enables users to identify and avoid common problems and artifacts with 3D-SIM data, and assess resolution and data quality through objective control parameters. Additionally, SIMcheck provides advanced calibration tools and utilities for common image processing tasks. This open-source software is applicable to all commercial and custom platforms and will promote routine application of super-resolution SIM imaging in cell biology.</p>
 
 <p>Find more information and downloads <a href="http://www.micron.ox.ac.uk/microngroup/software/SIMcheck.html">here</a> 
 
- <img src="images/simcheck1.jpg" alt="SIMCheck" width="566" height="285.2" align="right" />
+ <img src="images/simcheck1.jpg" alt="SIMCheck" width="566" height="250" align="right" />
  <h4>SIMcheck is an open source ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control.</h4>
         <p>&nbsp;</p>
         <p>&nbsp;</p>

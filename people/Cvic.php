@@ -17,10 +17,10 @@
     <div id="mainbody">
       <div id="leftpanel">
 
-          <h3>Cvic Innocent - Micron Research Associate / Schermelleh Group</h3> email:<a href="mailto:cvic.innocent@bioch.ox.ac.uk">cvic.innocent@bioch.ox.ac.uk</a>
+          <h3>Cvic Innocent - Micron Postdoc</h3> email:<a href="mailto:cvic.innocent@bioch.ox.ac.uk">cvic.innocent@bioch.ox.ac.uk</a>
           <p><img src="../images/cvic.jpg" alt="Cvic Innocent"
                          title="Cvic Innocent" width="90" height="120" ></p>
-        <p id="person_intro">Cvic is a postdoctoral research assistant. Working between Micron and the Schermelleh lab she is responsible for training new users on Micron microscopes. In the lab her varied work addresses the application of super-resolution to biological data.</p>
+        <p id="person_intro">Working between Micron and the Schermelleh lab, Cvic is responsible for training new users on Micron microscopes. In the lab her varied work addresses the application of super-resolution to biological data</p>
       </div>
 
       <div id="rightpanel">
