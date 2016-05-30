@@ -108,6 +108,14 @@
             "images/FV1200_thumb.jpg",
             "facilities/Olympuslive.php"
           ),
+		            new Equipment (
+            "880inverted",
+            "",
+            "Zeiss 880 Airyscan (inverted)",
+            "images/airyscan_thumb.png",
+            "facilities/zeiss880airyscan.php"
+          ),
+
           ## do not have this for now.. this is the same microscope as OMXV2
 #          new Equipment (
 #            "omxv2_dstorm",
