@@ -115,6 +115,13 @@
             "images/airyscan_thumb.png",
             "facilities/zeiss880airyscan.php"
           ),
+new Equipment (
+            "880upright",
+            "",
+            "Zeiss 880 Airyscan (upright)",
+            "images/airyscan_upright_thumb.png",
+            "facilities/zeiss880airyscan_upright.php"
+          ),
 
           ## do not have this for now.. this is the same microscope as OMXV2
 #          new Equipment (

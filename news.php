@@ -31,7 +31,19 @@
           <a href="about.php#plain_english"> About Us.</a>
         </p>
         
-        <h4>Latest Micron Publication - <a href="http://science.sciencemag.org/content/351/6277/1094">Uphoff et al., Science 2016</a></h4>
+        <h4>Latest Micron Publication - <a href="http://www.nature.com/articles/srep27290">Wegel et al., Sci Reports 2016</a></h4>
+        
+        <p>Micron enables researchers from Oxford (and beyond) to access each of the established super-resolution methods such as Structured Illumination Microscopy (SIM), Stimulated Emission Depletion (STED) microscopy and Single Molecule Localisation Microscopy (SMLM).</p>
+
+<p>Each of these techniques enables an increase in image resolution beyond the classical diffraction-limit, but how do they compare on a practical level? Here, Wegel et al. assess the individual strengths and weaknesses of each technique by imaging a variety of different subcellular structures in fixed cells. We chose examples ranging from well separated vesicles to densely packed three dimensional filaments. We used quantitative and correlative analyses to assess the performance of SIM, STED and SMLM with the aim of establishing a rough guideline regarding the suitability for typical applications and to highlight pitfalls associated with the different techniques.</p>
+
+<img src="images/wegel.png" alt="SIMCheck" width="566" height="205" align="right" />
+ <h4>Centrioles in Drosophila primary spermatocytes. Asterless (Asl) localisation in an orthogonal centriole pair was detected with primary and secondary antibodies, the latter coupled to Alexa Fluor 488 for SIM, STED and SMLM. 100% available depletion laser power was used for STED. Scale bar, 0.5 μm. Graph shows FWHM measurements of 60 centriole walls per super-resolution technique.</h4>
+
+         <p>&nbsp;</p>
+        <p>&nbsp;</p>
+       
+        <h4>Micron Publication - <a href="http://science.sciencemag.org/content/351/6277/1094">Uphoff et al., Science 2016</a></h4>
         <p>New study reveals a link between chance events and the formation of mutations</p>
 <p>At the molecular level, all biological processes are subject to chance, governed by random encounters of molecules within cells. This means that even cells with identical genetic makeup will show random variation in their behaviour. Microscopy at Micron helped to explore whether such variation might affect the formation of mutations in the genome. The unexpected results have now been published in <a href="http://science.sciencemag.org/content/351/6277/1094">Science</a>.</p>
 
