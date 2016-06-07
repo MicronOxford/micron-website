@@ -55,7 +55,7 @@
       </div>
 
       <div id="rightpanel">
-        <img src="../images/airyscan_upright_thumbb.png" width="200" />
+        <img src="../images/airyscan_upright_thumb.png" width="200" />
         <ul>
          
                    
