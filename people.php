@@ -327,12 +327,12 @@
         <br>
         <div id="ext_collaborators">
           <a href="http://www.openmicroscopy.org/site">
-              <img src="images/ome_logo.jpg" alt="OME" Title="OME"
-                width="135" height="60" ></a>
+              <img src="images/ome_logo.png" alt="OME" Title="OME"
+                width="212" height="75" ></a>
           <p><b>OME, the Open Microscopy Environment</b>: The Open Microscopy Environment (OME) is a 
              multi-site collaborative effort among academic laboratories and a number of commercial 
              entities that produces open tools to support data management for biological light 
-             microscopy.</p>
+          microscopy.</p>
         </div>
 
       </div>
