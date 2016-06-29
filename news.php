@@ -31,6 +31,25 @@
           <a href="about.php#plain_english"> About Us.</a>
         </p>
         
+        <h4>Outreach Activities: <a href="http://www.oxfordshiresciencefestival.com/">Oxford Science Festival 2016</a></h4>
+        
+        <p>On the 25th and 26th of June, Micron was involved in setting up one of thirty stalls at the Oxford Science Fair, part of the Oxford Science Festival 2016. We joined scientists from across Oxford to exhibit work from neurology, quantum computers and even the future of our diet (FYI… its insects!); we, of course, brought the microscopes! Our stall was a joint effort with members of the <a href="https://www.dpag.ox.ac.uk/team/shankar-srinivas">Shrinivas Group</a> in the Department of Physiology, Anatomy & Genetics, focusing on developmental biology. The stall was packed with chick and zebrafish embryos and dissected mouse hearts at different stages of their development, as well as live zebrafish embryos under a microscope connected to a screen via a raspberry pi camera from Micron. Children and adults alike gasped wide-eyed at the sight of the beating heart on screen, visible through the transparent body of the zebrafish.
+On the opposite end of the stall we set up one of Micron’s Makerbot 3D printers to print mouse hearts at different stages of development. These pieces were added to a whole range of pieces already printed, from embryo sections and developing hearts to GFP (with green lights included!). As further visual aids we projected movies and microscope time-lapse experiments of the development of zebrafish, chick, mouse and human embryos.</p>
+<p>Ezequiel Miron from the <a href="http://www.schermellehlab.org/">Schermelleh group</a> at Micron took the data used in making the 3D printed models to generate explorable giant scale replicas within the world of the game Minecraft. These virtual worlds were projected on the big screen and generated a lot of interest among the young boys visiting our stall, and the parents who wanted to know where to download them for their kids to explore at home.</p>
+<p>The entire event was a great success, but one moment sticks out as the best. When a couple visited our stall and where handed 3D heart models to inspect, the man looked with interest at the objects, but the woman only caressed it with her fingers, looking distant. Then a beaming smile appeared on her face, she was blind, and so these printed replicates could convey to her what our microscopes, movies and virtual worlds could not.</p>
+<p>That achievement along with many other smiling faces made this event a wonderful experience in public engagement.</p>
+<p>The Minecraft worlds of the developing heart and the mammalian nucleus can be found at:<a href="http://www.schermellehlab.org/minecraft/">
+http://www.schermellehlab.org/minecraft/</a></p>
+<p>Many more pictures of this event can be found at:
+<a href="http://www.schermellehlab.org/oxsci/">http://www.schermellehlab.org/oxsci/</a></p>
+
+ <img src="images/scifair.png" alt="ScienceFestival" width="566" height="500" align="right" />
+ <h4>Micron at the Oxford Science Fair 2016</h4>
+ 
+ <p>&nbsp;</p>
+        <p>&nbsp;</p>
+
+        
         <h4>Latest Micron Publication - <a href="http://link.springer.com/protocol/10.1007%2F978-1-4939-3631-1_10">Miron et al., Methods Mol Biol. 2016</a></h4>
         
         <p>The super-resolution three-dimensional structured illumination microscope (3D-SIM) at Micron enables us to study sub-chromosomal chromatin organization in single cells. In this publication we provide methods for pulse-chase replication labeling of individual chromosome territories and replication domain units in mammalian cell nuclei. We describe the application of F-ara-EdU for the in situ detection of segregated chromosome territories with minimized cytotoxicity. Furthermore, we provide detailed protocols for highly efficient electroporation-based delivery or scratch loading of cell impermeable fluorescent nucleotides for live cell studies.</p>
