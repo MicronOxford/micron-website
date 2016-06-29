@@ -66,7 +66,7 @@
       </div>
 
       <div id="rightpanel">
-        <img src="../images/OMXV2_thumb.jpg" width="200" />
+        <img src="../images/OMXV2.png" width="280" />
         <br>
         <ul>
           <li><a href="http://www.cshlpress.com/pdf/sample/LiveCell2.pdf" title="OMX book chapter">OMX book Chapter</a></li>

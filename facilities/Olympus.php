@@ -49,6 +49,7 @@
         ?>
 
         <?php $FV1000->draw_header (); ?>
+      
 
         <p>
           This microscope is an inverted IX81 motorized microscope equipped
@@ -62,6 +63,7 @@
       <div id="rightpanel">
         <img src="../images/FV1000_thumb.jpg" width="200" />
         <ul>
+          <li>Microscope Room: 01865 275535</li>
           <li><a href="../resources/Olympus_FV1000.pdf" >Users Guide</a></li>
           <li><a href="../resources/stitching.pdf" target="_blank">Image Stitching</a></li>
             <li><a href="../resources/FLIM.pdf" target="_blank">FLIM</a></li>

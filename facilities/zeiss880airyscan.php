@@ -58,6 +58,7 @@
       <div id="rightpanel">
         <img src="../images/airyscan_thumb.png" width="200" />
         <ul>
+        <li>Microscope Room: 01865 285743</li>
           <li><a href="../resources/880_Airyscan.pdf" >Users Guide</a></li>
           <li><a href="../resources/880on.pdf" target="_blank">Turning ON</a></li>         
 	                <li><a href="../resources/880off.pdf" target="_blank">Turning OFF</a></li>

@@ -42,35 +42,35 @@
             "OMXv2",
             "OMX V2",
             "The OMX V2 microscope is a structured illumimation microscope.",
-            "images/OMXV2_thumb.jpg",
+            "images/OMXV2.png",
             "facilities/OMXV2.php"
           ),
           new Equipment (
             "OMXv3",
             "OMX V3",
             "The OMX V3 BLAZE is a 'turn-key' microscope for very rapid widefield imaging or super-resolution imaging of fixed and live samples.",
-            "images/OMXV2_thumb.jpg",
+            "images/OMXV3.png",
             "facilities/OMXV3.php"
           ),
           new Equipment (
             "bungle",
             "DVElite",
             "The DV core microscopes are wide-field deconvolution systems.",
-            "images/DVcore_thumb.jpg",
+            "images/elite.png",
             "facilities/bungle.php"
           ),
           new Equipment (
             "zippy",
             "Zippy Invert DVcore",
             "The DV core microscopes are wide-field deconvolution systems.",
-            "images/DVcore_thumb.jpg",
+            "images/zippy.png",
             "facilities/zippy.php"
           ),
           new Equipment (
             "PE_Ultraview",
             "PE Ultraview",
             "Nasmyth Perkin-Elmer spinning disk confocal.",
-            "images/sdisk_thumb.jpg",
+            "images/nasmythsd.png",
             "facilities/PerkinElmerNasmyth.php"
           ),
           new Equipment (
@@ -91,7 +91,7 @@
             "Z1_lightsheet",
             "Z1 lightsheet",
             "Zeiss Z1 light sheet Microscope",
-            "images/lightsheet_thumb.jpg",
+            "images/lightsheet.png",
             "facilities/lightsheet.php"
           ),
           new Equipment (

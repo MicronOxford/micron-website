@@ -67,8 +67,12 @@
       </div>
 
       <div id="rightpanel">
-        <img src="../images/sdisk_thumb.jpg" width="200" />
+        <img src="../images/nasmythsd.png" width="280" />
+        
+        <p>&nbsp;</p>
         <ul>
+        
+          
           <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/UltraView_spinning_disk_(Nasmyth)">Spinning Disc Wiki</a></li>
           <li><a href="http://www.perkinelmer.com/pages/020/cellularimaging/technologies/spinningdiskconfocal.xhtml">Perkin Elmer</a></li>
           <li><a href="../resources/Nasmyth Ultraview spinning disk.pdf" target="_blank">Specifications</a></li>

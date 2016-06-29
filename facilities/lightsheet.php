@@ -69,7 +69,7 @@
       </div>
 
       <div id="rightpanel">
-        <img src="../images/lightsheet_thumb.jpg" width="200" />
+        <img src="../images/lightsheet.png" width="280" />
         <ul>
           <li><a href="../resources/lightsheetusersguide.pdf">Users Guide</a></li>
         </ul>

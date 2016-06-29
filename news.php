@@ -31,7 +31,20 @@
           <a href="about.php#plain_english"> About Us.</a>
         </p>
         
-        <h4>Latest Micron Publication - <a href="http://www.nature.com/articles/srep27290">Wegel et al., Sci Reports 2016</a></h4>
+        <h4>Latest Micron Publication - <a href="http://link.springer.com/protocol/10.1007%2F978-1-4939-3631-1_10">Miron et al., Methods Mol Biol. 2016</a></h4>
+        
+        <p>The super-resolution three-dimensional structured illumination microscope (3D-SIM) at Micron enables us to study sub-chromosomal chromatin organization in single cells. In this publication we provide methods for pulse-chase replication labeling of individual chromosome territories and replication domain units in mammalian cell nuclei. We describe the application of F-ara-EdU for the in situ detection of segregated chromosome territories with minimized cytotoxicity. Furthermore, we provide detailed protocols for highly efficient electroporation-based delivery or scratch loading of cell impermeable fluorescent nucleotides for live cell studies.</p>
+        
+        <img src="images/miron.png" alt="ChromatinOrganization_3DSIM" width="566" height="261" align="right" />
+ <h4>Chromosome territory segregation imaged with 3D-SIM. (a) Segregation of F-ara-EdU labeled chromosome territories in mouse C127 cells over 6 days after pulse labeling. At day 4 individual territories can be distinguished. Scale bar, 5 μm. (b) Magnified view of consecutive z-sections through the structure of a single chromosome territory (boxed region in a). Scale bar 2 μm.</h4>
+
+         <p>&nbsp;</p>
+        <p>&nbsp;</p>
+
+
+
+        
+        <h4>Micron Publication - <a href="http://www.nature.com/articles/srep27290">Wegel et al., Sci Reports 2016</a></h4>
         
         <p>Micron enables researchers from Oxford (and beyond) to access each of the established super-resolution methods such as Structured Illumination Microscopy (SIM), Stimulated Emission Depletion (STED) microscopy and Single Molecule Localisation Microscopy (SMLM).</p>
 

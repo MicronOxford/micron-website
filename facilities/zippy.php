@@ -41,7 +41,9 @@
       </div>
 
       <div id="rightpanel">
-        <img src="../images/DVcore_thumb.jpg" width="200" />
+        <img src="../images/zippy.png" width="280" />
+                <p>&nbsp;</p>
+
         <ul>
           <li><a href="http://www.api.com/deltavision-omx.asp" title="Applied Precision">Applied Precision</a></li>
         </ul>

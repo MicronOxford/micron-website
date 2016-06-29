@@ -62,6 +62,7 @@
       <div id="rightpanel">
         <img src="../images/FV1200_thumb.jpg" width="200" />
         <ul>
+        <li>Microscope Room: 01865 275535</li>
           <li><a href="../resources/Olympus_FV1200.pdf" >Users Guide</a></li>
           <li><a href="../resources/FV1200_stitching.pdf" target="_blank">Image Stitching</a></li>
           <li><a href="../resources/FV1200_LaserDamage.pdf" target="_blank">DNA damage</a></li>
