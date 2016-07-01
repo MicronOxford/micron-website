@@ -238,11 +238,13 @@
                     title="Mick Phillips"></a>
                   NanO Postdoc.
               </td>
-              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">Antonia Goehler</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">
-                    <img src="images/Antonia.jpg"
-                    width="60" height="80" alt="Antonia Goehler" title="Antonia Goehler"></a>
-                  NanO Postdoc.
+              
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/mantas.shtml">Mantas &#381;urauskas</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/mantas.shtml">
+                    <img src="images/mantas.jpg"
+                    width="69" height="80" alt="Mantas Zurauskas" 
+                    title="Mantas Zurauskas"></a>
+                  NanO Postdoc in Adaptive Optics
               </td>
             
                           <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">Sebastian Schubert</a></h4>
@@ -253,15 +255,8 @@
               </td>
 </tr>
 
- <tr>
+ 
               
-              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/mantas.shtml">Mantas &#381;urauskas</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/mantas.shtml">
-                    <img src="images/mantas.jpg"
-                    width="69" height="80" alt="Mantas Zurauskas" 
-                    title="Mantas Zurauskas"></a>
-                  NanO Postdoc in Adaptive Optics
-              </td>
             </table>
             </div>
             
@@ -314,6 +309,14 @@
                      </p>
               </td>
             </tr>
+            <tr>
+            <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">Antonia Goehler</a></h4>
+                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Antonia.shtml">
+                    <img src="images/Antonia.jpg"
+                    width="60" height="80" alt="Antonia Goehler" title="Antonia Goehler"></a>
+                  NanO Postdoc, has returned to Germany to take up a place in industry.
+              </td>
+              </tr>
             
             
           </table>
