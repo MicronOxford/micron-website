@@ -105,7 +105,7 @@
       <div id="rightpanel">
         <a name="software">
         <img src="../images/image_suite.jpg"  width="200"
-              alt="OMX V2 dSTORM" title="OMX V2 dSTORM"/>
+              alt="Image Analysis Suite" title="Image Analysis Suite"/>
       </div>
 
     </div>

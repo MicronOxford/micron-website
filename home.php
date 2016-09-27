@@ -33,8 +33,9 @@ To achieve this, we coordinate and manage the interdepartmental and interdiscipl
 We develop and adopt new technologies across all areas of Microscopy:
 Probe development, specimen preparation, instrument preparation and image analysis. </p>
 <p>&nbsp;</p>
+<p>
+Please click <a href="facilities.php">here</a> to view the Micron facilities available to users</p>
 
-<p>&nbsp;</p>
         
 
         <!-- get a random image name from the gallery using chooseimage script -->
@@ -96,10 +97,7 @@ Probe development, specimen preparation, instrument preparation and image analys
                 title="wiki (snapshot for external viewers)">
               Wiki <img id="wikiIcon" src="images/MicronWikiFav.jpg" alt="Micron wiki"
                 width="8" height="12" ></a></li>
-                 <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page"
-                title="wiki (snapshot for external viewers)">
-              Wiki <img id="wikiIcon" src="images/MicronWikiFav.jpg" alt="Micron wiki"
-                width="8" height="12" ></a></li>
+                 
           </ul>
         </div>
         <br>

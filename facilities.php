@@ -19,18 +19,20 @@
     <?php include "headnav.html"; ?>
 
     <div id="mainbody">
-
-      <h3>Fluorescence microscopes ('Turn-Key systems')</h3>
+<h3>Micron Advanced Imaging Facility</h3>
 
       <p>
         We have a range of super-resolution, wide-field and confocal systems.
         If you are unsure which instrument suits your needs, we have produced
         an <a href="facilities/microscope_comparison.php">instrument summary table</a>
-        of the pros and cons of each. Our <a href="resources.php">educational material</a>
-        also contains a wealth of information that should enable you to get
-        the most out of your imaging. If you have any questions or to enquire
-        about access and charges please <a href="mailto:micron@bioch.ox.ac.uk">email micron</a>.
-      </p>
+        of the pros and cons of each. <p>All users of the Micron facility must be trained by a member of staff before they can start using any systems. Please contact Micron (micron@bioch.ox.ac.uk) if you wish to start using any of our instruments or have any other questions.</p>
+        
+<h3><a href="people/Maryam.php">Image processing support</a></h3>
+<h3><a href="facilities/booking_guidelines.php">Booking guidelines</a></h3>
+<h3><a href="facilities/rules.php">Micron rules</a></h3>
+<h3><a href="2015_Lectures.php">Learning more</a></h3>
+
+      <h3>Fluorescence microscopes ('Turn-Key systems')</h3>
 
       <?php
         include "scripts/equipment.php";
@@ -169,18 +171,18 @@ new Equipment (
         </tr>
       </table>
 
-      <h3>Image Analysis suite</h3>
+      <h3>Additional Facilities</h3>
 
       <table class="instruments">
         <tr>
           <td><a href='facilities/analysis.php'><img src='images/image_suite.jpg' width='200'></a></td>
-          <td></td>
+          <td><a href='facilities/preparation_lab.php'><img src='images/preparation_lab.jpg' width='200'></a></td>
           <td></td>
           <td></td>
         </tr>
         <tr>
           <td><p>Image Analysis Suite</p></td>
-          <td></td>
+          <td><p>Sample Preparation Lab</p></td>
           <td></td>
           <td></td>
         </tr>

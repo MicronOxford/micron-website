@@ -375,12 +375,21 @@
 
             
             <tr>
-              <td><h4><a href="people/David.php">David Pinto</a></h4>
+              <td><h4><a href="people/Maryam.php">Maryam Qurashi</a></h4>
+                  <p><a href="people/Maryam.php">
+                    <img src="images/maryam_thumb.jpg" alt="Maryam Qurashi"
+                      width="60" height="80" ></a>
+                    Maryam is the Micron image analysis specialist
+              </td>
+              </tr>
+              <tr>
+                            <td><h4><a href="people/David.php">David Pinto</a></h4>
                   <p><a href="people/David.php">
                     <img src="images/david_thumb.jpg" alt="David"
                       width="60" height="80" ></a>
-                    David is the Micron image analysis specialist
+                    David is the Micron Computing System Support
               </td>
+
             </tr>
 
             <tr>
