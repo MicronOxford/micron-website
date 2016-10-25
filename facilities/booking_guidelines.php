@@ -27,6 +27,10 @@
 <p>*Core hours are defined as 10am-6pm, Monday-Friday</p>
 
 <p><b>Please speak to a member of Micron staff if you require extended access to the instruments and we will always try to accommodate users who need additional time on the microscopes</b></p>
+<p>&nbsp;</p>
+
+
+<p><b>A booking must always be made for any time spent on the system. If there is a technical issue with the instrument during your experiment, please inform a member of Micron staff who will assist with the problem and also delete your booking so you are not charged for equipment failure.</b></p>
 
 
      

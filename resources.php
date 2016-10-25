@@ -27,7 +27,7 @@
         <h3>Micron Advanced Microscopy Course</h3>
         <p class="course">We hold an annual advanced microscopy course for Wellcome Trust postgraduate students (and other interested research staff).</p>
 
-<p class="wikiinfo">This years Lecture course will be held in <b>March 2015</b>.</p>
+<p class="wikiinfo">This years Lecture course will be held in <b>14th-18th November 2016</b>.</p>
 
           <h3 id="wikiheading">
             <a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page"
@@ -52,7 +52,7 @@
         usually around &pound;20 per. hour for internal users. </p> 
  
  <h3>Micron Rules</h3>
- <p>click <a href="">here</a> to download the micron rules.
+ <p>click <a href="facilities/rules.php">here</a> to download the micron rules.
         <h3>Protocols</h3>
         
         
@@ -99,7 +99,7 @@
             
             <h3>UK Biological Imaging Facilities</h3>
             <ul>
-            <li><a href="http://www.york.ac.uk/biology/technology-facility/imaging-cytometry/uk-lm-facilities/">UK LM facilities</a>: A list of all biological facilities in the UK.
+            <li><a href="http://www.rms.org.uk/network-collaborate/facilities-database.html"> Royal Microscopy Society hosted list of UK LM facilities</a>
             </li>
             </ul>
 
@@ -107,6 +107,13 @@
 
 
       <div id="rightpanel">
+      
+       <h3>Micron Advanced Microscopy Course</h3>
+        
+          <img src="images/seminar.jpg" width="240" height="132"
+            alt="microscopy course" >
+            
+             <h3>2016 lecture presentations</h3> can be downloaded   <a href="2016_Lectures.php" >here..</a> 
       
       <h3>ONBI Course 2015-2016: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
 <p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="ONBI_Course.php" >here..</a> </p>
@@ -122,10 +129,7 @@
 
               </ul>
 
-       <h3>Micron Advanced Microscopy Course</h3>
-        
-          <img src="images/seminar.jpg" width="240" height="132"
-            alt="microscopy course" >
+      
             
             <h3>2015 lecture presentations</h3> can be downloaded   <a href="2015_Lectures.php" >here..</a> 
             
