@@ -351,14 +351,14 @@
                   <p><a href="people/Ian.php">
                      <img src="images/ian_thumb.jpg" alt="Ian"
                      width="60" height="80" ></a> 
-                     Ian is the Micron facility manager</p>
+                     Ian is the Lead Technical Developer</p>
               </td>
             </tr><tr>
               <td><h4><a href="people/Lothar.php">Lothar Schermelleh</a></h4>
                   <p><a href="people/Lothar.php">
                     <img src="images/Lothar.jpg" alt="Lothar"
                       width="60" height="80" ></a> 
-                    Lothar is the Micron Group Leader
+                    Lothar is a Micron Research Fellow
                     (with particular interest in <a href="research/super_resolution_microscopy.php">
                       super-resolution microscopy</a> and nuclear organisation)
               </td>
@@ -369,7 +369,7 @@
                   <p><a href="people/Andrew.php">
                     <img src="images/andrew_thumb.jpg" alt="Andrew"
                       width="65" height="80" ></a>
-                    Andrew is the Micron assistant microscopy manager
+                    Andrew is the Micron Facility manager
               </td>
             </tr>
 
@@ -387,7 +387,7 @@
                   <p><a href="people/David.php">
                     <img src="images/david_thumb.jpg" alt="David"
                       width="60" height="80" ></a>
-                    David is the Micron Computing System Support
+                    David is the Micron Software Research Engineer.
               </td>
 
             </tr>

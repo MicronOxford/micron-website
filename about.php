@@ -110,13 +110,13 @@
           specific questions, individual telephone numbers are:
         </p>
         <ul>
-          <li><a href="mailto:ian.dobbie@bioch.ox.ac.uk">Ian Dobbie</a> (Micron Research Manager):
+          <li><a href="mailto:ian.dobbie@bioch.ox.ac.uk">Ian Dobbie</a> (Lead Technical Developer):
             <ul><li class="sublist">Tel: +44 (0)1865-613323</li></ul></li>
-          <li><a href="mailto:lothar.schermelleh@bioch.ox.ac.uk">Lothar Schermelleh</a> (Micron Research Fellow):
+          <li><a href="mailto:lothar.schermelleh@bioch.ox.ac.uk">Lothar Schermelleh</a> (Research Fellow):
             <ul><li class="sublist">Tel: +44 (0)1865-613264</li></ul></li>
             <li><a href="mailto:andrew.jefferson@bioch.ox.ac.uk">Andrew Jefferson</a> (Facility Manager):
             <ul><li class="sublist">Tel: +44 (0)1865-613353</li></ul></li>
-          <li><a href="mailto:maryam.qurashi@bioch.ox.ac.uk">Maryam Qurashi</a> (Image Analysis / Software):
+          <li><a href="mailto:maryam.qurashi@bioch.ox.ac.uk">Maryam Qurashi</a> (Image Analysis):
             <ul><li class="sublist">Tel: +44 (0)1865-613359</li></ul></li>
             <li><a href="mailto:alan.wainman@bioch.ox.ac.uk">Alan Wainman</a> (Dunn School):
             <ul><li class="sublist">Tel: +44 (0)1865-275531</li></ul></li>
@@ -124,7 +124,7 @@
             <ul><li class="sublist">Tel: +44 (0)1865-613330</li></ul></li>
              <li><a href="mailto:cvic.innocent@bioch.ox.ac.uk">Cassandravictoria Innocent </a> (SIM/Confocal/Fluorescent/Widefield):
             <ul><li class="sublist">Tel: +44 (0)1865-613265</li></ul></li>
-            <li><a href="mailto:david.pinto@bioch.ox.ac.uk">David Pinto </a> (Sys Admin / Software Development):
+            <li><a href="mailto:david.pinto@bioch.ox.ac.uk">David Pinto </a> (Software Development):
             <ul><li class="sublist">Tel: +44 (0)1865-613265</li></ul></li>
         </ul>
 
