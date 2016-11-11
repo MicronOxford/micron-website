@@ -18,7 +18,7 @@
       <div id="leftpanel">
 
           <h3>Maryam Qurashi - Image Analysis Specialist</h3> email:<a href="mailto:maryam.qurashi@bioch.ox.ac.uk">maryam.qurashi@bioch.ox.ac.uk</a>
-          <p><img src="../images/maryam_thumb.jpg" alt="Maryam Qurashi"
+          <p><img src="../images/maryam.jpg" alt="Maryam Qurashi"
                          title="Maryam Qurashi" width="90" height="120" ></p>
         <p id="person_intro"></p>
 
