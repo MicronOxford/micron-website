@@ -123,7 +123,7 @@
             <li><a href="mailto:rainer@strubi.ox.ac.uk">Rainer Kaufmann</a> (correlative light/EM):
             <ul><li class="sublist">Tel: +44 (0)1865-613330</li></ul></li>
              <li><a href="mailto:cvic.innocent@bioch.ox.ac.uk">Cassandravictoria Innocent </a> (SIM/Confocal/Fluorescent/Widefield):
-            <ul><li class="sublist">Tel: +44 (0)1865-613265</li></ul></li>
+            <ul><li class="sublist">Tel: +44 (0)1865-613238</li></ul></li>
             <li><a href="mailto:david.pinto@bioch.ox.ac.uk">David Pinto </a> (Software Development):
             <ul><li class="sublist">Tel: +44 (0)1865-613359</li></ul></li>
         </ul>

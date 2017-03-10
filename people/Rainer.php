@@ -31,6 +31,14 @@
 
       <div id="rightpanel">
           <h3>Publications</h3>
+          <h4>2016</h4>
+          <ul class="publicationlist">
+          <li>Kong, Y., Janssen, B.J., Malinauskas, T., Vangoor, V.R., Coles, C.H., Kaufmann, R., Ni, T., Gilbert, R.J., Padilla-Parra, S., Pasterkamp, R.J. and Jones, E.Y., 2016. Structural basis for plexin activation and regulation. Neuron, 91(3), pp.548-560.</li>
+
+<li>Wegel, E., Göhler, A., Lagerholm, B.C., Wainman, A., Uphoff, S., Kaufmann, R. and Dobbie, I.M., 2016. Imaging cellular structures in super-resolution with SIM, STED and Localisation Microscopy: A practical comparison. Scientific Reports, 6, p.27290.</li>
+
+<li>Wolff, G., Hagen, C., Grünewald, K. and Kaufmann, R., 2016. Towards correlative super‐resolution fluorescence and electron cryo‐microscopy. Biology of the Cell.</li>
+</ul>
           <h4>2015</h4>
           <ul class="publicationlist">
           <li>Ball G, Demmerle J, Kaufmann R, Davis I, Dobbie IM, Schermelleh L.

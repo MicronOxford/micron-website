@@ -124,6 +124,13 @@ new Equipment (
             "images/airyscan_upright_thumb.png",
             "facilities/zeiss880airyscan_upright.php"
           ),
+          new Equipment (
+            "Nanoimager",
+            "Nanoimager",
+            "Nanoimager system",
+            "images/nanoimager.png",
+            "facilities/Nanoimager.php"
+          ),
 
           ## do not have this for now.. this is the same microscope as OMXV2
 #          new Equipment (

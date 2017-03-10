@@ -31,6 +31,17 @@
           <a href="about.php#plain_english"> About Us.</a>
         </p>
         
+             <h4>Wellcome Image Awards 2017</h4>
+        <p>Congratulations to Ezequiel Miron from the <a href="https://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=882">Schermelleh Group</a>, Department of Biochemistry at the University of Oxford who's image is one of the selected winners of the Wellcome Image Awards 2017.</p>
+<p>His picture, captured using the <a href="http://www.micron.ox.ac.uk/microngroup/facilities/OMXV3.php">OMX V3 super-resolution microscope</a> in Micron, shows the nucleus of one of two new daughter cells. The DNA in this cell has somehow become caught, and is being pulled between the two dividing cells causing the DNA to be stretched out inside the nucleus; DNA fibres can be seen running through it. As the new cells have moved apart the DNA is being pulled through a perforation in the nuclear membrane. The tension distributed by the rope-like DNA has deformed the usually circular envelope of the nucleus.
+        </p>
+        <img src="images/ezequiel.png" width="560" align="right" />
+        <h4>
+          Unravelled DNA in a human lung cell
+        </h4>
+
+         <p>&nbsp;</p>
+          <p>&nbsp;</p>
         <h4>Outreach Activities: <a href="http://www.oxfordshiresciencefestival.com/">Oxford Science Festival 2016</a></h4>
         
         <p>On the 25th and 26th of June, Micron was involved in setting up one of thirty stalls at the Oxford Science Fair, part of the Oxford Science Festival 2016. We joined scientists from across Oxford to exhibit work from neurology, quantum computers and even the future of our diet (FYI… its insects!); we, of course, brought the microscopes! Our stall was a joint effort with members of the <a href="https://www.dpag.ox.ac.uk/team/shankar-srinivas">Shrinivas Group</a> in the Department of Physiology, Anatomy & Genetics, focusing on developmental biology. The stall was packed with chick and zebrafish embryos and dissected mouse hearts at different stages of their development, as well as live zebrafish embryos under a microscope connected to a screen via a raspberry pi camera from Micron. Children and adults alike gasped wide-eyed at the sight of the beating heart on screen, visible through the transparent body of the zebrafish.
