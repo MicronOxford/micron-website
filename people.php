@@ -99,15 +99,13 @@
                   with other techniques to analyze the the interaction between viral 
                   protein complexes and cellular structures in the course of the infection.
               </td>
-              
-              <td><h4><a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">Achillefs Kapanidis</a></h4>
-                  <a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">
-                    <img src="images/Kapanidis.jpg"
-                    width="60" height="80" alt="Achillefs Kapanidis" title="Achillefs Kapanidis"></a>
-                  Achillefs Kapanidis studies mechanisms and machines of gene expression using 
-                  single-molecule biophysical methods and biochemistry, and develops single-molecule 
-                  fluorescence methods, assays and DNA-based biosensors
+              <td><h4><a href="https://www.strubi.ox.ac.uk/research/e-yvonne-jones">Yvonne Jones</a></h4>
+                  <a href="https://www.strubi.ox.ac.uk/research/e-yvonne-jones">
+                    <img src="images/jones.jpg"
+                    width="60" height="80" alt="Yvonne Jones" title="Yvonne Jones"></a>
+                    Yvonne Jones studies the structural biology of cell surface recognition and signalling complexes. 
               </td>
+              
               
               
             </tr>
@@ -136,12 +134,7 @@
               </td>
               </tr>
               <tr>
-              <td><h4><a href="https://www.strubi.ox.ac.uk/research/e-yvonne-jones">Yvonne Jones</a></h4>
-                  <a href="https://www.strubi.ox.ac.uk/research/e-yvonne-jones">
-                    <img src="images/jones.jpg"
-                    width="60" height="80" alt="Yvonne Jones" title="Yvonne Jones"></a>
-                    Yvonne Jones studies the structural biology of cell surface recognition and signalling complexes. 
-              </td>
+              
               
               <td><h4><a href="http://www.imm.ox.ac.uk/doug-higgs">Doug Higgs</a></h4>
                   <a href="http://www.imm.ox.ac.uk/doug-higgs">
@@ -155,6 +148,13 @@
                     width="60" height="80" alt="Mark Howarth" title="Mark Howarth"></a>
                     Mark Howarth's research goal is to develop new chemical and biological 
                     approaches for imaging cellular function and for diagnosis. 
+              </td>
+              <td><h4><a href="http://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=565">Judy Armitage</a></h4>
+                  <a href="http://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=565">
+                    <img src="images/judy.jpg"
+                    width="60" height="80" alt="Judy Armitage" title="Judy Armitage"></a>
+                    Judy Armitage investigates the dynamics of bacterial sensory transduction and the control of bacterial motility. 
+                    
               </td>
               
               </tr>
@@ -181,13 +181,13 @@
               </td>
               </tr>
               <tr>
-              <td><h4><a href="http://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=565">Judy Armitage</a></h4>
-                  <a href="http://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=565">
-                    <img src="images/judy.jpg"
-                    width="60" height="80" alt="Judy Armitage" title="Judy Armitage"></a>
-                    Judy Armitage investigates the dynamics of bacterial sensory transduction and the control of bacterial motility. 
-                    
+               <td><h4><a href="https://www.kennedy.ox.ac.uk/team/michael-dustin">Mike Dustin</a></h4>
+                  <a href="https://www.kennedy.ox.ac.uk/team/michael-dustin">
+                    <img src="images/mike.png"
+                    width="60" height="80" alt="Mike Dustin" title="Mike Dustin"></a>
+                    .
               </td>
+              
               
               
               </tr>
@@ -219,6 +219,23 @@
                   an emphasis on applications in optical microscopy.
               </td>
             </tr>
+            <tr>
+            <td><h4><a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">Achillefs Kapanidis</a></h4>
+                  <a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">
+                    <img src="images/Kapanidis.jpg"
+                    width="60" height="80" alt="Achillefs Kapanidis" title="Achillefs Kapanidis"></a>
+                  Achillefs Kapanidis studies mechanisms and machines of gene expression using 
+                  single-molecule biophysical methods and biochemistry, and develops single-molecule 
+                  fluorescence methods, assays and DNA-based biosensors
+              </td>
+              <td><h4><a href="http://users.ox.ac.uk/~quee2159/index.html#">Stephan Uphoff</a></h4>
+               <p><a href="http://users.ox.ac.uk/~quee2159/index.html#">
+                     <img src="images/stephan.jpg" alt="Stephan"
+                       width="60" height="80" ></a> 
+                     Stephan is a Henry Dale Research fellow based in biochemistry</p>
+                     
+              </td>
+              </tr>
             </table>
             </div>
         
@@ -430,6 +447,15 @@
             </tr>
             
             <tr>
+              <td><h4><a href="people/Carina.php">Carina Monico</a></h4>
+               <p><a href="people/Carina.php">
+                     <img src="images/Carina.png" alt="Carina Monico"
+                       width="60" height="80" ></a>
+                     Carina is the Assistant Micron Facility manager</p>
+              </td>
+            </tr>
+            
+            <tr>
               <td><h4>Staff Associated with Micron</h4>
 
               </td>
@@ -440,13 +466,7 @@
               
                                       
               <tr>
-              <td><h4><a href="http://users.ox.ac.uk/~quee2159/index.html#">Stephan Uphoff</a></h4>
-               <p><a href="http://users.ox.ac.uk/~quee2159/index.html#">
-                     <img src="images/stephan.jpg" alt="Stephan"
-                       width="60" height="80" ></a> 
-                     Postdoctoral Junior Research fellow in David J. Sherratt's lab and Micron. 
-                     
-              </td>
+              
               </tr>
 
           </table>

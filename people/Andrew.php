@@ -3,7 +3,7 @@
 <html lang="en-GB">
 
 <head>
-  <title>Micron Oxford Advanced Bioimaging: Andrew Jefferson's Page</title>
+  <title>Micron Oxford Advanced Bioimaging: Andrew Jefferson</title>
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
   <link rel="stylesheet" type="text/css" href="../styles/main.css" >
   <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
@@ -17,11 +17,11 @@
     <div id="mainbody">
       <div id="leftpanel">
 
-        <h3>Andrew Jefferson - Assistant Facility Manager</h3> email:<a href="mailto:andrew.jefferson@bioch.ox.ac.uk">andrew.jefferson@bioch.ox.ac.uk</a>
+        <h3>Andrew Jefferson - Facility Manager</h3> email:<a href="mailto:andrew.jefferson@bioch.ox.ac.uk">andrew.jefferson@bioch.ox.ac.uk</a>
           <p><img src="../images/andrew.jpg" alt="Andrew"
                          title="Andrew Jefferson" width="204" height="200" /></p>
           <p>        
-             I am the Assistant Microscopy Manager at Micron, where I assist with user training, troubleshooting and maintaining the equipment and facilities. I first became involved with microscopy at the Molecular Cytogenetics and Microscopy Core at the Wellcome Trust Centre for Human Genetics in Oxford, where I completed my D.Phil and also assisted in the running of the microscopy facility. I have completed post-doctoral research positions at the University of Arizona and at the Department of Cardiovascular Medicine in Oxford, both heavily involved with light microscopy and imaging. Prior to joining the Department of Biochemistry I was a lab manager at the Dunn School of Pathology where I also assisted with the Bioimaging Facility which is part of Micron.       
+             I am the Facility Manager at Micron, where I assist with user training, troubleshooting and maintaining the equipment and facilities. I first became involved with microscopy at the Molecular Cytogenetics and Microscopy Core at the Wellcome Trust Centre for Human Genetics in Oxford, where I completed my D.Phil and also assisted in the running of the microscopy facility. I have completed post-doctoral research positions at the University of Arizona and at the Department of Cardiovascular Medicine in Oxford, both heavily involved with light microscopy and imaging. Prior to joining the Department of Biochemistry I was a lab manager at the Dunn School of Pathology where I also assisted with the Bioimaging Facility which is part of Micron.       
           </p>
       </div>
 
