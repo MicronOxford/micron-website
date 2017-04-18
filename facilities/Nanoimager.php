@@ -30,8 +30,8 @@
             "New Biochemistry Room 00-058",
             array (
               new SolidStateLaser (405, "Diode"),
-			  new SolidStateLaser (532, "DPSS"),
-			  new SolidStateLaser (640, "Diode"),
+              new SolidStateLaser (532, "DPSS"),
+              new SolidStateLaser (640, "Diode"),
             ),
             array (
               new Objective (100, 1.4, "UPlanSApo (oil)"),
