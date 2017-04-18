@@ -30,7 +30,7 @@
             "New Biochemistry Room 00-058",
             array (
               new SolidStateLaser (405, "Diode"),
-			  new SolidStateLaser (532, "Diode"),
+			  new SolidStateLaser (532, "DPSS"),
 			  new SolidStateLaser (640, "Diode"),
             ),
             array (
@@ -42,11 +42,26 @@
         <?php $FV1200->draw_header (); ?>
 
         <p>
-          The Nanoimager is a compact, benchtop super-resolution microscope. The instrument can be used for a number of different applications including single-molecule localization-based super-resolution for quantitative cellular imaging, TIRF and epifluorescence for diffraction-limited fluorescence imaging, single-molecule FRET for measuring molecular interactions in the 2-10 nm range and single particle tracking PALM in cells.
+          The Nanoimager is a compact, benchtop super-resolution microscope. The instrument can be used for a number of different applications including single-molecule localization-based super-resolution for quantitative cellular imaging, TIRF and epifluorescence for diffraction-limited fluorescence imaging, single-molecule FRET for measuring molecular interactions in the 2-10 nm range and single particle tracking PALM in cells. Equiped with focus correction.
  
         </p>
 
         <?php $FV1200->draw_description (); ?>
+        
+        <h4>Detector</h4>
+<p>sCMOS camera</p>
+
+
+<h4>Applications</h4>
+	<ul>
+    <li>•	Super Resolution Localization Microscopy: PALM / STORM 2D and 3D</li>
+	<li>•	Single-molecule imaging</li>
+	<li>•	smFRET</li>
+	<li>•	Colocalization and clusteing</li>
+	<li>•	Single-particle tracking</li>
+    </ul>
+
+
 
       </div>
 

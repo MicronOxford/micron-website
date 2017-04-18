@@ -18,15 +18,21 @@
     <div id="mainbody">
 
      <h3>Micron rules</h3>
-<ul><li>•	All initial microscope training is carried out by Micron staff. If after that you have any queries please ask. We are here to help.</li>
-<li>•	Microscopes can be booked up to 7 days 0 hours in advance. Users can only book up to 4 core hours per day (unless otherwise agreed with a facility manager). Core hours are 9am to 6pm Monday to Friday. Long time-lapse experiments will be expected to be run out of core hours (6pm to 9am and weekends) and will be arranged by agreement with the facility.</li>
-<li>•	Booking microscopes for other people or using a microscope without booking is not permitted.</li>
-<li>•	Bookings that are not going to be used have to be cancelled or truncated.</li>
-<li>•	Microscopes have to be left clean and tidy after usage. Objectives have to be wiped clean with Whatman lens tissue.</li>
-<li>•	Users are not allowed to disconnect or reconnect system components unless they have been instructed in how to do so by facility staff.</li>
-<li>•	Category 3 material cannot be brought into the facility.</li>
-<li>•	Eating and drinking is not permitted in rooms containing microscopes.</li>
-<li>•	Infringement of the rules may result in the suspension of booking rights.</li>
+<ul><li>•         Training must be provided by Micron staff prior to using the instrument.</li>
+<li>•    Instruments can only be used when booked using the online booking system at:<a href="https://www2.bioch.ox.ac.uk/portal/booking/">
+https://www2.bioch.ox.ac.uk/portal/booking/</a></li>
+<li>•        Bookings are normally limited to up to 4 core hours (8am-6pm) per day, no more than 3 days per working week. There are no restrictions for booking outside core hours aside from on live cell systems. Exceptions to these rules may be arranged in consultation with Micron staff.</li>
+<li>•        Live cell systems; no more than 3 overnight bookings per week.</li>
+<li>•        Bookings where the instrument has failed/malfunctioned will be deleted so users are not charged.</li>
+<li>•        Any issues or technical problems must be reported immediately to a member of Micron staff.</li>
+<li>•        The instrument must be left in a clean and tidy state.</li>
+<li>•       If accompanied by colleagues who have not been trained, they must not operate or be left alone to use the instruments.</li>
+<li>•         If a user has not used an instrument for >6 months they must consult a Micron staff member to decide if a refresher training session is required.</li>
+<li>•       The instruments must not be modified or adapted in any way without the express permission and assistance from Micron staff.</li>
+<li>•        All work must be covered by a COSHH form/risk assessment; it is the user’s responsibility to ensure their work is fully covered.</li>
+</ul>
+
+
 
 
      
