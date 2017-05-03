@@ -23,12 +23,17 @@
           use MicronOxford\Objective;
 
           $bungle = new OpticalMicroscope (
-            "bungle",
+            "Elite",
             "API DeltaVision Elite",
             "New Biochemistry Room 00-031",
             array (),
             array (
-              new Objective (60, 1.35, "Oil UPlanSApo"),
+              new Objective (4, 0.16, "air UPlanSApo"),
+              new Objective (10, 0.4, "air UPlanSApo" ),
+              new Objective (20, 0.75, "air UPlanSApo"),
+              new Objective (40, 0.95, "air PlanApo"),
+              new Objective (60, 1.42, "oil PlanApo"),
+              new Objective (100, 1.40, "oil UPlanSApo"),
             )
           );
         ?>
@@ -51,4 +56,3 @@
 </body>
 
 </html>
-
