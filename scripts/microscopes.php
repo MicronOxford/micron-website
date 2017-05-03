@@ -231,7 +231,7 @@ class OpticalMicroscope extends Microscope
         echo "<tr>\n";
         echo "<th width='10%'>Magnification</th>\n";
         echo "<th width='10%'>NA</th>\n";
-        echo "<th width='80%'></th>\n";
+        echo "<th width='80%'>Description</th>\n";
         echo "</tr>\n";
 
         for ($i = 0; $i < count ($this->objectives); $i++)
@@ -252,4 +252,3 @@ class OpticalMicroscope extends Microscope
 }
 
 ?>
-
