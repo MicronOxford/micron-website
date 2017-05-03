@@ -30,7 +30,11 @@
             "New Biochemistry Room 00-031",
             array (),
             array (
-              new Objective (60, 1.35, "Oil UPlanSApo"),
+              new Objective (10, 0.40, "air UPlanApo"),
+              new Objective (20, 0.75, "air UPlanSApo"),
+              new Objective (40, 1.35, "oil UApo"),
+              new Objective (60, 1.35, "oil UPlanSApo"),
+              new Objective (100, 1.40, "oil UPlanSApo"),
             )
           );
         ?>
@@ -55,4 +59,3 @@
 </body>
 
 </html>
-
