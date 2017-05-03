@@ -54,11 +54,11 @@
 
 <h4>Applications</h4>
 	<ul>
-    <li>•	Super Resolution Localization Microscopy: PALM / STORM 2D and 3D</li>
-	<li>•	Single-molecule imaging</li>
-	<li>•	smFRET</li>
-	<li>•	Colocalization and clusteing</li>
-	<li>•	Single-particle tracking</li>
+        <li> Super Resolution Localization Microscopy: PALM / STORM 2D and 3D</li>
+	<li> Single-molecule imaging</li>
+	<li> smFRET</li>
+	<li> Colocalization and clusteing</li>
+	<li> Single-particle tracking</li>
     </ul>
 
 
