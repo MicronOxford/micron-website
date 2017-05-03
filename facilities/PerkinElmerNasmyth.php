@@ -37,7 +37,12 @@
               new GasLaser (633, "Argon"),
             ),
             array (
-              new Objective (60, 1.35, "Oil UPlanSApo"),
+              new Objective (4, 0.13, "air UPlan FL"),
+              new Objective (10, 0.40, "air UPlanSApo"),
+              new Objective (20, 0.75, "air UApo"),
+              new Objective (40, 1.30, "oil UPlan FL"),
+              new Objective (60, 1.40, "oil PlanApo"),
+              new Objective (100, 1.35, "oil UPlanApo"),
             )
           );
         ?>
@@ -68,11 +73,11 @@
 
       <div id="rightpanel">
         <img src="../images/nasmythsd.png" width="280" />
-        
+
         <p>&nbsp;</p>
         <ul>
-        
-          
+
+
           <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/UltraView_spinning_disk_(Nasmyth)">Spinning Disc Wiki</a></li>
           <li><a href="http://www.perkinelmer.com/pages/020/cellularimaging/technologies/spinningdiskconfocal.xhtml">Perkin Elmer</a></li>
           <li><a href="../resources/Nasmyth Ultraview spinning disk.pdf" target="_blank">Specifications</a></li>
@@ -86,4 +91,3 @@
 </body>
 
 </html>
-
