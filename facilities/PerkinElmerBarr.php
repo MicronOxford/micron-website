@@ -37,7 +37,11 @@
               new GasLaser (633, "Argon"),
             ),
             array (
-              new Objective (60, 1.35, "Oil UPlanSApo"),
+              new Objective (20, 0.5, "air UPlan"),
+              new Objective (40, 0.75, "air UPlan"),
+              new Objective (60, 1.20, "water UPlanSApo"),
+              new Objective (60, 1.42, "oil PlanApoN"),
+              new Objective (100, 1.40, "oil UPlanSApo"),
             )
           );
         ?>
@@ -76,4 +80,3 @@
 </body>
 
 </html>
-
