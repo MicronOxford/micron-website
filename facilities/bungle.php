@@ -23,7 +23,7 @@
           use MicronOxford\Objective;
 
           $bungle = new OpticalMicroscope (
-            "Elite",
+            "bungle",
             "API DeltaVision Elite",
             "New Biochemistry Room 00-031",
             array (),
