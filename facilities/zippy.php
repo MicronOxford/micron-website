@@ -41,6 +41,16 @@
 
         <?php $zippy->draw_header (); ?>
 
+        <h4>Applications</h4>
+          <ul>
+        <li> widefield fluorescence imaging</li>
+        <li> brightfield</li>
+        <li> multipoint</li>
+        <li> time-lapse</li>
+        <li> Z-stacks</li>
+        <li> deconvolution</li>
+          </ul>
+
         <?php $zippy->draw_description (); ?>
 
   <h4>Detector</h4>
@@ -157,18 +167,6 @@
   </tr>
 </table>
 
-
-
-
-  <h4>Applications</h4>
-	  <ul>
-  <li> widefield fluorescence imaging</li>
-  <li> brightfield</li>
-	<li> multipoint</li>
-	<li> time-lapse</li>
-	<li> Z-stacks</li>
-	<li> deconvolution</li>
-    </ul>
       </div>
 
       <div id="rightpanel">
