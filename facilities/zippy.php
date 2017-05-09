@@ -42,6 +42,133 @@
         <?php $zippy->draw_header (); ?>
 
         <?php $zippy->draw_description (); ?>
+
+  <h4>Detector</h4>
+  <p>cooled CCD camera</p>
+
+  <h4>Fluorescence filter sets</h4>
+  <table width='100%' border='1' align='left' cellpadding='4' style='padding-top: 10px; padding-bottom: 10px;'>
+   <tr>
+   <th colspan="4">Dichroics <i>(non-motorized)</i></th>
+   </tr>
+    <tr>
+    <th width='10%'>Position</th>
+    <th width='10%'>Name</th>
+    <th width='30%'>Reflection bands (Ex)</th>
+    <th width='30%'>Transmission bands (Em)</th>
+    </tr>
+    <tr>
+    <td>1</td>
+    <td>Quad-mCh</td>
+    <td>381-401; 464-492; 562-589; 626-643</td>
+    <td>409-455; 501-552; 600-615; 654-700</td>
+    </tr>
+    <tr>
+    <td>2</td>
+    <td>Quad</td>
+    <td>381-392; 475-495; 547-572; 643-656</td>
+    <td>420-460; 510-531; 589-623; 677-722</td>
+    </tr>
+    <tr>
+    <td>3</td>
+    <td>C/YFP/mCh</td>
+    <td>327-437; 494-512; 562-578</td>
+    <td>450-480; 527-547; 598-648</td>
+   </tr>
+  </table>
+
+  <table width='100%' border='1' align='left' cellpadding='4' style='padding-top: 10px; padding-bottom: 10px;'>
+ <tr>
+ <th colspan="3">Excitation and Emission filters</th>
+ </tr>
+ <tr>
+  <td width='10%'><b>Channel</b></td>
+  <td width='10%'><b>Excitation wavelength/bandwidth</b></td>
+  <td width='10%'><b>Emission wavelength/bandwidth</b></td>
+  </tr>
+ <tr>
+ <th colspan="3"><i>Standard</i></th>
+ </tr>
+  <tr>
+  <td>DAPI</td>
+  <td>390/18</td>
+  <td>435/48</td>
+  </tr>
+  <tr>
+  <td>FITC</td>
+  <td>475/28</td>
+  <td>525/48</td>
+  </tr>
+  <tr>
+  <td>TRITC</td>
+  <td>542/27</td>
+  <td>597/45</td>
+ </tr>
+ <tr>
+  <td>Cy-5</td>
+  <td>632/22</td>
+  <td>676/34</td>
+ </tr>
+ <tr>
+ <th colspan="3"><i>Live Cell</i></th>
+ </tr>
+  <tr>
+  <td>CFP</td>
+  <td>438/24</td>
+  <td>475/24</td>
+  </tr>
+  <tr>
+  <td>GFP</td>
+  <td>475/28</td>
+  <td>525/28</td>
+  </tr>
+  <tr>
+  <td>YFP</td>
+  <td>513/17</td>
+  <td>548/22</td>
+  </tr>
+  <tr>
+  <td>mCh</td>
+  <td>575/25</td>
+  <td>625/45</td>
+  </tr>
+  <tr>
+ <th colspan="3"><i>Alexa</i></th>
+ </tr>
+  <tr>
+  <td>DAPI</td>
+  <td>390/18</td>
+  <td>435/48</td>
+  </tr>
+  <tr>
+  <td>FITC</td>
+  <td>475/28</td>
+  <td>525/48</td>
+  </tr>
+  <tr>
+  <td>A594</td>
+  <td>575/25</td>
+  <td>625/45</td>
+  </tr>
+  <tr>
+  <td>Cy-5</td>
+  <td>632/22</td>
+  <td>676/34</td>
+  </tr>
+</table>
+
+
+
+
+  <h4>Applications</h4>
+	  <ul>
+  <li> widefield fluorescence imaging</li>
+  <li> brightfield</li>
+	<li> multipoint</li>
+	<li> time-lapse</li>
+	<li> Z-stacks</li>
+	<li> deconvolution</li>
+    </ul>
       </div>
 
       <div id="rightpanel">
