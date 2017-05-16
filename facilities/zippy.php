@@ -57,35 +57,6 @@
   <p>cooled CCD camera</p>
 
   <h4>Fluorescence filter sets</h4>
-  <table width='100%' border='1' align='left' cellpadding='4' style='padding-top: 10px; padding-bottom: 10px;'>
-   <tr>
-   <th colspan="4">Dichroics <i>(non-motorized)</i></th>
-   </tr>
-    <tr>
-    <th width='10%'>Position</th>
-    <th width='10%'>Name</th>
-    <th width='30%'>Reflection bands (Ex)</th>
-    <th width='30%'>Transmission bands (Em)</th>
-    </tr>
-    <tr>
-    <td>1</td>
-    <td>Quad-mCh</td>
-    <td>381-401; 464-492; 562-589; 626-643</td>
-    <td>409-455; 501-552; 600-615; 654-700</td>
-    </tr>
-    <tr>
-    <td>2</td>
-    <td>Quad</td>
-    <td>381-392; 475-495; 547-572; 643-656</td>
-    <td>420-460; 510-531; 589-623; 677-722</td>
-    </tr>
-    <tr>
-    <td>3</td>
-    <td>C/YFP/mCh</td>
-    <td>327-437; 494-512; 562-578</td>
-    <td>450-480; 527-547; 598-648</td>
-   </tr>
-  </table>
 
   <table width='100%' border='1' align='left' cellpadding='4' style='padding-top: 10px; padding-bottom: 10px;'>
  <tr>
