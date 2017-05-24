@@ -63,22 +63,23 @@
                   Kim Nasmyth studies the mechanism by which chromosomal DNA molecules are 
                   held together via entrapment within cohesin rings.
               </td>
+              <td><h4><a href="http://www.imm.ox.ac.uk/christian-eggeling">Christian Eggeling</a></h4>
+                  <a href="http://www.imm.ox.ac.uk/christian-eggeling">
+                    <img src="images/christian.jpg"
+                    width="60" height="80" alt="Christian Eggeling" title="Christian Eggeling"></a>
+                    Christian Eggeling works on the application and development of ultra-sensitive, live-cell super-resolution fluorescence microscopy techniques. 
+              </td>
               
-              <td><h4><a href="http://www.path.ox.ac.uk/dirsci/molbiology/proudfoot">Nick Proudfoot</a></h4>
-                  <a href="http://www.path.ox.ac.uk/dirsci/molbiology/proudfoot">
-                    <img src="images/Nick_thumb.jpg"
-                    width="60" height="80" alt="Nick Proudfoot" title="Nick Proudfoot"></a>
-                  Nick Proudfoot studies the molecular process that divides one gene from 
-                  its adjacent gene partners, in particular the mechanism of transcription 
-                  termination.
+              <td><h4><a href="https://www.kennedy.ox.ac.uk/team/marco-fritzsche">Marco Fritzsche</a></h4>
+                  <a href="https://www.kennedy.ox.ac.uk/team/marco-fritzsche">
+                    <img src="images/marco.jpg"
+                    width="60" height="80" alt="Marco Fritzsche" title="Marco Fritzsche"></a>
+                    Marco takes a highly interdisciplinary approach to investigate cytoskeleton-driven cellular processes in immunity and disease. 
               </td>
-              <td><h4><a href="http://www.path.ox.ac.uk/dirsci/molbiology/robertson">Liz Robertson</a></h4>
-                  <a href="http://www.path.ox.ac.uk/dirsci/molbiology/robertson">
-                    <img src="images/Liz_thumb.jpg"
-                    width="60" height="80" alt="Liz Robertson" title="Liz Robertson"></a>
-                  Liz Robertson exploits mouse genetics to investigate cell interactions 
-                  underlying mammalian development and immune recognition.
-              </td>
+              
+              
+              
+              
             </tr>
             <tr>
               <td><h4><a href="http://www2.bioch.ox.ac.uk/sherrattlab/">Dave Sherratt</a></h4>
@@ -184,9 +185,27 @@
                <td><h4><a href="https://www.kennedy.ox.ac.uk/team/michael-dustin">Mike Dustin</a></h4>
                   <a href="https://www.kennedy.ox.ac.uk/team/michael-dustin">
                     <img src="images/mike.png"
-                    width="60" height="80" alt="Mike Dustin" title="Mike Dustin"></a>
+                    width="60" height="80" alt="Mike Dustin" title="Mike Dustin"></a> Mike Dustin studies the immunological synapse using advanced imaging techniques
                     .
               </td>
+              
+              <td><h4><a href="http://www.path.ox.ac.uk/dirsci/molbiology/proudfoot">Nick Proudfoot</a></h4>
+                  <a href="http://www.path.ox.ac.uk/dirsci/molbiology/proudfoot">
+                    <img src="images/Nick_thumb.jpg"
+                    width="60" height="80" alt="Nick Proudfoot" title="Nick Proudfoot"></a>
+                  Nick Proudfoot studies the molecular process that divides one gene from 
+                  its adjacent gene partners, in particular the mechanism of transcription 
+                  termination.
+              </td>
+              
+              <td><h4><a href="http://www.path.ox.ac.uk/dirsci/molbiology/robertson">Liz Robertson</a></h4>
+                  <a href="http://www.path.ox.ac.uk/dirsci/molbiology/robertson">
+                    <img src="images/Liz_thumb.jpg"
+                    width="60" height="80" alt="Liz Robertson" title="Liz Robertson"></a>
+                  Liz Robertson exploits mouse genetics to investigate cell interactions 
+                  underlying mammalian development and immune recognition.
+              </td>
+              
               
               
               
@@ -198,12 +217,7 @@
             <div id="oxbioimagersdiv">
           <table id="oxbioimagers">
             <tr>
-              <td><h4><a href="http://www.imm.ox.ac.uk/christian-eggeling">Christian Eggeling</a></h4>
-                  <a href="http://www.imm.ox.ac.uk/christian-eggeling">
-                    <img src="images/christian.jpg"
-                    width="60" height="80" alt="Christian Eggeling" title="Christian Eggeling"></a>
-                    Christian Eggeling works on the application and development of ultra-sensitive, live-cell super-resolution fluorescence microscopy techniques. 
-              </td>
+              
               <td><h4><a href="http://www.ndm.ox.ac.uk/principal-investigators/researcher/sergi-padilla-parra">Sergi Padilla-Parra</a></h4>
                   <a href="http://www.ndm.ox.ac.uk/principal-investigators/researcher/sergi-padilla-parra">
                     <img src="images/sergi.jpg"
@@ -218,9 +232,7 @@
                   Martin Booth's research centres on the development of adaptive optics, with
                   an emphasis on applications in optical microscopy.
               </td>
-            </tr>
-            <tr>
-            <td><h4><a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">Achillefs Kapanidis</a></h4>
+              <td><h4><a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">Achillefs Kapanidis</a></h4>
                   <a href="http://www.physics.ox.ac.uk/users/kapanidis/group/">
                     <img src="images/Kapanidis.jpg"
                     width="60" height="80" alt="Achillefs Kapanidis" title="Achillefs Kapanidis"></a>
@@ -228,6 +240,9 @@
                   single-molecule biophysical methods and biochemistry, and develops single-molecule 
                   fluorescence methods, assays and DNA-based biosensors
               </td>
+            </tr>
+            <tr>
+            
               <td><h4><a href="http://users.ox.ac.uk/~quee2159/index.html#">Stephan Uphoff</a></h4>
                <p><a href="http://users.ox.ac.uk/~quee2159/index.html#">
                      <img src="images/stephan.jpg" alt="Stephan"
@@ -456,11 +471,22 @@
             </tr>
             
             <tr>
+              
+            </tr>
+            
+            <tr>
               <td><h4>Staff Associated with Micron</h4>
 
               </td>
               </tr>
                           <tr>
+                          <td><h4><a href="https://www.kennedy.ox.ac.uk/team/kseniya-korobchevskaya">Kseniya Korobchevskaya</a></h4>
+               <p><a href="https://www.kennedy.ox.ac.uk/team/kseniya-korobchevskaya">
+                     <img src="images/kseniya.jpg" alt="Kseniya Korobchevskaya"
+                       width="60" height="80" ></a>
+                     Kseniya is a post-doc working with Marco Fritzsche and Mike Dustin on advanced, bespoke microscope development and is based at the Kennedy Institute of Rheumatology
+ </p>
+              </td>
               
               </tr>
               

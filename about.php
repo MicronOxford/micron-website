@@ -27,7 +27,7 @@
           in biology. We are located within the Department of Biochemistry and
           the Dunn School of Pathology in the South Parks Road science area at
           the University of Oxford, and are funded by a strategic award from
-          the Wellcome Trust.
+          Wellcome.
         </p>
 
         <h3>Our Vision</h3>
@@ -76,7 +76,7 @@
             number of Department in Oxford University including, the Department
             of Biochemistry, the Dunn School of Pathology, DPAG and the Wellcome
             Trust Centre for Human Genetics. Micron is funded by a major
-            strategic award from the Wellcome Trust that includes staff salaries
+            strategic award from Wellcome that includes staff salaries
             and large equipment purchases.
           </p>
           <p>

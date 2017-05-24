@@ -49,7 +49,7 @@
         <p class="answer">Access is straighforward for researchers belonging to Biochemistry 
         or Pathology, and relatively easy to arrange for those in other Oxford departments. 
         External users are welcome to enquire about working collaboratively. Charges are 
-        usually around &pound;20 per. hour for internal users. </p> 
+        usually around &pound;30 per. hour for internal users. </p> 
  
  <h3>Micron Rules</h3>
  <p>click <a href="facilities/rules.php">here</a> to download the micron rules.
