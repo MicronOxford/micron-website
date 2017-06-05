@@ -88,7 +88,7 @@
           <li><a href="http://msg.ucsf.edu/sedat/omx/" title="Sedat Lab OMX" >Sedat Lab OMX</a></li>
           <li><a href="http://www.api.com/deltavision-omx.asp" title="Applied Precision">Applied Precision</a></li>
           <li><a href="http://www.OMXwiki.com" title="OMX wiki">OMX Wiki</a></li>
-          <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/OMX_V3_(Blaze)"  title="OMX V3 Wiki">Micron OMX V3 (BLAZE) Wiki</a></li>
+          <li><a href="http://wiki.micron.ox.ac.uk/w/OMX_V3_(Blaze)"  title="OMX V3 Wiki">Micron OMX V3 (BLAZE) Wiki</a></li>
           <li><a href="../resources/standard_drawer.pdf" title="standard drawer configuartion">standard drawer configuartion</a></li>
           <li><a href="../resources/live_drawer.pdf" title="live drawer configuartion">live drawer configuartion</a></li>
         </ul>

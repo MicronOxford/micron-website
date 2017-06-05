@@ -78,7 +78,7 @@
         <ul>
 
 
-          <li><a href="http://micronwiki.bioch.ox.ac.uk/wiki/UltraView_spinning_disk_(Nasmyth)">Spinning Disc Wiki</a></li>
+          <li><a href="http://wiki.micron.ox.ac.uk/w/UltraView_spinning_disk_(Nasmyth)">Spinning Disc Wiki</a></li>
           <li><a href="http://www.perkinelmer.com/pages/020/cellularimaging/technologies/spinningdiskconfocal.xhtml">Perkin Elmer</a></li>
           <li><a href="../resources/Nasmyth Ultraview spinning disk.pdf" target="_blank">Specifications</a></li>
           <li><a href="../resources/Ultraview Vox User Protocol Nasmyth 01.pdf" target="_blank">Spinning Disc Users Manual</a></li>

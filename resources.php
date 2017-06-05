@@ -30,14 +30,14 @@
 <p class="wikiinfo">This years Lecture course will be held in <b>14th-18th November 2016</b>.</p>
 
           <h3 id="wikiheading">
-            <a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page"
+            <a href="http://wiki.micron.ox.ac.uk/w/Main_Page"
                  title="wiki (snapshot for external viewers)"> Wiki</a></h3>
-          <a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page"
+          <a href="http://wiki.micron.ox.ac.uk/w/Main_Page"
                  title="wiki (snapshot for external viewers)">
             <img id="wikiIcon" src="images/MicronWikiFav.jpg" alt="Micron wiki"
                    width="15" height="15" ></a>
         <br>
-        <p id="wikiinfo">We have a <a href="http://micronwiki.bioch.ox.ac.uk/wiki/Main_Page" 
+        <p id="wikiinfo">We have a <a href="http://wiki.micron.ox.ac.uk/w/Main_Page"
           title="wiki (snapshot for external viewers)">Micron wiki</a>, 
         which is constantly evolving and being updated with useful information.
         Internal users can register and edit the wiki (external users will soon be
@@ -69,7 +69,7 @@
      
         <p id="OMEinfo">We have a <a href="http://omero1.bioch.ox.ac.uk/" 
           title="OME database">OME database</a>, 
-        for analysis and longterm storage of images. Further inforamtion about use of the database and details of how to get an account see the <a href="http://micronwiki.bioch.ox.ac.uk/wiki/Getting_Started_With_OMERO">wikipage</a>, or contact <a href="mailto:david.pinto@bioch.ox.ac.uk ">David Pinto</a></p>
+        for analysis and longterm storage of images. Further inforamtion about use of the database and details of how to get an account see the <a href="http://wiki.micron.ox.ac.uk/w/Getting_Started_With_OMERO">wikipage</a>, or contact <a href="mailto:david.pinto@bioch.ox.ac.uk ">David Pinto</a></p>
 
 
         <h3>Other bioimaging resources</h3>
