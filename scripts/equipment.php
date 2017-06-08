@@ -70,7 +70,7 @@ class EquipmentStatus
 class EquipmentManager
 {
   private static $status_source_link
-    = "http://micronwiki.bioch.ox.ac.uk/wiki/Microscope_status?action=raw";
+    = "http://wiki.micron.ox.ac.uk/w/Microscope_status?action=raw";
   private static $source = array ();  // array<string>
   private static $status = array ();  // array<State>
 
