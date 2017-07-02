@@ -17,7 +17,7 @@
     <div id="mainbody">
       <div id="leftpanel">
 
-          <h3>David Pinto - Image Analysis Specialist</h3> email:<a href="mailto:david.pinto@bioch.ox.ac.uk">david.pinto@bioch.ox.ac.uk</a>
+          <h3>David Pinto - Research Software Engineer</h3> email:<a href="mailto:david.pinto@bioch.ox.ac.uk">david.pinto@bioch.ox.ac.uk</a>
           <p><img src="../images/david_thumb.jpg" alt="David Pinto"
                          title="David Pinto" width="90" height="120" ></p>
         <p id="person_intro">I am Micron's image analysis guy. I have experience with multiple
