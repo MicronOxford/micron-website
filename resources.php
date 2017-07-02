@@ -69,7 +69,10 @@
      
         <p id="OMEinfo">We have a <a href="http://omero1.bioch.ox.ac.uk/" 
           title="OME database">OME database</a>, 
-        for analysis and longterm storage of images. Further inforamtion about use of the database and details of how to get an account see the <a href="http://wiki.micron.ox.ac.uk/w/Getting_Started_With_OMERO">wikipage</a>, or contact <a href="mailto:david.pinto@bioch.ox.ac.uk ">David Pinto</a></p>
+        for analysis and longterm storage of images. Further information
+        about use of the database and details of how to get an account see
+        the <a href="http://wiki.micron.ox.ac.uk/w/Getting_Started_With_OMERO">wikipage</a>,
+        or contact <a href="mailto:maryam.qurashi@bioch.ox.ac.uk ">Maryam Qurashi</a></p>
 
 
         <h3>Other bioimaging resources</h3>
