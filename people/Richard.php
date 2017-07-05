@@ -27,7 +27,7 @@
         <p>I work in the Davis lab using state-of-the-art and advanced imaging techniques as well as developing improved imaging methods and quantitative image analysis to investigate the molecular mechanism of RNA transport in Drosophila tissues. This includes working to establish semi-automated particle recognition and tracking applicable to the challenging live cell data produced in the Davis lab. Recently I have worked with Graeme Ball (Micron) and Russell Hamilton (Davis Lab) to quantitatively analyse the microtubule organisation of Drosophila oocytes.</p> 
     <p>During my own work and through collaborations I have gained considerable experience with quantitative live cell imaging and image analysis applied to a variety of biological systems and questions working in collaboration together with researchers with Mathematics, Physics and Chemistry backgrounds. I oversee the development of imaging technology in the Davis lab and was involved in the establishment of New Biochemistry Department Advanced Imaging Unit "Micron" and in the education courses it runs. </p>
     <p>I have a special interest in dynamic cell activities at the single and multi cell level with respect to the determination of cell and tissue growth and development. In addition to my research projects, part of my role is to provide technical advice and imaging support to other researchers and students.</p>
-<p>Outside the lab I enjoy nature photography.</p>
+<p>Outside the lab I enjoy nature photography and gardening.</p>
 
       </div>
 
