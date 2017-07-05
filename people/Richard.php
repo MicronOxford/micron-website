@@ -36,6 +36,12 @@
           <h4>2016</h4>
           <ul class="publicationlist">
           <li>
+          Parton RM
+          My new publication
+           Cell Rep. 2016 Mar 15;14(10):2451-62.</li>
+          </ul>
+          <ul class="publicationlist">
+          <li>
           Davidson A, Parton RM, Rabouille C, Weil TT, Davis I.
           Localized Translation of gurken/TGF-α mRNA during Axis Specification Is Controlled by Access to Orb/CPEB on Processing Bodies.
            Cell Rep. 2016 Mar 15;14(10):2451-62.</li>
