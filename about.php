@@ -131,12 +131,25 @@
         <hr>
 
         <h3>Find us</h3>
-        <b>Micron Oxford, Department of Biochemistry, South Parks Road, Oxford, OX1 3QU</b>
+        <p>
+          Micron Oxford <br/>
+          Department of Biochemistry <br/>
+          University of Oxford <br/>
+          South Parks Road <br/>
+          Oxford OX1 3QU <br/>
+          United Kingdom
+        </p>
 
-        <div id="GoogleMap">
-          <iframe width="280" height="240" frameborder="0" scrolling="no"
-                  marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=213753868534870214774.0004b9ce0da929d14696d&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=51.759234,-1.254051&amp;spn=0.003188,0.005987&amp;z=16&amp;output=embed">
-          </iframe>
+        <div id="FindUsMap">
+          <iframe width="280" height="240" frameborder="0"
+                  scrolling="no" marginheight="0" marginwidth="0"
+                  style="border: 1px solid black"
+                  src="http://www.openstreetmap.org/export/embed.html?bbox=-1.2585192918777468%2C51.75773338577671%2C-1.2514382600784304%2C51.761080335914876&amp;layer=mapnik&amp;marker=51.75940689185718%2C-1.2549787759780884"
+                  >
+          </iframe><br/>
+          <small>
+            <a href="https://www.openstreetmap.org/?mlat=51.75941&amp;mlon=-1.25498#map=18/51.75941/-1.25498">View Larger Map</a>
+          </small>
         </div>
 
         <p>
