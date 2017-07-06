@@ -8,7 +8,7 @@
   <link rel="stylesheet" type="text/css" href="../styles/main.css" >
   <link rel="stylesheet" type="text/css" href="../styles/person_page.css" >
   <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
-  <script src="../google_analytics.js"></script>
+
 </head>
 
 <body id="people">

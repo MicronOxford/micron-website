@@ -7,7 +7,7 @@
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
   <link rel="stylesheet" type="text/css" href="../styles/main.css" >
   <link rel="icon" type="image/ico" href="../images/MicronMu.ico" >
-  <script src="../google_analytics.js"></script>
+
 </head>
 
 <body id="research">

@@ -11,7 +11,7 @@
   <link rel="stylesheet" type="text/css" href="styles/main.css" >
   <link rel="stylesheet" type="text/css" href="styles/home.css" >
   <link rel="icon" type="image/ico" href="images/MicronMu.ico" >
-  <script src="google_analytics.js"></script>
+
 </head>
 
 <!-- Body has container_all which is divided into header, navigation, mainbody, footer -->
