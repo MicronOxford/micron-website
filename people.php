@@ -278,14 +278,7 @@
                     title="Mantas Zurauskas"></a>
                   NanO Postdoc in Adaptive Optics
               </td>
-
-                          <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">Sebastian Schubert</a></h4>
-                  <a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">
-                    <img src="images/sebastian.jpg"
-                    width="60" height="80" alt="Sebastian Schubert" title="Sebastian Schubert"></a>
-                  NanO Postdoc in non-linear SIM and RESOLFT microscopy.
-              </td>
-</tr>
+            </tr>
 
 
 
@@ -347,6 +340,13 @@
                     <img src="images/Antonia.jpg"
                     width="60" height="80" alt="Antonia Goehler" title="Antonia Goehler"></a>
                   Antonia was a NanO Postdoc. She has returned to Germany to take up a place in industry.
+              </td>
+
+              <td><h4><a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">Sebastian Schubert</a></h4>
+              <a href="http://www2.bioch.ox.ac.uk/nanogroup/Sebastian.shtml">
+              <img src="images/sebastian.jpg"
+              width="60" height="80" alt="Sebastian Schubert" title="Sebastian Schubert"></a>
+              Sebastian was a NanO Postdoc in non-linear SIM and RESOLFT microscopy. He has now moved to finance.
               </td>
 
                 <td><h4><a href="people/Cvic.php">Cassandravictoria Innocent</a></h4>
