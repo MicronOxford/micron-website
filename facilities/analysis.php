@@ -53,7 +53,8 @@
             and SI reconstruction
           </dd>
           <dt>
-            <a href="http://www.openmicroscopy.org/site/support/omero5/downloads" title="Omero website">OMERO client</a>
+            <a href="http://downloads.openmicroscopy.org/omero/"
+               title="Omero website">OMERO client</a>
           </dt>
           <dd>
             for accessing our OMERO image storage system (omero1.bioch.ox.ac.uk)
