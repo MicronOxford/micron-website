@@ -39,20 +39,26 @@ about your projects over a cup of coffee.</p>
 
       <div id="rightpanel">
       <h3>Publications</h3>
+          <h4>2016</h4>
+            <ul class="publicationlist">
+              <li>Saurya S, Roque H, Novak ZA, Wainman A, Aydogan MG,
+                  Volanakis A, Sieber B, Pinto DMS, Raff JW. Drosophila Ana1
+                  is required for centrosome assembly and centriole
+                  elongation. J Cell Science. 2016 Jul; 129(13):2514-2525.
+              </li>
+            </ul>
           <h4>2015</h4>
             <ul class="publicationlist">
-              <li>Richens JH, Barros TP, Lucas EP, Peel N, Pinto DM, Wainman A, Raff JW. The Drosophila Pericentrin-like-protein (PLP) cooperates with Cnn to maintain the integrity of the outer PCM.
+              <li>Richens JH, Barros TP, Lucas EP, Peel N, Pinto DMS, Wainman A, Raff JW. The Drosophila Pericentrin-like-protein (PLP) cooperates with Cnn to maintain the integrity of the outer PCM.
               Biol Open. 2015 Jul 8;4(8):1052-61.
-              </li>       
+              </li>
             </ul>
-          <h3>Publications</h3>
           <h4>2010</h4>
             <ul class="publicationlist">
               <li>Pinto, David Miguel Susano, and Flaus, Andrew. "Structure and function
 of histone H2AX." In Genome Stability and Human Diseases, pp. 55-78.
-Springer Netherlands, 2010.</li>       
+Springer Netherlands, 2010.</li>
             </ul>
-          
       </div>
 
     </div>
