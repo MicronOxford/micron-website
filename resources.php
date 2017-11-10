@@ -38,37 +38,37 @@
                    width="15" height="15" ></a>
         <br>
         <p id="wikiinfo">We have a <a href="http://wiki.micron.ox.ac.uk/w/Main_Page"
-          title="wiki (snapshot for external viewers)">Micron wiki</a>, 
+          title="wiki (snapshot for external viewers)">Micron wiki</a>,
         which is constantly evolving and being updated with useful information.
         Internal users can register and edit the wiki (external users will soon be
         be able to view a snapshot of the most useful information).</p>
 
           <h3>FAQs</h3>
-          
+
         <p class="faq">Q. Who can use the Micron facilities, and what are the charges?</p>
-        <p class="answer">Access is straighforward for researchers belonging to Biochemistry 
-        or Pathology, and relatively easy to arrange for those in other Oxford departments. 
-        External users are welcome to enquire about working collaboratively. Charges are 
-        usually around &pound;30 per. hour for internal users. </p> 
- 
+        <p class="answer">Access is straighforward for researchers belonging to Biochemistry
+        or Pathology, and relatively easy to arrange for those in other Oxford departments.
+        External users are welcome to enquire about working collaboratively. Charges are
+        usually around &pound;30 per. hour for internal users. </p>
+
  <h3>Micron Rules</h3>
  <p>click <a href="facilities/rules.php">here</a> to download the micron rules.
         <h3>Protocols</h3>
-        
-        
-        <ul>  
+
+
+        <ul>
           <li>
           <a href="resources/Fluorescent-RNA-In-situ.pdf" >Fluorescent RNA in situ</a></li>
         </ul>
-        
+
                   <h3>
             <a href="http://omero1.bioch.ox.ac.uk/"
                  title="Micron OME database"> Micron OME database</a>
             <img id="OMEIcon" src="images/OMEFav.jpg" alt="Micron OME database"
                    width="15" height="15" ></h3>
-     
-        <p id="OMEinfo">We have a <a href="http://omero1.bioch.ox.ac.uk/" 
-          title="OME database">OME database</a>, 
+
+        <p id="OMEinfo">We have a <a href="http://omero1.bioch.ox.ac.uk/"
+          title="OME database">OME database</a>,
         for analysis and longterm storage of images. Further information
         about use of the database and details of how to get an account see
         the <a href="http://wiki.micron.ox.ac.uk/w/Getting_Started_With_OMERO">wikipage</a>,
@@ -99,7 +99,7 @@
                   <li><a href="https://www.research-facilities.ox.ac.uk/">
             Research Facilities</a>: University of Oxford's research facilities and equipment on-line searchable database</li>
             </ul>
-            
+
             <h3>UK Biological Imaging Facilities</h3>
             <ul>
             <li><a href="http://www.rms.org.uk/network-collaborate/facilities-database.html"> Royal Microscopy Society hosted list of UK LM facilities</a>
@@ -110,14 +110,14 @@
 
 
       <div id="rightpanel">
-      
+
        <h3>Micron Advanced Microscopy Course</h3>
-        
+
           <img src="images/seminar.jpg" width="240" height="132"
             alt="microscopy course" >
-            
-             <h3>2016 lecture presentations</h3> can be downloaded   <a href="2016_Lectures.php" >here..</a> 
-      
+
+             <h3>2016 lecture presentations</h3> can be downloaded   <a href="2016_Lectures.php" >here..</a>
+
       <h3>ONBI Course 2015-2016: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
 <p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="ONBI_Course.php" >here..</a> </p>
 
@@ -132,37 +132,37 @@
 
               </ul>
 
-      
-            
-            <h3>2015 lecture presentations</h3> can be downloaded   <a href="2015_Lectures.php" >here..</a> 
-            
+
+
+            <h3>2015 lecture presentations</h3> can be downloaded   <a href="2015_Lectures.php" >here..</a>
+
             <h3>2015 Practical Worksheets</h3>
-            
+
              <ul id="micronlectures">
-            
+
             <li><a href="resources/Bead_slide_prep.pdf" >Bead Slide Prep</a></li>
             <li><a href="resources/Brightfield_worksheet.pdf" >Brightfield Worksheet</a></li>
             <li><a href="resources/Fluorescence_worksheet.pdf" >Fluorescence Worksheet</a></li>
-              
+
               </ul>
-          <h3>2014 lecture presentations</h3>(<a href="2014_Lectures.php">here..)</a> 
-            <h3>2013 lecture presentations</h3>(<a href="2013_Lectures.php">here..)</a> 
-  
-  <h3>ONBI Course 2014-2015: Week 2</h3> 
-  
+          <h3>2014 lecture presentations</h3>(<a href="2014_Lectures.php">here..)</a>
+            <h3>2013 lecture presentations</h3>(<a href="2013_Lectures.php">here..)</a>
+
+  <h3>ONBI Course 2014-2015: Week 2</h3>
+
   <p></p>"Microscope engineering theory and practice"<p></p><p><b>lecture presentations</b></p><p>can be downloaded <a href="ONBI_Course_II.php">here..</a></p>
-  <p><b>Week 2 Practicals</b>  
-  <ul id="micronlectures"> 
-  
+  <p><b>Week 2 Practicals</b>
+  <ul id="micronlectures">
+
 
             <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_201.pdf" >Practical 01 - Illumination Path.</a></li>
             <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_202.pdf" >Practical 02 - Automated control with Raspberry Pi</a></li>
             <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_203.pdf" >Practical 03 - Splitting fluorescence to two sensors</a></li>
             <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_204.pdf" >Practical 04 - Simple adaptive optics</a></li>
-            
+
 
               </ul>
-      
+
 <h3>ONBI Course 2014-2015: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
 <p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="2014_ONBI_Course.php" >here..</a> </p>
 <p><b>Practicals</b>
@@ -176,8 +176,8 @@
 
               </ul>
 
-       
-         
+
+
 
       </div>
 
