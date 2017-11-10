@@ -111,73 +111,20 @@
 
       <div id="rightpanel">
 
-       <h3>Micron Advanced Microscopy Course</h3>
+       <h3>Download lecture presentations</h3>
 
-          <img src="images/seminar.jpg" width="240" height="132"
-            alt="microscopy course" >
+       <ul>
+         <li><a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2017/">
+             2017 Micron Advanced Microscopy Course</a></li>
+         <li><a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2016/">
+             2016 Micron Advanced Microscopy Course</a></li>
+         <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2016-2017/">
+             2016/2017 ONBI course</a></li>
+       </ul>
 
-             <h3>2016 lecture presentations</h3> can be downloaded   <a href="2016_Lectures.php" >here..</a>
-
-      <h3>ONBI Course 2015-2016: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
-<p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="ONBI_Course.php" >here..</a> </p>
-
-<p><b>Practicals</b>
-<ul id="micronlectures">
-
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_01.pdf" >Practical 01 - Sample Prep.</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_02.pdf" >Practical 02 - Brightfield Microscopes</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_03.pdf" >Practical 03/4/5 - Fluorescence and PSFs</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_06.pdf" >Practical 06 - Raspberry Pi</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_07.pdf" >Practical 07 - Microscope Comparison</a></li>
-
-              </ul>
-
-
-
-            <h3>2015 lecture presentations</h3> can be downloaded   <a href="2015_Lectures.php" >here..</a>
-
-            <h3>2015 Practical Worksheets</h3>
-
-             <ul id="micronlectures">
-
-            <li><a href="resources/Bead_slide_prep.pdf" >Bead Slide Prep</a></li>
-            <li><a href="resources/Brightfield_worksheet.pdf" >Brightfield Worksheet</a></li>
-            <li><a href="resources/Fluorescence_worksheet.pdf" >Fluorescence Worksheet</a></li>
-
-              </ul>
-          <h3>2014 lecture presentations</h3>(<a href="2014_Lectures.php">here..)</a>
-            <h3>2013 lecture presentations</h3>(<a href="2013_Lectures.php">here..)</a>
-
-  <h3>ONBI Course 2014-2015: Week 2</h3>
-
-  <p></p>"Microscope engineering theory and practice"<p></p><p><b>lecture presentations</b></p><p>can be downloaded <a href="ONBI_Course_II.php">here..</a></p>
-  <p><b>Week 2 Practicals</b>
-  <ul id="micronlectures">
-
-
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_201.pdf" >Practical 01 - Illumination Path.</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_202.pdf" >Practical 02 - Automated control with Raspberry Pi</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_203.pdf" >Practical 03 - Splitting fluorescence to two sensors</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-2/Practical_204.pdf" >Practical 04 - Simple adaptive optics</a></li>
-
-
-              </ul>
-
-<h3>ONBI Course 2014-2015: Week 1</h3> <p></p>"Principles of light microscope design and fluorescence imaging".
-<p></p><p><b>lecture presentations</b> </p><p>can be downloaded <a href="2014_ONBI_Course.php" >here..</a> </p>
-<p><b>Practicals</b>
-<ul id="micronlectures">
-
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_01.pdf" >Practical 01 - Sample Prep.</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_02.pdf" >Practical 02 - Brightfield Microscopes</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_03.pdf" >Practical 03/4/5 - Fluorescence and PSFs</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_06.pdf" >Practical 06 - Raspberry Pi</a></li>
-            <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2014-2015/week-1/Practical_07.pdf" >Practical 07 - Microscope Comparison</a></li>
-
-              </ul>
-
-
-
+       Lectures from previous years are also available for download on
+       the <a href="http://downloads.micron.ox.ac.uk/lectures/">
+       Micron Downloads website</a>.
 
       </div>
 
@@ -187,4 +134,3 @@
 </body>
 
 </html>
-
