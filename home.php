@@ -36,25 +36,11 @@ Probe development, specimen preparation, instrument preparation and image analys
 <p>
 Please click <a href="facilities.php">here</a> to view the Micron facilities available to users</p>
 
-        
-
-        <!-- get a random image name from the gallery using chooseimage script -->
-        <?php include ($DOCUMENT_ROOT . "scripts/randomimage.php"); ?>
-        <a href="gallery.php?image_no=<?php print $image_no ?>">
-        <img id="resimage" src="<?php print $image_path ?>"  width="579" height="410"
-                 alt="Research image from gallery" title="View image in gallery" ></a>
-        <p id="imlegend"><span class="smalltxt">
-        <?php print $image_caption ?></span>
-        </p>
-
         <ul>
           <li><a href="about.php">Contact Us</a></li>
-          <li><a href="gallery.php"
-            title="more research images">more research images</a></li>
           <li>view our <a href="research/publications.php"
             title="publications">Publications</a> and our <a href="research.php"
             title="research">Research</a></li>
-
         </ul>
       </div>
 

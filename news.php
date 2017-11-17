@@ -349,11 +349,6 @@ http://www.schermellehlab.org/minecraft/</a></p>
           chloroplasts is 14&#956;m (=0.014 mm) in length.
         </p>
 
-        <h3>Research Image Gallery</h3>
-
-        <a href="gallery.php?image_no=5"><img src="images/gallerySnap.jpg" width="579" height="70"
-          alt="research image gallery" ></a>
-
         <h3>External news &amp; events</h3>
 
         <ul>
@@ -375,4 +370,3 @@ http://www.schermellehlab.org/minecraft/</a></p>
 </body>
 
 </html>
-

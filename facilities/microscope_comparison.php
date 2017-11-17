@@ -3,7 +3,7 @@
 <html lang="en-GB">
 
 <head>
-  <title>Micron Oxford Advanced Bioimaging: Image gallery</title>
+  <title>Micron Oxford Advanced Bioimaging: Microscope comparison</title>
   <meta name=description content="Micron Oxford microscope summary / comparison table">
   <meta name=keywords content="fluorescence microscopes comparison summary imaging wide-field super-resolution confocal">
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">

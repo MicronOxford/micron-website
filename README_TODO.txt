@@ -19,7 +19,6 @@ cat scripts/viewerIPlog.txt | awk '{print $8}' | sort |uniq | wc -l
 - add peoples' contact details to their pages
 - pretty up the header, background, font stack, spacing, people & instrument tables
 - add site map, robots.txt
-- make previous/next buttons disappear at start/end of gallery; number images? n/N
 - booking page IP check? (information for externals instead of heading straight to webauth)
 
 

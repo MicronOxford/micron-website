@@ -1,1 +1,0 @@
-Mitosis. HeLa cell in mitosis imaged with 3D-SIM. Microtubules (green) are immunolabelled with anti-tublin antibodies. Condensed chromosomes (blue) are stained with DAPI. Projection view of a 3D image stack (Dunsch et al., 2013, J Cell Biol 198).

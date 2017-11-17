@@ -8,7 +8,6 @@
         ./images/      - for general site images
         ./styles/      - for .css style sheets
         ./scripts/     - for php scripts
-        ./gallery/     - for images in the "reasearch image gallery"
         ./people/      - for staff personal pages
         ./research/    - for research topic pages
         ./facilities/  - for pages about faciilities
@@ -32,7 +31,6 @@
 !!! Index.html & index.html soft link redirect to micron_home.php !!!
 
 Home/Index page - micron_home.php
-  * includes php script to load a random gallery image 
   * also includes a Twitter list widget for the Micron account
       (micron@bioch.ox.ac.uk) - widget code embedded in the html
 
@@ -44,13 +42,12 @@ Home/Index page - micron_home.php
       Oxford bioimaging community and external contacts
   * Research - for those interested in our research (& output) - 
       Advanced Bioimaging (viz. Super-resolution & Localization 
-      Microscopy, Image Analysis, Research Image Gallery, Publications
+      Microscopy, Image Analysis, Publications
   * Facilities - for potential users who want to know what we have
       Fluorescence microscopes, Image analysis, Electron Microscopy
   * Resources - for students and researchers with questions -
       includes Wiki, FAQs, Protocols, other resources (links etc.)
   * News & Media - for more news & events, including Outreach - 
-      Outreach, Image Gallery, News & Events
+      Outreach, News & Events
   * Booking - for existing users who want to book a microscope
       (this is an external LINK, which is hopefully obvious)
-

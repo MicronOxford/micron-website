@@ -1,1 +1,0 @@
-Tubulin network in C127 . Mouse epithelial cell in anaphase imaged with 3D-SIM. Chromosomes are stained with DAPI (blue), lamin and tublin are immunofluorescently labelled (red and green, respectively). Oddone protocol. Max projection view of a 3D stack (Cvic Innocent, Schermelleh Group).

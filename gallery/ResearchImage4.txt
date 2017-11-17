@@ -1,1 +1,0 @@
-This is an embryo from a c elegans, taking using An Olympus Fluoview FV1000. Nuclei are stained blue with DAPI, microtubules are marked red by an antibody bound to Cy3. (Anna Franz. Raff Lab).
