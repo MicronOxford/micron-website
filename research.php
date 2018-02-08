@@ -97,7 +97,17 @@
       <div id="rightpanel">
         <h3>Publication Highlights</h3>
         click <a href="research/publications.php">here</a> for all publications
-		<h4>2016</h4>
+        <h4>2017</h4>
+        <ul class="publicationlist">
+          <li>
+            Titlow, Joshua S., Lu Yang, Richard M. Parton, Ana
+            Palanca, and Ilan Davis. "Super-Resolution Single Molecule
+            FISH at the Drosophila Neuromuscular Junction." In RNA
+            Detection, pp. 163-175. Humana Press, New York, NY, 2018.
+          </li>
+        </ul>
+
+          <h4>2016</h4>
         <ul class="publicationlist">
         <li>Stephan Uphoff1, Nathan D. Lord, Burak Okumus, Laurent Potvin-Trottier, David J. Sherratt, Johan Paulsson. Stochastic activation of a DNA damage response causes cell-to-cell mutation rate variation. Science. 2016 Mar 4;351(6277):1094-7.</li>
         <li>Nolivos S, Upton AL, Badrinarayanan A, Müller J, Zawadzka K, Wiktor J, Gill A, Arciszewska L, Nicolas E, Sherratt D. MatP regulates the coordinated action of topoisomerase IV and MukBEF in chromosome segregation. Nat Commun. 2016 Jan 28;7:10466.</li>

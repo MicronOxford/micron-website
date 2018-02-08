@@ -16,7 +16,35 @@
     <div id="mainbody">
 
     <h3>Micron Publications</h3>
-    
+
+    <h4>2017</h4>
+    <ul class="publicationlist">
+      <li>
+        Titlow, Joshua S., Lu Yang, Richard M. Parton, Ana
+        Palanca, and Ilan Davis. "Super-Resolution Single Molecule
+        FISH at the Drosophila Neuromuscular Junction." In RNA
+        Detection, pp. 163-175. Humana Press, New York, NY, 2018.
+      </li>
+    </ul>
+
+    <h4>2016</h4>
+    <ul class="publicationlist">
+      <li>
+        Stephan Uphoff1, Nathan D. Lord, Burak Okumus, Laurent
+        Potvin-Trottier, David J. Sherratt, Johan Paulsson. Stochastic
+        activation of a DNA damage response causes cell-to-cell
+        mutation rate variation. Science. 2016 Mar
+        4;351(6277):1094-7.
+      </li>
+      <li>
+        Nolivos S, Upton AL, Badrinarayanan A, Müller J, Zawadzka K,
+        Wiktor J, Gill A, Arciszewska L, Nicolas E, Sherratt D. MatP
+        regulates the coordinated action of topoisomerase IV and
+        MukBEF in chromosome segregation. Nat Commun. 2016 Jan
+        28;7:10466.
+      </li>
+    </ul>
+
     <h4>2015</h4>
     <ul class="publicationlist">
     <li>Pawel Zawadzki, Mathew Stracy, Katarzyna Ginda, Katarzyna Zawadzka, Christian Lesterlin, Achillefs N. Kapanidis, David J. Sherratt. The Localization and Action of Topoisomerase IV in Escherichia coli Chromosome Segregation Is Coordinated by the SMC Complex, MukBE. Cell Reports Volume 13, Issue 11, p2587–2596, 22 December 2015. </li>
