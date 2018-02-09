@@ -381,8 +381,7 @@
 
         <div id="peoplediv">
           <h3>Micron Staff</h3>
-          <p>Micron currently employs four staff and sponsors a research fellow.</p>
-          <table id="micronstaff">
+                    <table id="micronstaff">
             <tr>
               <td><h4><a href="people/Ian.php">Ian Dobbie</a></h4>
                   <p><a href="people/Ian.php">
