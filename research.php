@@ -97,7 +97,7 @@
       <div id="rightpanel">
         <h3>Publication Highlights</h3>
         click <a href="research/publications.php">here</a> for all publications
-        <h4>2017</h4>
+        <h4>2018</h4>
         <ul class="publicationlist">
           <li>
             Titlow, Joshua S., Lu Yang, Richard M. Parton, Ana
@@ -105,12 +105,40 @@
             FISH at the Drosophila Neuromuscular Junction." In RNA
             Detection, pp. 163-175. Humana Press, New York, NY, 2018.
           </li>
+          
         </ul>
 
+        <h4>2017</h4>
+        <ul class="publicationlist">
+        <li>Diaconeasa Z, Ayvaz H, Ruginǎ D, Leopold L, Stǎnilǎ A, Socaciu C, Tăbăran F, Luput L, Mada DC, Pintea, Jefferson. Melanoma Inhibition by Anthocyanins Is Associated with the Reduction of Oxidative Stress Biomarkers and Changes in Mitochondrial Membrane Potential. Plant Foods Hum Nutr. 2017 Dec;72(4):404-410.</li>
+          
+          <li>
+            Gartenmann L, Wainman A, Qurashi M, Kaufmann R, Schubert S, Raff JW, Dobbie IM. A combined 3D-SIM/SMLM approach allows centriole proteins to be localized with a precision of ∼4-5 nm. Curr Biol. 2017 Oct 9;27(19):R1054-R1055.
+          </li>
+          
+          <li>
+            Almeida M, Pintacuda G, Masui O, Koseki Y, Gdula M, Cerase A, Brown D, Mould A, Innocent C, Nakayama M, Schermelleh L, Nesterova TB, Koseki H, Brockdorff N. PCGF3/5-PRC1 initiates Polycomb recruitment in X chromosome inactivation. Science. 2017 Jun 9;356(6342):1081-1084. 
+          </li>
+          
+          <li>
+          Feng Z, Caballe A, Wainman A, Johnson S, Haensele AFM, Cottee MA, Conduit PT, Lea SM, Raff JW. Structural Basis for Mitotic Centrosome Assembly in Flies. Cell. 2017 Jun 1;169(6):1078-1089.e13. 
+          </li>
+          
+          <li>
+            Demmerle J, Innocent C, North AJ, Ball G, Müller M, Miron E, Matsuda A, Dobbie IM, Markaki Y, Schermelleh L.  Strategic and practical guidelines for successful structured illumination microscopy. Nat Protoc. 2017 May;12(5):988-1010.
+          </li>
+          
+          <li>
+            Kraus F, Miron E, Demmerle J, Chitiashvili T, Budco A, Alle Q, Matsuda A, Leonhardt H, Schermelleh L, Markaki Y. Quantitative 3D structured illumination microscopy of nuclear structures. Nat Protoc. 2017 May;12(5):1011-1028.
+          </li>
+          
+        </ul>
+        
           <h4>2016</h4>
         <ul class="publicationlist">
         <li>Stephan Uphoff1, Nathan D. Lord, Burak Okumus, Laurent Potvin-Trottier, David J. Sherratt, Johan Paulsson. Stochastic activation of a DNA damage response causes cell-to-cell mutation rate variation. Science. 2016 Mar 4;351(6277):1094-7.</li>
         <li>Nolivos S, Upton AL, Badrinarayanan A, Müller J, Zawadzka K, Wiktor J, Gill A, Arciszewska L, Nicolas E, Sherratt D. MatP regulates the coordinated action of topoisomerase IV and MukBEF in chromosome segregation. Nat Commun. 2016 Jan 28;7:10466.</li>
+          
         </ul>
         
         <h4>2015</h4>
