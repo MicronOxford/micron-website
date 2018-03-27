@@ -63,7 +63,7 @@
 
         <?php $omxv3->draw_description (); ?>
 
-        <h4>Drawer configurations</h3>
+        <h4>Drawer configurations</h4>
         <p>
           The OMX V3 BLAZE comes with 2 drawers with the following
           configurations:
@@ -100,4 +100,3 @@
 </body>
 
 </html>
-
