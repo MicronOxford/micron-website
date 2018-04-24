@@ -26,12 +26,12 @@ html,body,div,span,h2,h3,p,a,img,ol,ul,li,table,tr,td
 }
 
 html{ background-color: #444; }
-div{ background-color: #fff; }
 p,ul,ol { padding-bottom: 5px; }
 li {padding-bottom: 3px; }
 
 #container_all
 {
+  background-color: #fff;
   margin: 0 auto;
   margin-bottom: 20px;
   width: 880px;
