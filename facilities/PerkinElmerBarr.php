@@ -68,7 +68,7 @@
         <img src="../images/sdisk_thumb.jpg"  width="200" />
         <ul>
           <li><a href="../resources/Barr_Ultraview_Users_Manual.pdf">Users Manual</a></li>
-          <li><a href="http://wiki.micron.ox.ac.uk/w/UltraView_spinning_disk_(Barr)">Spinning Disc Wiki</a></li>
+          <li><a href="https://wiki.micron.ox.ac.uk/w/UltraView_spinning_disk_(Barr)">Spinning Disc Wiki</a></li>
           <li><a href="http://www.perkinelmer.com/pages/020/cellularimaging/technologies/spinningdiskconfocal.xhtml">Perkin Elmer</a></li>
           <li><a href="../resources/Nasmyth Ultraview spinning disk.pdf">Specifications</a></li>
         </ul>

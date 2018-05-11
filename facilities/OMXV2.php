@@ -73,7 +73,7 @@
           <li><a href="http://msg.ucsf.edu/sedat/omx/" title="Sedat Lab OMX">Sedat Lab OMX</a></li>
           <li><a href="http://www.api.com/deltavision-omx.asp" title="Applied Precision">Applied Precision</a></li>
           <li><a href="http://www.OMXwiki.com" title="OMX wiki">OMX Wiki</a></li>
-          <li><a href="http://wiki.micron.ox.ac.uk/w/OMX_V2" title="OMX V2 Wiki">Micron OMX V2 Wiki</a></li>
+          <li><a href="https://wiki.micron.ox.ac.uk/w/OMX_V2" title="OMX V2 Wiki">Micron OMX V2 Wiki</a></li>
           <li><a href="../resources/immunostaining_protocol_SIM.pdf" title="Immunostaining Protocol for SIM">Immunostaining Protocol for SIM</a></li>
         </ul>
       </div>

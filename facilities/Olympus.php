@@ -71,7 +71,7 @@
 	                <li><a href="../resources/OlympusOFF.pdf" target="_blank">Turning OFF</a></li>
           <li><a href="../resources/FV1000.pdf">Specifications</a></li>
           <li><a href="http://www.becker-hickl.de/">Becker and Hickel</a></li>
-          <li><a href="http://wiki.micron.ox.ac.uk/w/Olympus_FV1000_Confocal">Olympus Wiki</a></li>
+          <li><a href="https://wiki.micron.ox.ac.uk/w/Olympus_FV1000_Confocal">Olympus Wiki</a></li>
           
         </ul>
       </div>
