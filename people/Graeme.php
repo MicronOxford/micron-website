@@ -23,7 +23,7 @@
         <p id="person_intro">I am the Micron image analysis specialist. My primary 
         goal is to make new biomedical discoveries possible by providing image 
         analysis expertise and 
-        <a href="http://www.micron.ox.ac.uk/microngroup/facilities.php">facilities</a>
+        <a href="http://www.micron.ox.ac.uk/facilities.php">facilities</a>
         to my colleagues in Micron and the researchers who come to work with 
         us. I am interested in both the biological questions people 
         are working on, and the techniques that will help them to answer these 
@@ -44,7 +44,7 @@
         </p>
         <ul>
             <li>Developing an ImageJ plugin suite, 
-            <a href="http://www.micron.ox.ac.uk/microngroup/software/SIMCheck.php">"SIMcheck"</a>, 
+            <a href="http://www.micron.ox.ac.uk/software/SIMCheck.php">"SIMcheck"</a>,
             to assess super-resolution SIM data quality, check for the presence 
             of artifacts, and optimize the reconstruction process.</li>
           <li>Integrating image processing functionality into

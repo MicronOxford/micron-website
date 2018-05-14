@@ -106,7 +106,7 @@
       <p>Download PDF of print version plus revised supplementary material <a href="http://www.nature.com/articles/srep15915"> here </a> </p>
       <p>For further information contact: g.ball@dundee.ac.uk / lothar.schermelleh@bioch.ox.ac.uk </p>
       <p>  
-      <img src="../images/tick.png" width="15"> SIMCheck documentation and manual<a href="http://www.micron.ox.ac.uk/microngroup/software/SIMcheck.html"> here </a> </p>
+      <img src="../images/tick.png" width="15"> SIMCheck documentation and manual<a href="http://www.micron.ox.ac.uk/software/SIMcheck.html"> here </a> </p>
       <p>
         <img src="../images/git.png" alt="GitHub" title="GitHub" width="12">   SIMCheck code on GitHub <a href="https://github.com/MicronOxford/SIMcheck">here</a>   </p>
     </div>
