@@ -7,15 +7,15 @@
   <meta name=description content="Micron Oxford Advanced Bioimaging Research">
   <meta name=keywords content="advanced bioimaging microscopy analysis processing super-resolution localization microscopy SPIM TIRF">
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="styles/main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/research.css" >
-  <link rel="icon" type="image/ico" href="images/MicronMu.ico" >
+  <link rel="stylesheet" type="text/css" href="/styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="/styles/research.css" >
+  <link rel="icon" type="image/ico" href="/images/MicronMu.ico" >
 
 </head>
 
 <body id="research">
   <div id="container_all">
-    <?php include "headnav.html"; ?>
+    <?php include "../headnav.html"; ?>
     <div id="mainbody">
 
       <div id="leftpanel">
@@ -52,11 +52,11 @@
             following approaches:
           </p>
           <ul>
-            <li>Super-resolution imaging using <a href="research/super_resolution_microscopy.php">structured illumination</a></li>
-            <li>Super-resolution imaging and single molecule dynamics using <a href="research/localization-microscopy.php">localization microscopy</a></li>
-            <li><a href="facilities/lightsheet.php">Light sheet microscopy</a> and tomography</li>
+            <li>Super-resolution imaging using <a href="/research/super_resolution_microscopy">structured illumination</a></li>
+            <li>Super-resolution imaging and single molecule dynamics using <a href="/research/localization-microscopy">localization microscopy</a></li>
+            <li><a href="/facilities/lightsheet">Light sheet microscopy</a> and tomography</li>
             <li>Advanced Total Internal Reflection Microscopy methods</li>
-            <li>Advanced multidimensional live cell imaging using the <a href="facilities/OMXV3.php">OMX microscope</a></li>
+            <li>Advanced multidimensional live cell imaging using the <a href="/facilities/OMXV3">OMX microscope</a></li>
           </ul>
         </div>
 
@@ -73,7 +73,7 @@
             <li>Setting up computer infrastructure and software</li>
             <li>Developing an efficient workflow for super-resolution data</li>
             <li>Preparing image analysis lecture and course material</li>
-            <li>Development of <a href="software/SIMCheck.php">SIMCheck</a> our our Image J plug-in that allows users to apply quality control to their Structured illumination super-resolution systems.</li>
+            <li>Development of <a href="/software/SIMCheck">SIMCheck</a> our our Image J plug-in that allows users to apply quality control to their Structured illumination super-resolution systems.</li>
             <li>Developing an improved particle tracker and adding functionality to
                 <a href="http://emonet.biology.yale.edu/microbetracker/">MicrobeTracker</a></li>
                 <li>Development of <a href="http://www.darogan.co.uk/ParticleStats/">'ParticleStats'</a> software for the analysis of analysis of intracellular particle motility and cytoskeletal polarity </li>
@@ -83,8 +83,8 @@
         <div>
         <h3>Developmental microscope systems</h3>
         <ul>
-        <li><a href="facilities/DeepSIM.php">DeepSIM</a> - upright 3D-SIM microscope that uses adaptive optics for imaging deep in living specimens while allowing easy manipulation (microinjection and electrophysiology).</li>
-        <li><a href="facilities/OMX-T.php">OMX-T</a> Cryo SIM/STORM system which enables super-resolution imaging of frozen samples, providing significant gains in specimen preservation and photo-stability.</li>
+        <li><a href="/facilities/DeepSIM">DeepSIM</a> - upright 3D-SIM microscope that uses adaptive optics for imaging deep in living specimens while allowing easy manipulation (microinjection and electrophysiology).</li>
+        <li><a href="/facilities/OMX-T">OMX-T</a> Cryo SIM/STORM system which enables super-resolution imaging of frozen samples, providing significant gains in specimen preservation and photo-stability.</li>
         <li>4Pi-SMS single molecule interferometric microscope - dependent on funding</li>
         <li>Lattice Light Sheet Microscope - dependent on funding</li>
         
@@ -96,7 +96,7 @@
 
       <div id="rightpanel">
         <h3>Publication Highlights</h3>
-        click <a href="research/publications.php">here</a> for all publications
+        click <a href="/research/publications">here</a> for all publications
         <h4>2018</h4>
         <ul class="publicationlist">
           <li>
@@ -246,9 +246,8 @@ fluorescent proteins. Scientific Reports 5; 9583.</li>
       </div>
 
     </div>
-    <?php include "footer.html"; ?>
+    <?php include "../footer.html"; ?>
   </div>
 </body>
 
 </html>
-

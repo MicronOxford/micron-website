@@ -7,23 +7,23 @@
   <meta name=description content="Micron Oxford FAQs, protocols, lectures and other resources">
   <meta name=keywords content="Micron Oxford microscopy resources FAQs protocols Wiki lectures bioimaging links">
   <meta http-equiv="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <link rel="stylesheet" type="text/css" href="styles/main.css" >
-  <link rel="stylesheet" type="text/css" href="styles/resources.css" >
+  <link rel="stylesheet" type="text/css" href="/styles/main.css" >
+  <link rel="stylesheet" type="text/css" href="/styles/resources.css" >
   <link rel="icon" type="image/ico" href="/images/MicronMu.ico" >
 
 </head>
 
 <body id="resources">
   <div id="container_all">
-    <?php include "headnav.html"; ?>
+    <?php include "../headnav.html"; ?>
     <div id="mainbody">
 
       <div id="leftpanel">
         <br>
-        <h3><a href="software/SIMCheck.php"><img id="wikiIcon" src="images/SIMcheck_logo.jpg" alt="SIMcheck"
-                   width="50" height="17" ></a></h3><p>SIMcheck is an open source ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control. <a href="software/SIMCheck.php">Download v1.0 here</a></p>
+        <h3><a href="/software/SIMCheck"><img id="wikiIcon" src="/images/SIMcheck_logo.jpg" alt="SIMcheck"
+                   width="50" height="17" ></a></h3><p>SIMcheck is an open source ImageJ plugin suite for super-resolution stuctured illumination microscopy data quality control. <a href="/software/SIMCheck">Download v1.0 here</a></p>
         <p>&nbsp;</p>
-                   <p>Table to aid with matching spherical aberration of the sample and OTF when using OMX V3. <a href="resources/OTF-PSF.pdf">here...</a></p>
+                   <p>Table to aid with matching spherical aberration of the sample and OTF when using OMX V3. <a href="/resources/OTF-PSF.pdf">here...</a></p>
         <h3>Micron Advanced Microscopy Course</h3>
         <p class="course">We hold an annual advanced microscopy course for Wellcome Trust postgraduate students (and other interested research staff).</p>
 
@@ -34,7 +34,7 @@
                  title="wiki (snapshot for external viewers)"> Wiki</a></h3>
           <a href="https://wiki.micron.ox.ac.uk/w/Main_Page"
                  title="wiki (snapshot for external viewers)">
-            <img id="wikiIcon" src="images/MicronWikiFav.jpg" alt="Micron wiki"
+            <img id="wikiIcon" src="/images/MicronWikiFav.jpg" alt="Micron wiki"
                    width="15" height="15" ></a>
         <br>
         <p id="wikiinfo">We have a <a href="https://wiki.micron.ox.ac.uk/w/Main_Page"
@@ -52,19 +52,19 @@
         usually around &pound;30 per. hour for internal users. </p>
 
  <h3>Micron Rules</h3>
- <p>click <a href="facilities/rules.php">here</a> to download the micron rules.
+ <p>click <a href="/facilities/rules">here</a> to download the micron rules.
         <h3>Protocols</h3>
 
 
         <ul>
           <li>
-          <a href="resources/Fluorescent-RNA-In-situ.pdf" >Fluorescent RNA in situ</a></li>
+          <a href="/resources/Fluorescent-RNA-In-situ.pdf" >Fluorescent RNA in situ</a></li>
         </ul>
 
                   <h3>
             <a href="http://omero1.bioch.ox.ac.uk/"
                  title="Micron OME database"> Micron OME database</a>
-            <img id="OMEIcon" src="images/OMEFav.jpg" alt="Micron OME database"
+            <img id="OMEIcon" src="/images/OMEFav.jpg" alt="Micron OME database"
                    width="15" height="15" ></h3>
 
         <p id="OMEinfo">We have a <a href="http://omero1.bioch.ox.ac.uk/"
@@ -129,7 +129,7 @@
       </div>
 
     </div>
-    <?php include "footer.html"; ?>
+    <?php include "../footer.html"; ?>
   </div>
 </body>
 

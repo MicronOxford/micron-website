@@ -28,12 +28,12 @@
           We are committed to communicating our work to
           both the scientific community and the lay audience. For a Plain
           English description of our activities, please read more
-          <a href="about.php#plain_english"> About Us.</a>
+          <a href="about#plain_english"> About Us.</a>
         </p>
         
              <h4>Wellcome Image Awards 2017</h4>
         <p>Congratulations to Ezequiel Miron from the <a href="https://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=882">Schermelleh Group</a>, Department of Biochemistry at the University of Oxford who's image is one of the selected winners of the Wellcome Image Awards 2017.</p>
-<p>His picture, captured using the <a href="http://www.micron.ox.ac.uk/facilities/OMXV3.php">OMX V3 super-resolution microscope</a> in Micron, shows the nucleus of one of two new daughter cells. The DNA in this cell has somehow become caught, and is being pulled between the two dividing cells causing the DNA to be stretched out inside the nucleus; DNA fibres can be seen running through it. As the new cells have moved apart the DNA is being pulled through a perforation in the nuclear membrane. The tension distributed by the rope-like DNA has deformed the usually circular envelope of the nucleus.
+<p>His picture, captured using the <a href="http://www.micron.ox.ac.uk/facilities/OMXV3">OMX V3 super-resolution microscope</a> in Micron, shows the nucleus of one of two new daughter cells. The DNA in this cell has somehow become caught, and is being pulled between the two dividing cells causing the DNA to be stretched out inside the nucleus; DNA fibres can be seen running through it. As the new cells have moved apart the DNA is being pulled through a perforation in the nuclear membrane. The tension distributed by the rope-like DNA has deformed the usually circular envelope of the nucleus.
         </p>
         <img src="images/ezequiel.png" width="560" align="right" />
         <h4>
@@ -131,7 +131,7 @@ http://www.schermellehlab.org/minecraft/</a></p>
 
 <p>The single-molecule high-resolution system 4Pi-SMS is tailored to deep imaging of samples. It was developed by <a href="http://medicine.yale.edu/lab/rothman/">Jim Rothman at Yale</a> and a prototype is currently being built at the Gurdon Institute in Cambridge. In Oxford, Martin Booth in the Department of Engineering has developed the necessary adaptive optics, which allow corrections of aberrations, to image deep. He will spearhead the building of a replica microscope making Micron's instrument the third in the world after Yale and the Gurdon Institute.</p>
 
-<p>The continued development of existing microscopy systems will focus on completion of a <a href="http://www.micron.ox.ac.uk/facilities/DeepSIM.php">DeepSIM microscope</a>, which has already progressed well from a long-standing collaboration with Professor John Sedat at UCSF. The system lends itself to specimen manipulation, such as microinjection, at the same time as imaging. Like 4Pi-SMS, it uses adaptive optics and there are no commercial systems currently available. Micron researchers have developed user-friendly software that will make the system easy to use for biologists.</p>
+<p>The continued development of existing microscopy systems will focus on completion of a <a href="http://www.micron.ox.ac.uk/facilities/DeepSIM">DeepSIM microscope</a>, which has already progressed well from a long-standing collaboration with Professor John Sedat at UCSF. The system lends itself to specimen manipulation, such as microinjection, at the same time as imaging. Like 4Pi-SMS, it uses adaptive optics and there are no commercial systems currently available. Micron researchers have developed user-friendly software that will make the system easy to use for biologists.</p>
 
 <p>Micron will continue its collaboration with Diamond to improve a version of structured illumination microscopy (a mode of super-resolution microscopy) to be used by researchers alongside X-ray microscopy and EM. The lab of Achillefs Kapanidis, Professor of Biological Physics at Oxford, has developed the NanoImager, a compact desktop microscopy for single molecule analyses, in collaboration with David Sherratt in Biochemistry.</p>
 
@@ -279,7 +279,7 @@ http://www.schermellehlab.org/minecraft/</a></p>
         <p>
           Congratulations to Sheng-Wen Chui from the Department of
           Biochemistry at the University of Oxford. Sheng-Wen used Micron's
-          <a href="facilities/zippy.php">Delta-Vision microscope</a> to
+          <a href="facilities/zippy">Delta-Vision microscope</a> to
           take this superb image of filamentous cells of the bacterium
           Rhodobacter sphaeroides.
         </p>

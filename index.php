@@ -34,12 +34,12 @@ We develop and adopt new technologies across all areas of Microscopy:
 Probe development, specimen preparation, instrument preparation and image analysis. </p>
 <p>&nbsp;</p>
 <p>
-Please click <a href="facilities.php">here</a> to view the Micron facilities available to users</p>
+Please click <a href="facilities">here</a> to view the Micron facilities available to users</p>
 
         <ul>
-          <li><a href="about.php">Contact Us</a></li>
-          <li>view our <a href="research/publications.php"
-            title="publications">Publications</a> and our <a href="research.php"
+          <li><a href="about">Contact Us</a></li>
+          <li>view our <a href="research/publications"
+            title="publications">Publications</a> and our <a href="research"
             title="research">Research</a></li>
         </ul>
       </div>
@@ -53,19 +53,19 @@ Please click <a href="facilities.php">here</a> to view the Micron facilities ava
             title="Ilan" alt="Ilan" >
           <area shape="circle" coords="61,49,8" href="http://www.bioch.ox.ac.uk/aspsite/index.asp?pageid=568"
             title="Neil" alt="Neil" >
-          <area shape="rect" coords="75,37,89,76" href="people/Ian.php"
+          <area shape="rect" coords="75,37,89,76" href="people/Ian"
             title="Ian" alt="Ian" >
-          <area shape="rect" coords="99,42,114,93" href="people.php#ox_bioimaging"
+          <area shape="rect" coords="99,42,114,93" href="people#ox_bioimaging"
             title="Eva" alt="Eva" >
           <area shape="rect" coords="127,38,148,93"  href="http://www.lifesci.dundee.ac.uk/cast/light-and-electron-microscopy/staff/dr-graeme-ball"
             title="Graeme" alt="Graeme" >
-          <area shape="circle" coords="165,41,9" href="people/Lothar.php"
+          <area shape="circle" coords="165,41,9" href="people/Lothar"
             title="Lothar" alt="Lothar" >
-          <area shape="rect" coords="173,34,190,91" href="people/Rainer.php"
+          <area shape="rect" coords="173,34,190,91" href="people/Rainer"
             title="Rainer" alt="Rainer" >
-          <area shape="circle" coords="214,44,12" href="people/Richard.php"
+          <area shape="circle" coords="214,44,12" href="people/Richard"
             title="Richard" alt="Richard" >
-          <area shape="rect" coords="232,34,256,92" href="people/Alan.php"
+          <area shape="rect" coords="232,34,256,92" href="people/Alan"
             title="Alan" alt="Alan" >
           <area shape="rect" coords="63,6,151,33" href="http://saltbridges.bioch.ox.ac.uk"
             title="the Birds" alt="New Biochemistry artwork" >
@@ -83,7 +83,6 @@ Please click <a href="facilities.php">here</a> to view the Micron facilities ava
                 title="wiki (snapshot for external viewers)">
               Wiki <img id="wikiIcon" src="images/MicronWikiFav.jpg" alt="Micron wiki"
                 width="8" height="12" ></a></li>
-                 
           </ul>
         </div>
         <br>
@@ -103,4 +102,3 @@ Please click <a href="facilities.php">here</a> to view the Micron facilities ava
 </body>
 
 </html>
-

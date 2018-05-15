@@ -54,15 +54,15 @@
           </ol>
         </div>
 
-        <h4>Find out more about <a href="research.php">Micron research</a>,
-            and our <a href="research/micron_publications.php">publications</a>.</h4>
+        <h4>Find out more about <a href="research">Micron research</a>,
+            and our <a href="research/micron_publications">publications</a>.</h4>
 
-        <h4>Meet <a href="people.php">Micron people</a> and <a href="people.php">bioimaging community</a>.</h4>
+        <h4>Meet <a href="people">Micron people</a> and <a href="people">bioimaging community</a>.</h4>
 
-        <h4>Explore our <a href="resources.php#Lectures">teaching</a>
-          and <a href="news.php#outreach">outreach</a> material.</h4>
+        <h4>Explore our <a href="resources#Lectures">teaching</a>
+          and <a href="news#outreach">outreach</a> material.</h4>
 
-        <h4>Take a tour of our <a href="facilities.php">facilities</a>.</h4>
+        <h4>Take a tour of our <a href="facilities">facilities</a>.</h4>
 
         <br>
 

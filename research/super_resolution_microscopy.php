@@ -259,7 +259,7 @@
       conventional fluorophores like Alexa or ATTO dyes and conventional
       fluorescent proteins like GFP can be also utilized for this method
       (dSTORM, SPDM, GSDIM). For more details
-      see <a href="localization-microscopy.php">Rainer Kaufmann's section on
+      see <a href="localization-microscopy">Rainer Kaufmann's section on
       localization microscopy</a>.
     </p>
 
@@ -359,7 +359,7 @@
       of super-resolution imaging to biological specimens, as well as a lack
       of expertise and tools to evaluate the quality of the resulting data.
       We are beginning to address these issues with tools such our
-      <a href="http://www.micron.ox.ac.uk/software/SIMCheck.php">SIMcheck ImageJ Plugin suite</a>
+      <a href="http://www.micron.ox.ac.uk/software/SIMCheck">SIMcheck ImageJ Plugin suite</a>
       to evaluate 3D-SIM data.
     </p>
 
@@ -414,4 +414,3 @@
 </body>
 
 </html>
-

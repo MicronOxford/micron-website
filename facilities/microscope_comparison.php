@@ -22,7 +22,7 @@
       <img id="instrumentChart" src="../images/instrument_summary.png" width="880"
         alt="Instrument summary chart" title="Instrument summary chart"/>
 
-      <h3><a href="../facilities.php">back to instuments</a></h3>
+      <h3><a href="../facilities">back to instuments</a></h3>
 
     </div>
     <?php include "../footer.html"; ?>
