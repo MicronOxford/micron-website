@@ -24,7 +24,7 @@
       The past decade has seen a number of exciting new fluorescence imaging
       techniques emerge, many of which fall under the umbrella of
       "Super-Resolution Microscopy" or "Optical Nanoscopy". At
-      <a href="../home.php">Micron Oxford</a>†
+      <a href="../">Micron Oxford</a>†
       and the <a href="http://www.imm.ox.ac.uk/wolfson-imaging-centre-oxford">Wolfson Imaging Centre Oxford</a>††
       we work to advance these techniques and to bridge the gap between
       complex technical developments and their biological applications in
@@ -377,7 +377,7 @@
       acquiring fantastic images. Your best bet is to visit your institution's
       imaging core and talk to the facility manager. If you are based at
       Oxford, then feel free to visit the
-      <a href="http://www.micron.ox.ac.uk/home.php">Micron</a>
+      <a href="http://www.micron.ox.ac.uk/">Micron</a>
       office in the basement of New Biochemistry or the
       <a href="http://www.imm.ox.ac.uk/wimm-research">Wolfson Imaging Centre</a>
       at the WIMM. If you are based at another institution, feel free to send
