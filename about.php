@@ -144,7 +144,7 @@
           <iframe width="280" height="240" frameborder="0"
                   scrolling="no" marginheight="0" marginwidth="0"
                   style="border: 1px solid black"
-                  src="http://www.openstreetmap.org/export/embed.html?bbox=-1.2585192918777468%2C51.75773338577671%2C-1.2514382600784304%2C51.761080335914876&amp;layer=mapnik&amp;marker=51.75940689185718%2C-1.2549787759780884"
+                  src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2585192918777468%2C51.75773338577671%2C-1.2514382600784304%2C51.761080335914876&amp;layer=mapnik&amp;marker=51.75940689185718%2C-1.2549787759780884"
                   >
           </iframe><br/>
           <small>
