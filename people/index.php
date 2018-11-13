@@ -409,6 +409,14 @@
               </td>
             </tr>
 
+                       <tr>
+              <td><h4><a href="/people/Nadia">Nadia Halidi</a></h4>
+               <p><a href="/people/Nadia">
+                     <img src="/images/Nadia.png" alt="Nadia Halidi"
+                       width="60" height="80" ></a>
+                     Nadia is the Assistant Micron Facility manager</p>
+              </td>
+            </tr>
 
             <tr>
               <td><h4><a href="/people/Maryam">Maryam Qurashi</a></h4>
