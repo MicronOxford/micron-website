@@ -114,10 +114,10 @@
        <h3>Download lecture presentations</h3>
 
        <ul>
+         <li><a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2018/">
+             2018 Micron Advanced Microscopy Course</a></li>
          <li><a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2017/">
              2017 Micron Advanced Microscopy Course</a></li>
-         <li><a href="http://downloads.micron.ox.ac.uk/lectures/micron_course_2016/">
-             2016 Micron Advanced Microscopy Course</a></li>
          <li><a href="http://downloads.micron.ox.ac.uk/lectures/onbi_2016-2017/">
              2016/2017 ONBI course</a></li>
        </ul>
