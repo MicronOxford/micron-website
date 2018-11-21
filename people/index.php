@@ -412,8 +412,8 @@
             <tr>
               <td><h4><a href="/people/Nadia">Nadia Halidi</a></h4>
                <p><a href="/people/Nadia">
-                     <img src="/images/Nadia.png" alt="Nadia Halidi"
-                       width="60" height="80" ></a>
+                     <img src="/images/nadia.jpg" alt="Nadia Halidi"
+                       width="66" height="80" ></a>
                      Nadia is the Assistant Micron Facility manager</p>
               </td>
             </tr>
