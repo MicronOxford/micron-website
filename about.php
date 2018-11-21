@@ -115,8 +115,8 @@
             <li><a href="mailto:lothar.schermelleh@bioch.ox.ac.uk">Lothar Schermelleh</a> (Research Fellow):
             <ul><li class="sublist">Tel: +44 (0)1865-613264</li></ul></li>
             <li><a href="mailto:andrew.jefferson@bioch.ox.ac.uk">Andrew Jefferson</a> (Facility Manager):
-            <ul><li class="sublist">Tel: +44 (0)1865-613353</li></ul></li>
-            <li><a href="mailto:carina.monico@bioch.ox.ac.uk">Carina Mónico</a> (Facility manager assistant):
+            <ul><li class="sublist">Tel: +44 (0)1865-613351</li></ul></li>
+            <li><a href="mailto:nadia.halidi@bioch.ox.ac.uk">Nadia Halidi</a> (Facility manager assistant):
             <ul><li class="sublist">Tel: +44 (0)1865-613351</li></ul></li>
             <li><a href="mailto:maryam.qurashi@bioch.ox.ac.uk">Maryam Qurashi</a> (Image Analysis):
             <ul><li class="sublist">Tel: +44 (0)1865-613331</li></ul></li>
