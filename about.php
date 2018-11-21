@@ -117,8 +117,6 @@
             <li><a href="mailto:andrew.jefferson@bioch.ox.ac.uk">Andrew Jefferson</a> (Facility Manager):
             <ul><li class="sublist">Tel: +44 (0)1865-613351</li></ul></li>
             <li><a href="mailto:nadia.halidi@bioch.ox.ac.uk">Nadia Halidi</a> (Facility manager assistant):
-            <ul><li class="sublist">Tel: +44 (0)1865-613351</li></ul></li>
-            <li><a href="mailto:maryam.qurashi@bioch.ox.ac.uk">Maryam Qurashi</a> (Image Analysis):
             <ul><li class="sublist">Tel: +44 (0)1865-613331</li></ul></li>
             <li><a href="mailto:alan.wainman@bioch.ox.ac.uk">Alan Wainman</a> (Dunn School):
             <ul><li class="sublist">Tel: +44 (0)1865-275531</li></ul></li>

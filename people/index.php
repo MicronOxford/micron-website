@@ -356,6 +356,13 @@
                        Cvic was a Micron postdoc shared between Micron and the Schermelleh lab. She is now the Assistant Director of Microscopy and Principal Associate Scientist at Boston Children's Hospital, Cornell University.  </p>
                 </td>
 
+              <td><h4><a href="/people/Maryam">Maryam Qurashi</a></h4>
+                <p><a href="/people/Maryam">
+                    <img src="/images/maryam.jpg" alt="Maryam Qurashi"
+                         width="60" height="80" ></a>
+                  Maryam was a Micron image analysis specialist.
+              </td>
+
           </table>
         </div>
 
@@ -418,14 +425,6 @@
               </td>
             </tr>
 
-            <tr>
-              <td><h4><a href="/people/Maryam">Maryam Qurashi</a></h4>
-                  <p><a href="/people/Maryam">
-                    <img src="/images/maryam.jpg" alt="Maryam Qurashi"
-                      width="60" height="80" ></a>
-                    Maryam is the Micron image analysis specialist
-              </td>
-              </tr>
               <tr>
                             <td><h4><a href="/people/David">David Pinto</a></h4>
                   <p><a href="/people/David">
